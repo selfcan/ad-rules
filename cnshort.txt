@@ -26,6 +26,8 @@
 ||ergengtv.com^
 ||gdatacube.net^
 ||gifshow.com^
+||gllto.glpals.com^
+||gllto.glpals.com.cdn.cloudflare.net^
 ||hcdnw.appdl.c.cdnhwc2.com^
 ||huoshan.com^
 ||huoshanlive.com^
@@ -64,6 +66,7 @@
 ||volcfcdndvs.com^
 ||wangluojiance.gslb.c.cdnhwc6.com^
 ||whoami.akamai.net^
+||wpc.phicdn.net^
 ||xiongzhang.baidu.com^
 ||xycdn.com^
 ||youliao.xunlei.com^
@@ -72,3 +75,5 @@
 ||zijieapi.com^
 ||zlink.toutiao.com.w.cdngslb.com^
 ||zlink.toutiao.com^
+||tt.x.bsgslb.cn^
+||szshort.weixin.qq.com^
