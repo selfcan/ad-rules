@@ -1,6 +1,7 @@
 ! ----Updatetime: 2022-10-24 18:42:22 by:Mr.K----
 ! https://raw.githubusercontent.com/kongfl888/ad-rules/master/cnshort.txt
 
+||alllook.tv^
 ||amemv.com^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||awemeughun.com^
@@ -26,8 +27,8 @@
 ||ergengtv.com^
 ||gdatacube.net^
 ||gifshow.com^
-||gllto.glpals.com^
 ||gllto.glpals.com.cdn.cloudflare.net^
+||gllto.glpals.com^
 ||hcdnw.appdl.c.cdnhwc2.com^
 ||huoshan.com^
 ||huoshanlive.com^
@@ -56,14 +57,18 @@
 ||pstatp.com^
 ||qupai.me^
 ||snssdk.com^
+||sovv.yilanvaas.com ^
+||szshort.weixin.qq.com^
 ||tiktok.com^
 ||tiktokv.com^
+||tt.x.bsgslb.cn^
 ||v.bsgslb.com^
 ||v.kandian.qq.com^
 ||v.weishi.qq.com^
 ||vimg.9game.cn^
 ||viviv.com^
 ||volcfcdndvs.com^
+||volcsiriusbd.com^
 ||wangluojiance.gslb.c.cdnhwc6.com^
 ||whoami.akamai.net^
 ||wpc.phicdn.net^
@@ -75,5 +80,3 @@
 ||zijieapi.com^
 ||zlink.toutiao.com.w.cdngslb.com^
 ||zlink.toutiao.com^
-||tt.x.bsgslb.cn^
-||szshort.weixin.qq.com^
