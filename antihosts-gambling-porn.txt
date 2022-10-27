@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-10-06 21:47:27
+# DATE: 2022-10-27 21:43:24
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -1132,6 +1132,7 @@
 0.0.0.0 abieehan.blogspot.com
 0.0.0.0 abigailmac.puba.com
 0.0.0.0 abigass.com
+0.0.0.0 abimimojo2.com
 0.0.0.0 abitetona.blogspot.com
 0.0.0.0 abl-angels.deluxepass.com
 0.0.0.0 ablackbook.blogspot.com
@@ -1160,6 +1161,7 @@
 0.0.0.0 absolute-filth.tumblr.com
 0.0.0.0 absoluteporno.com
 0.0.0.0 absolutnatalie.blogspot.com
+0.0.0.0 abtrcker.com
 0.0.0.0 abuse.me
 0.0.0.0 abuseme.com
 0.0.0.0 abuvn.cc
@@ -7412,6 +7414,7 @@
 0.0.0.0 chichlive.club
 0.0.0.0 chichlive.com
 0.0.0.0 chichlive.info
+0.0.0.0 chichlive.live
 0.0.0.0 chichlive.top
 0.0.0.0 chichlive.tumblr.com
 0.0.0.0 chichlivehd.online
@@ -7447,6 +7450,7 @@
 0.0.0.0 chiwas-al-desnudo.blogspot.com
 0.0.0.0 chloes-angels.com
 0.0.0.0 cho.sexy
+0.0.0.0 choang.fun
 0.0.0.0 chochox.com
 0.0.0.0 chocolate-bbw.tumblr.com
 0.0.0.0 chocolatemilkqueenb.tumblr.com
@@ -7597,6 +7601,7 @@
 0.0.0.0 cliphotvn.com
 0.0.0.0 cliphunter.com
 0.0.0.0 cliphunter.global
+0.0.0.0 clipnong.pro
 0.0.0.0 clipnong.video
 0.0.0.0 clipnong.xyz
 0.0.0.0 clippussy.com
@@ -10496,6 +10501,7 @@
 0.0.0.0 f6.playv8.vip
 0.0.0.0 f8bet0.com
 0.0.0.0 f8bet5.com
+0.0.0.0 f8betaa.com
 0.0.0.0 f95zone.com
 0.0.0.0 f95zone.to
 0.0.0.0 fa88.win
@@ -12277,6 +12283,7 @@
 0.0.0.0 gamevipclub.fun
 0.0.0.0 gamevipclub.us
 0.0.0.0 gamevui86.com
+0.0.0.0 gamewin79vip.net
 0.0.0.0 gamex8vn.club
 0.0.0.0 gamezy.com
 0.0.0.0 gamhay8live.net
@@ -15065,6 +15072,7 @@
 0.0.0.0 img-9.poringa.net
 0.0.0.0 img-ah.xnxx-cdn.com
 0.0.0.0 img-cf.xnxx-cdn.com
+0.0.0.0 img-cf.xvideos-cdn.com
 0.0.0.0 img-egc.xnxx-cdn.com
 0.0.0.0 img-egc.xvideos.com
 0.0.0.0 img-hw.others-cdn.com
@@ -16094,6 +16102,7 @@
 0.0.0.0 j-pussy.com
 0.0.0.0 j.nozomi.la
 0.0.0.0 j0.wlmediahub.com
+0.0.0.0 j1.jump4geo.com
 0.0.0.0 j1cleoil.site
 0.0.0.0 j3108.com
 0.0.0.0 j655.me
@@ -16987,6 +16996,7 @@
 0.0.0.0 juliensoreltron.tumblr.com
 0.0.0.0 julievalmont.blogspot.com
 0.0.0.0 jumboporn.xyz
+0.0.0.0 jump4geo.com
 0.0.0.0 jun8811.com
 0.0.0.0 jun8822.com
 0.0.0.0 jun88h.com
@@ -20551,6 +20561,7 @@
 0.0.0.0 m0002.gamecopyworld.com
 0.0.0.0 m1.17sexvideo.com
 0.0.0.0 m1.dvdl.net
+0.0.0.0 m1.mtrafficgeo.com
 0.0.0.0 m2.17sexvideo.com
 0.0.0.0 m20.dvdl.net
 0.0.0.0 m3.17sexvideo.com
@@ -22215,6 +22226,7 @@
 0.0.0.0 mt98.mtree.com
 0.0.0.0 mt99.mtree.com
 0.0.0.0 mta-sts.mail2.ahcdn.com
+0.0.0.0 mtrafficgeo.com
 0.0.0.0 mtrc.hitbdsm.com
 0.0.0.0 mtrpr.com
 0.0.0.0 mu9.com
@@ -22840,6 +22852,7 @@
 0.0.0.0 ndayspringssexdiary.blogspot.com
 0.0.0.0 ndcontent.com
 0.0.0.0 ndlc.info
+0.0.0.0 ndtnc.abimimojo2.com
 0.0.0.0 neangel.com
 0.0.0.0 nearhentai.blogspot.com
 0.0.0.0 nearom.com
@@ -22864,6 +22877,7 @@
 0.0.0.0 nekopoi.care
 0.0.0.0 nekotonekotoneko.com
 0.0.0.0 nemo-movies.com
+0.0.0.0 nemo.vin
 0.0.0.0 nenyda.com
 0.0.0.0 neovirgins.com
 0.0.0.0 nerd2extreme.tumblr.com
@@ -23012,7 +23026,10 @@
 0.0.0.0 nhanthuong88.com
 0.0.0.0 nhat.bet
 0.0.0.0 nhat.game
+0.0.0.0 nhatvip.mobi
 0.0.0.0 nhatvip.net
+0.0.0.0 nhatvip.org
+0.0.0.0 nhatvip.us
 0.0.0.0 nhentai.com
 0.0.0.0 nhentai.io
 0.0.0.0 nhentai.net
@@ -26283,6 +26300,7 @@
 0.0.0.0 play.kichduc.to
 0.0.0.0 play.kphim.cc
 0.0.0.0 play.manclub.vin
+0.0.0.0 play.nemo.vin
 0.0.0.0 play.playheovl.xyz
 0.0.0.0 play.playiwin.biz
 0.0.0.0 play.ric.win
@@ -29216,6 +29234,7 @@
 0.0.0.0 saxumeda.angelfire.com
 0.0.0.0 sayuncle.com
 0.0.0.0 sazka.cz
+0.0.0.0 sb-cd.com
 0.0.0.0 sbbs77.tumblr.com
 0.0.0.0 sbc31.com
 0.0.0.0 sbetviet.com
@@ -29383,6 +29402,7 @@
 0.0.0.0 secure.youngmodelscasting.com
 0.0.0.0 secure1.stunningangels.com
 0.0.0.0 securedataimages.com
+0.0.0.0 securedsmcd.com
 0.0.0.0 securemetro.com
 0.0.0.0 securesaferoute.com
 0.0.0.0 seducedangel.com
@@ -35372,6 +35392,7 @@
 0.0.0.0 web.macau.club
 0.0.0.0 web.macauclub.fun
 0.0.0.0 web.mayclub.net
+0.0.0.0 web.nemo.vin
 0.0.0.0 web.nhatvip.net
 0.0.0.0 web.taiv8.com
 0.0.0.0 web.taiv8.top
@@ -41045,6 +41066,7 @@
 0.0.0.0 www.f-mex.blogspot.com
 0.0.0.0 www.f8bet0.com
 0.0.0.0 www.f8bet5.com
+0.0.0.0 www.f8betaa.com
 0.0.0.0 www.f95zone.com
 0.0.0.0 www.f95zone.to
 0.0.0.0 www.fa-pro.com
@@ -44981,6 +45003,7 @@
 0.0.0.0 www.negrasemulatasdobrasil.blogspot.com
 0.0.0.0 www.nekom-nekom.blogspot.com
 0.0.0.0 www.nemo-movies.com
+0.0.0.0 www.nemo.vin
 0.0.0.0 www.nenyda.com
 0.0.0.0 www.neovirgins.com
 0.0.0.0 www.nerdpervert.com
