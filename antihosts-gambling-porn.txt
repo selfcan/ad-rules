@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-11-09 21:43:25
+# DATE: 2022-11-13 21:40:31
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -3039,9 +3039,11 @@
 0.0.0.0 api.f8bet5.com
 0.0.0.0 api.fapinstructor.com
 0.0.0.0 api.i8bet.org
+0.0.0.0 api.i99902.com
 0.0.0.0 api.i99903.com
 0.0.0.0 api.i99908.com
 0.0.0.0 api.i9bet102.com
+0.0.0.0 api.i9bet109.com
 0.0.0.0 api.jerkmate.com
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.luscious.net
@@ -3088,6 +3090,7 @@
 0.0.0.0 app.228kbet.com
 0.0.0.0 app.8kbet.vn
 0.0.0.0 app.betlv.com
+0.0.0.0 app.i99902.com
 0.0.0.0 app.myfreecams.com
 0.0.0.0 app.vx88.com
 0.0.0.0 app.wellviet.net
@@ -8185,6 +8188,7 @@
 0.0.0.0 cw.phncdn.com
 0.0.0.0 cw.rdtcdn.com
 0.0.0.0 cwdporn.com
+0.0.0.0 cwin999.com
 0.0.0.0 cwow.org
 0.0.0.0 cxfakes.com
 0.0.0.0 cyberangels.org
@@ -10499,6 +10503,7 @@
 0.0.0.0 fb88.com
 0.0.0.0 fb88.link
 0.0.0.0 fb88aff.com
+0.0.0.0 fb88affok.com
 0.0.0.0 fb88anh.com
 0.0.0.0 fb88club.com
 0.0.0.0 fb88cup.com
@@ -10507,6 +10512,7 @@
 0.0.0.0 fb88live.com
 0.0.0.0 fb88map.com
 0.0.0.0 fb88max.com
+0.0.0.0 fb88sg.com
 0.0.0.0 fb88sports.com
 0.0.0.0 fb88up.com
 0.0.0.0 fb88viet.com
@@ -14551,10 +14557,12 @@
 0.0.0.0 i8.pc20160301.com
 0.0.0.0 i8bet.org
 0.0.0.0 i9.pc20160301.com
+0.0.0.0 i99902.com
 0.0.0.0 i99903.com
 0.0.0.0 i99906.com
 0.0.0.0 i99908.com
 0.0.0.0 i9bet102.com
+0.0.0.0 i9bet109.com
 0.0.0.0 i9bet444.com
 0.0.0.0 i9bet5.com
 0.0.0.0 i9bet6.com
@@ -18900,7 +18908,6 @@
 0.0.0.0 l-virgin.ws
 0.0.0.0 l2-g.blogspot.com
 0.0.0.0 l3-ad.tumblr.com
-0.0.0.0 l86.pacewear.com
 0.0.0.0 l8xxx.tumblr.com
 0.0.0.0 la-sexcam.fr
 0.0.0.0 la-xxx.com
@@ -20009,6 +20016,7 @@
 0.0.0.0 m.cd-taxi.com
 0.0.0.0 m.chaturbate.com
 0.0.0.0 m.cliphunter.com
+0.0.0.0 m.cwin999.com
 0.0.0.0 m.definefetish.com
 0.0.0.0 m.drtuber.com
 0.0.0.0 m.empflix.com
@@ -20107,7 +20115,6 @@
 0.0.0.0 m.videosz.com
 0.0.0.0 m.viva88.com
 0.0.0.0 m.vlxx.in
-0.0.0.0 m.vlxx.ws
 0.0.0.0 m.vlxxvietsub.net
 0.0.0.0 m.vn88.com
 0.0.0.0 m.vn88hn.live
@@ -20666,6 +20673,7 @@
 0.0.0.0 mb.datingadzone.com
 0.0.0.0 mb.smartmovies.net
 0.0.0.0 mb.wendise.com
+0.0.0.0 mb88.com
 0.0.0.0 mbbg.cc
 0.0.0.0 mbbg.live
 0.0.0.0 mbbg.org
@@ -24765,7 +24773,6 @@
 0.0.0.0 p9.wnppsn.com
 0.0.0.0 pa-mdh.biz
 0.0.0.0 pablosantiago.blogspot.com
-0.0.0.0 pacewear.com
 0.0.0.0 pachbundas.blogspot.com
 0.0.0.0 paci5ka.blogspot.com
 0.0.0.0 pacinocash.com
@@ -25739,7 +25746,6 @@
 0.0.0.0 phimsexxxx.xyz
 0.0.0.0 phimsexy.cyou
 0.0.0.0 phimsexy.info
-0.0.0.0 phimsexy.me
 0.0.0.0 phimsexy.org
 0.0.0.0 phimsexy.pro
 0.0.0.0 phimsexy.top
@@ -25898,7 +25904,6 @@
 0.0.0.0 pic2.emaporn.com
 0.0.0.0 pic2.exiporn.com
 0.0.0.0 pic2.wonporn.net
-0.0.0.0 pic69.me
 0.0.0.0 picadosfamosos.blogspot.com
 0.0.0.0 picafederal.blogspot.com
 0.0.0.0 picahottie.com
@@ -40103,6 +40108,7 @@
 0.0.0.0 www.cutiesintights.com
 0.0.0.0 www.cutiesonweb.blogspot.com
 0.0.0.0 www.cutscenes.net
+0.0.0.0 www.cwin999.com
 0.0.0.0 www.cyberangels.org
 0.0.0.0 www.cybererotica.com
 0.0.0.0 www.cybereroticamobile.com
@@ -41211,6 +41217,7 @@
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88cup.com
 0.0.0.0 www.fb88max.com
+0.0.0.0 www.fb88sg.com
 0.0.0.0 www.fb88sports.com
 0.0.0.0 www.fb88up.com
 0.0.0.0 www.fb88viet.com
@@ -42877,10 +42884,12 @@
 0.0.0.0 www.i18girls.com
 0.0.0.0 www.i2px.com
 0.0.0.0 www.i8bet.org
+0.0.0.0 www.i99902.com
 0.0.0.0 www.i99903.com
 0.0.0.0 www.i99906.com
 0.0.0.0 www.i99908.com
 0.0.0.0 www.i9bet102.com
+0.0.0.0 www.i9bet109.com
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
