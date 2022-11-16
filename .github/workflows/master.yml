@@ -36,7 +36,7 @@ jobs:
         cp -f ./*.txt /tmp/myrules/old || echo ""
         cp -f ./patches/*.txt /tmp/patches
         echo "get-rules.sh"
-        . ./scripts/get-rules.sh
+        sh -x ./scripts/get-rules.sh
         echo "md5files.sh"
         . ./scripts/md5files.sh
         . ./scripts/get-g-p-hosts.sh
