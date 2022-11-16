@@ -2,6 +2,8 @@
 
 psrt=$1
 
+echo "edit rules"
+
 remove_line(){
     [ -e "${1}" ] || exit 0
     [ -e "${2}" ] || exit 0
