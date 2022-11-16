@@ -1,7 +1,9 @@
 #!/bin/sh
 #
-# [K] (C)2020
+# [K] (C)2022
 #
+
+echo "get rules proc"
 
 f_md5() {
     md5sum $1 | cut -d ' ' -f1
