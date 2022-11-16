@@ -72,13 +72,13 @@ oldvmd5="$(f_md5 /tmp/myrules/old/video.txt)"
 newlmd5="$(f_md5 /tmp/myrules/lazy.txt)"
 newvmd5="$(f_md5 /tmp/myrules/video.txt)"
 
-if [ "$oldlmd5" == "$newlmd5" ];then
+if [ "$oldlmd5" = "$newlmd5" ];then
 sed -i "1i${oldh1l}" /tmp/myrules/lazy.txt
 else
 sed -i "1i\! ----Updatetime: $DATE by:Mr.K----" /tmp/myrules/lazy.txt
 fi
 
-if [ "$oldvmd5" == "$newvmd5" ];then
+if [ "$oldvmd5" = "$newvmd5" ];then
 sed -i "1i${oldh1v}" /tmp/myrules/video.txt
 else
 sed -i "1i\! ----Updatetime: $DATE by:Mr.K----" /tmp/myrules/video.txt
