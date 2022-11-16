@@ -30,12 +30,14 @@ jobs:
         git config --global user.name "kongfl888 K"
     - name: Git Init
       run:  |
-        git checkout master
+        git checkout master || echo ""
         mkdir -p /tmp/myrules/old
         mkdir -p /tmp/patches
         cp -f ./*.txt /tmp/myrules/old || echo ""
         cp -f ./patches/*.txt /tmp/patches
+        echo "get-rules.sh"
         . ./scripts/get-rules.sh
+        echo "md5files.sh"
         . ./scripts/md5files.sh
         . ./scripts/get-g-p-hosts.sh
         . ./scripts/get-mal-hosts.sh
