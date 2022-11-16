@@ -18,7 +18,7 @@ wget -q -T10 -t2 --no-check-certificate https://raw.githubusercontent.com/xinggs
 
 wget -q -T10 -t2 --no-check-certificate https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt -O /tmp/myrules/video.txt
 
-wget -q -T10 -t2 --no-check-certificate https://raw.githubusercontent.com/hacamer/AdRule/main/rules-admin.txt /tmp/myrules/tmp/h-admin.txt
+wget -q -T10 -t2 --no-check-certificate https://raw.githubusercontent.com/hacamer/AdRule/main/rules-admin.txt -O /tmp/myrules/tmp/h-admin.txt
 
 [ -s /tmp/myrules/tmp/h-admin.txt ] && cat /tmp/myrules/tmp/h-admin.txt >> /tmp/myrules/lazy.txt
 
