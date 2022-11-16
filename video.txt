@@ -1,73 +1,40 @@
-! ----Updatetime: 2022-11-15 21:39:45 by:Mr.K----
-! Title: 乘风 视频过滤规则
-! Version: 202211151
-! Expires: 1 day
-! Homepage: https://bbs.kafan.cn/thread-1866845-1-1.html
-
-! 屏蔽P2P
-yy.com,le.com##+js(nowebrtc)
-
+! ----Updatetime: 2022-11-16 10:53:48 by:Mr.K----
+! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
-m.youku.com,v.youku.com##+js(nano-stb, r--,, 0.02)
-!m.youku.com,v.youku.com##+js(cookie-remover, cna)
 atm.youku.com
 cad.youku.com
 |https://static.youku.com/index/js/ikuAdapterNew.js
-
-iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
-iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
-m.iqiyi.com##+js(set, Object.prototype.adPlayerId, '')
 apisgame.iqiyi.com
 static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 show.ssports.com
-
 v.qq.com###player  .txp_zt_content
 qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
-qq.com##+js(set,RTCPeerConnection,null)
-qq.com#@#+js(nowebrtc)
-qq.com##+js(no-xhr-if,/trace\.|\/collect/)
-qq.com##+js(no-fetch-if,/trace\.|beacon\./)
-qq.com##+js(json-prune,ads adList.item)
-!qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
-!qq.com##+js(aopr, Beacon.prototype.fail)
 cm.l.qq.com
 ||l.qq.com/lview?
 ||l.qq.com/livemsg?
 ||mark.l.qq.com/fcgi-bin/get_video_mark_all?
 ||gtimg.com/qqlive/
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
-new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 ||news.ssp.qq.com/app
 miaozhen.com
 reachmax.cn
 scorecardresearch.com
 tencentmind.com
 xtgreat.com
-
 bilibili.com##.ad-report, .ad-floor
 cm.bilibili.com
 web-player-tracker.biliapi.net
-
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
-
 cctv.com###bgAd_div
 bjcathay.com
-
 pptv.com##.advView-two,#p-mark
 synacast.com
 de.as.pptv.com
-
-! 风行网： fun.tv
 pub.funshion.com
-
-1905.com##+js(json-prune,videolink)
-
 @@||tb.mgtv.com/sdk/*/ad-sdk.
 ad-survey.com
-!ys.da.mgtv.com
-
 @@||js.tv.itc.cn/gg.seed.js
 ||api.my.tv.sohu.com/wm/getads.do?
 ||aty.sohu.com/
@@ -77,8 +44,6 @@ tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 17173.com###vjs-ad-on-pause
 ||log1.17173.com/
 ||17173.com/batch_show?ads=
-
-le.com##+js(set, isAdLoaded, true)
 ||banana.le.com/
 adxvip.com
 behe.com
@@ -92,60 +57,34 @@ xelements.cn
 yoyi.com.cn
 zhiziyun.com
 le.com##.min_pause_img
-! 视频水印
 le.com##.hv_wm_logo
-
-www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
-douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
 wan.douyu.com
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 huya.com###hy-ad,#hy-ab,#huya-ab
 g.huya.com
-
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 litix.io
 ||onetrust.
-
 youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
 youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
-youtube.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
-youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
 ||youtube.com/pagead/
 ||youtube.com/ptracking?
 ||google.*/pagead/
 ||gstatic.com/shopping?
-
 91p20.space
 waust.at
-
 jads.co
-!btsow.click##+js(aeld, click, popunder)
-! 2022 https://rarbgprx.org
 statsy.net
-
-age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
 cdn.sosrom.cn
-hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
-
-! www.haitu.tv##+js(set, document.writeln, noopFunc)
-
-dandanzan10.top,nunuyy3.org##+js(set,RTCPeerConnection,null)
-dandanzan10.top,nunuyy3.org##+js(set,webkitRTCPeerConnection,null)
-dandanzan10.top,nunuyy3.org##+js(set,mozRTCPeerConnection,null)
-dandanzan10.top,nunuyy3.org#@#+js(nowebrtc)
 dandanzan10.top,nunuyy3.org##.gm-fp-body video:style(max-height:100%!important)
 aqours.today
 mediaadjustment.com
 stgowan.com
 trustedgatetocontent.com
-
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
-netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
 4kya.com###player_pause
-
-yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ch-hr12333.com
 cppoc.com
 g1c5.com
@@ -156,18 +95,19 @@ quickapp.cn
 v4dwkcv.com
 weizhenwx.com
 youle55.com
-
 bixinlive.com
 quandangdang.net
 @@||mmstat.com^$domain=youku.com
 ||cibntv.net/youku/$media,important
 ||sealine.youku.com/yk/*callback=adpagesdk$script
 ||static.iqiyi.com/js/common/mars_v.js$script
+||iqiyi.com/videos/other/202$xmlhttprequest
+||71edge.com/videos/other/202$xmlhttprequest
 ||iqiyipic.com/image/20*_100000$image
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
-!||ssp.qq.com/static/web/websites/pcnewsplugin/sspad_$script
 @@||g.w.bilicdn1.com/$script,domain=bilibili.com
+||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||hdslb.com/bfs/sycp/creative_img/$image
 ||imall.cctv.com/$subdocument
 ||g.pptv.com/game/$subdocument
@@ -188,6 +128,7 @@ quandangdang.net
 @@||dyncdn.me/static/20/js/jquery$script
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
+||toutiaoimg.com/origin/$image,domain=mgtv1.tv|agemys.net|acgndmku.com|subaibaiys.com
 @@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
 ||wp.com/netflixya.com/upload/$image
 ||yanetflix.com/upload/vod/$image
