@@ -31,7 +31,7 @@ sed -i -r -e 's/#.*//' -e '/^\s*$/d' $htxt
 cp -f $oldhtxt /tmp/malhosts_old.txt
 sed -i -r -e 's/#.*//' -e '/^\s*$/d' /tmp/malhosts_old.txt
 
-if [ "$(f_md5 /tmp/malhosts_old.txt)" == "$(f_md5 $htxt)" ];then
+if [ "$(f_md5 /tmp/malhosts_old.txt)" = "$(f_md5 $htxt)" ];then
 cp -f $oldhtxt $htxt
 else
 DATE=`date +%Y-%m-%d\ %H:%M:%S`

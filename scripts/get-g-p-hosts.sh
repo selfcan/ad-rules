@@ -31,7 +31,7 @@ fi
 sed -i -r -e '/^\s*$/d' -e 's/#.*//' $htxt
 sed -i -r '/^[\s ]*$/d' $htxt
 
-if [ "$(f_md5 $oldhtxt1)" == "$(f_md5 $htxt)" ];then
+if [ "$(f_md5 $oldhtxt1)" = "$(f_md5 $htxt)" ];then
 cp -f $oldhtxt $htxt
 else
 DATE=`date +%Y-%m-%d\ %H:%M:%S`
