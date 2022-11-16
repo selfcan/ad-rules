@@ -15,8 +15,8 @@ mkdir -p /tmp/myrules/old
 
 touch $htxt
 touch $oldhtxt
-cp -f $oldhtxt $oldhtxt1
-sed -i '1,4d' $oldhtxt1
+#cp -f $oldhtxt $oldhtxt1
+#sed -i '1,4d' $oldhtxt1
 
 wget -q -T10 -t2 --no-check-certificate https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/MalwareDomainList.com/master/output/domains.list/hosts/ACTIVE/hosts -O /tmp/malhosts.txt
 
