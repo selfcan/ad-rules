@@ -12,7 +12,8 @@ remove_line(){
 }
 
 clear_ill(){
-	 grep -E '\$(image|script|object|media|domain=.*|subdocument)(,(important|domain=[0-9a-zA-Z\.\~]+))?$' ${1} > /tmp/cl1.txt
+	 grep -E '\$[~]{0,1}(image|script|object|media|domain=.*|subdocument|third-party|xmlhttprequest)(,(important|third-party|domain=[0-9a-zA-Z\.\~\|]+))?$' ${1} > /tmp/cl1.txt
+	 sed -i '/+js(/d' ${1}
 	 sed -i -r '/\$.+/d' ${1}
 	 echo "" >> ${1}
 	 cat /tmp/cl1.txt >> ${1}
