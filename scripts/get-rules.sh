@@ -61,6 +61,9 @@ cp -f /tmp/myrules/video.txt /tmp/myrules/video2.txt
 
 sh $GITHUB_WORKSPACE/scripts/edit.sh
 
+sed -i -r "/^\s*$/d" /tmp/myrules/lazy.txt
+sed -i -r "/^\s*$/d" /tmp/myrules/video.txt
+
 DATE=`date +%Y-%m-%d\ %H:%M:%S`
 
 oldlmd5="$(f_md5 /tmp/myrules/old/lazy.txt)"
