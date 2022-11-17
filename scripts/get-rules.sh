@@ -61,9 +61,6 @@ cp -f /tmp/myrules/video.txt /tmp/myrules/video2.txt
 
 sh $GITHUB_WORKSPACE/scripts/edit.sh
 
-sed -i "1i\! Modified from xinggsf,hacamer.Thanks" /tmp/myrules/lazy.txt
-sed -i "1i\! Modified from xinggsf.Thanks" /tmp/myrules/video.txt
-
 DATE=`date +%Y-%m-%d\ %H:%M:%S`
 
 oldlmd5="$(f_md5 /tmp/myrules/old/lazy.txt)"
@@ -71,6 +68,9 @@ oldvmd5="$(f_md5 /tmp/myrules/old/video.txt)"
 
 newlmd5="$(f_md5 /tmp/myrules/lazy.txt)"
 newvmd5="$(f_md5 /tmp/myrules/video.txt)"
+
+sed -i "1i\! Modified from xinggsf,hacamer.Thanks" /tmp/myrules/lazy.txt
+sed -i "1i\! Modified from xinggsf.Thanks" /tmp/myrules/video.txt
 
 if [ "$oldlmd5" = "$newlmd5" ];then
 sed -i "1i${oldh1l}" /tmp/myrules/lazy.txt
