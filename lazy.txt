@@ -975,7 +975,6 @@ xda-developers.com###purch-parent-ad-container-id
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 ||api.zhihu.com/answers/*/comments/featured-comment-ad
 ||api.browser.miui.com/bsr/update/banners/v2
-
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 ||cpro.$domain=~baidu.com
 ||sp0.baidu.com/$third-party
