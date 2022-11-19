@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2022-11-16 10:53:48
+! Version: 2022-11-19 21:38:50
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -29,8 +29,12 @@ static.g.iqiyi.com
 show.ssports.com
 v.qq.com###player  .txp_zt_content
 qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
-qq.com##+js(set,RTCPeerConnection,null)
 qq.com#@#+js(nowebrtc)
+video.qq.com#@#+js(set,RTCPeerConnection,null)
+video.qq.com#@#+js(no-xhr-if,/trace\.|\/collect/)
+video.qq.com#@#+js(no-fetch-if,/trace\.|beacon\./)
+video.qq.com#@#+js(json-prune,ads adList.item)
+qq.com##+js(set,RTCPeerConnection,null)
 qq.com##+js(no-xhr-if,/trace\.|\/collect/)
 qq.com##+js(no-fetch-if,/trace\.|beacon\./)
 qq.com##+js(json-prune,ads adList.item)
@@ -54,7 +58,6 @@ bilibili.com##.ad-report, .ad-floor
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||hdslb.com/bfs/sycp/creative_img/$image
 cm.bilibili.com
-web-player-tracker.biliapi.net
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
 cctv.com###bgAd_div

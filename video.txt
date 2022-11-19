@@ -1,4 +1,4 @@
-! ----Updatetime: 2022-11-16 21:39:31 by:Mr.K----
+! ----Updatetime: 2022-11-19 21:38:50 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -24,7 +24,6 @@ tencentmind.com
 xtgreat.com
 bilibili.com##.ad-report, .ad-floor
 cm.bilibili.com
-web-player-tracker.biliapi.net
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
 cctv.com###bgAd_div
