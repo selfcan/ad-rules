@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-11-20 21:39:01
+# DATE: 2022-11-21 21:41:19
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -1498,7 +1498,6 @@
 0.0.0.0 affiliates.vw250.com
 0.0.0.0 affiliation-int.com
 0.0.0.0 affiliation.porn.fr
-0.0.0.0 affk8.com
 0.0.0.0 affk8top.com
 0.0.0.0 affk8viet.com
 0.0.0.0 affk8vina.com
@@ -10470,7 +10469,6 @@
 0.0.0.0 fbbtop100.com
 0.0.0.0 fbjav.com
 0.0.0.0 fbw.11bet.us
-0.0.0.0 fbw.lucky88.net
 0.0.0.0 fc1.fcb88d.com
 0.0.0.0 fc2.fcb88d.com
 0.0.0.0 fcb8.club
@@ -12954,7 +12952,6 @@
 0.0.0.0 h2porn.com
 0.0.0.0 h3bet.com
 0.0.0.0 h5.kmbb70.com
-0.0.0.0 h5.xinh1.com
 0.0.0.0 haamsap-revived.tumblr.com
 0.0.0.0 haarige-angelegenheit.de
 0.0.0.0 haels.blogspot.com
@@ -19899,7 +19896,6 @@
 0.0.0.0 lvbet.pl
 0.0.0.0 lvs.streamray.com
 0.0.0.0 lxax.com
-0.0.0.0 lxhentai.com
 0.0.0.0 lydia-ramirez.blogspot.com
 0.0.0.0 lynxdollars.com
 0.0.0.0 lyrics.filestube.com
@@ -32880,7 +32876,6 @@
 0.0.0.0 tik-tok.porn
 0.0.0.0 tik-tok.virgin-anal.xyz
 0.0.0.0 tik.porn
-0.0.0.0 tiki.socvip9.club
 0.0.0.0 tim1.pixytube.com
 0.0.0.0 tim2.pixytube.com
 0.0.0.0 tim3.pixytube.com
