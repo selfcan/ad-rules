@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-11-21 21:41:19
+# DATE: 2022-11-26 21:38:10
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -96,6 +96,7 @@
 0.0.0.0 11bet.net
 0.0.0.0 11bet.online
 0.0.0.0 11bet.us
+0.0.0.0 11bet.vin
 0.0.0.0 11bet.win
 0.0.0.0 11freeporn.blogspot.com
 0.0.0.0 11inchesbuffed.tumblr.com
@@ -786,6 +787,7 @@
 0.0.0.0 8xbet.com
 0.0.0.0 8xbet.fun
 0.0.0.0 8xbet.games
+0.0.0.0 8xbet.tv
 0.0.0.0 8xbet.win
 0.0.0.0 8xbet.xyz
 0.0.0.0 8xbet05.com
@@ -3029,11 +3031,13 @@
 0.0.0.0 api.i99908.com
 0.0.0.0 api.i9bet102.com
 0.0.0.0 api.i9bet105.com
+0.0.0.0 api.i9bet108.com
 0.0.0.0 api.i9bet109.com
 0.0.0.0 api.jerkmate.com
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.luscious.net
 0.0.0.0 api.mc876.com
+0.0.0.0 api.mu9.club
 0.0.0.0 api.mu9.com
 0.0.0.0 api.newbienudes.com
 0.0.0.0 api.ng-source.com
@@ -3041,11 +3045,13 @@
 0.0.0.0 api.oppa88888888.com
 0.0.0.0 api.pornhub.com
 0.0.0.0 api.red88.us
+0.0.0.0 api.red88.vin
 0.0.0.0 api.redgifs.com
 0.0.0.0 api.scrolller.com
 0.0.0.0 api.shbet0.com
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.simply-hentai.com
+0.0.0.0 api.sky88.fun
 0.0.0.0 api.t8bet999.com
 0.0.0.0 api.t8betvip.com
 0.0.0.0 api.v79top.com
@@ -4038,6 +4044,7 @@
 0.0.0.0 batsbak.tumblr.com
 0.0.0.0 bawdybetty.blogspot.com
 0.0.0.0 bayofpleasure.com
+0.0.0.0 bayvip.tv
 0.0.0.0 bazoocam.org
 0.0.0.0 bb.camsoda.com
 0.0.0.0 bb11.live
@@ -4942,6 +4949,7 @@
 0.0.0.0 blogdasbundasmaisgostosas.blogspot.com
 0.0.0.0 blogdascaxorras.net
 0.0.0.0 blogdotadosdanet.blogspot.com
+0.0.0.0 blogf8bet.com
 0.0.0.0 blogfamososnus.com
 0.0.0.0 bloggeronbooze.blogspot.com
 0.0.0.0 bloggingbits.com
@@ -8222,6 +8230,7 @@
 0.0.0.0 da.pornrabbit.com
 0.0.0.0 dabanh.thethaofb88.com
 0.0.0.0 dabet.me
+0.0.0.0 dabet.top
 0.0.0.0 dabet.win
 0.0.0.0 dabong.thethaofb88.com
 0.0.0.0 dacash.com
@@ -8545,6 +8554,7 @@
 0.0.0.0 deluxeblondes.com
 0.0.0.0 deluxewifes.com
 0.0.0.0 demible.info
+0.0.0.0 demnay.com
 0.0.0.0 demonqueen.blogspot.com
 0.0.0.0 demonroyal.blogspot.com
 0.0.0.0 denisenkov.org
@@ -9015,6 +9025,7 @@
 0.0.0.0 download-free-paris-hilton-sex-tape.blogspot.com
 0.0.0.0 download-free-paris-hilton-video.blogspot.com
 0.0.0.0 download-porn-movies.blogspot.com
+0.0.0.0 download.bayvip.tv
 0.0.0.0 downloadfromxvideos.com
 0.0.0.0 downloadpornmovies4u.blogspot.com
 0.0.0.0 downloadpornogratis.blogspot.com
@@ -10205,7 +10216,14 @@
 0.0.0.0 f5.playv8.vip
 0.0.0.0 f6.macauclub.fun
 0.0.0.0 f6.playv8.vip
+0.0.0.0 f8bet.com
+0.0.0.0 f8bet.site
+0.0.0.0 f8bet.win
 0.0.0.0 f8bet0.com
+0.0.0.0 f8bet1.com
+0.0.0.0 f8bet2.com
+0.0.0.0 f8bet3.com
+0.0.0.0 f8bet4.com
 0.0.0.0 f8bet5.com
 0.0.0.0 f8betaa.com
 0.0.0.0 f95zone.com
@@ -10216,6 +10234,7 @@
 0.0.0.0 faapy.com
 0.0.0.0 fab-one2up.blogspot.com
 0.0.0.0 faber.de
+0.0.0.0 fabet.biz
 0.0.0.0 fabet.com
 0.0.0.0 fabet.me
 0.0.0.0 fabet.tv
@@ -10475,6 +10494,7 @@
 0.0.0.0 fcb8.com
 0.0.0.0 fcb8.fun
 0.0.0.0 fcb8.vip
+0.0.0.0 fcb8.win
 0.0.0.0 fcb88.com
 0.0.0.0 fcb88d.com
 0.0.0.0 fchat.net
@@ -14498,8 +14518,10 @@
 0.0.0.0 i99908.com
 0.0.0.0 i9bet102.com
 0.0.0.0 i9bet105.com
+0.0.0.0 i9bet108.com
 0.0.0.0 i9bet109.com
 0.0.0.0 i9bet111.com
+0.0.0.0 i9bet26.com
 0.0.0.0 i9bet444.com
 0.0.0.0 i9bet5.com
 0.0.0.0 i9bet6.com
@@ -14877,7 +14899,9 @@
 0.0.0.0 img.lucky88.net
 0.0.0.0 img.may88.club
 0.0.0.0 img.may88.com
+0.0.0.0 img.may88.top
 0.0.0.0 img.mediacnt.com
+0.0.0.0 img.mu9.club
 0.0.0.0 img.mu9.com
 0.0.0.0 img.myhdjav.net
 0.0.0.0 img.only40.com
@@ -14890,6 +14914,7 @@
 0.0.0.0 img.pornhub.com
 0.0.0.0 img.pornobomba.vip
 0.0.0.0 img.pornxp.com
+0.0.0.0 img.red88.vin
 0.0.0.0 img.rule34.xxx
 0.0.0.0 img.schoolgirlsexpics.com
 0.0.0.0 img.sopornvideos.com
@@ -18775,8 +18800,10 @@
 0.0.0.0 ktovn.com
 0.0.0.0 ku11.link
 0.0.0.0 ku11.me
+0.0.0.0 ku11.net
 0.0.0.0 ku11.org
 0.0.0.0 ku11.pro
+0.0.0.0 ku19.net
 0.0.0.0 ku558.net
 0.0.0.0 ku6101.net
 0.0.0.0 ku6106.net
@@ -18809,6 +18836,7 @@
 0.0.0.0 kubet9.net
 0.0.0.0 kubetae.com
 0.0.0.0 kucasino68.net
+0.0.0.0 kucasinovn.asia
 0.0.0.0 kuclub9.com
 0.0.0.0 kufun.live
 0.0.0.0 kufun.me
@@ -19810,6 +19838,7 @@
 0.0.0.0 lucky88.org
 0.0.0.0 lucky88.tv
 0.0.0.0 lucky88.uk
+0.0.0.0 lucky88.vin
 0.0.0.0 lucky88.win
 0.0.0.0 luckycasino.com
 0.0.0.0 luckycharmbingo.com
@@ -19984,6 +20013,7 @@
 0.0.0.0 m.nova88.com
 0.0.0.0 m.nudexxxpictures.com
 0.0.0.0 m.ole777vietnam.com
+0.0.0.0 m.oleviet777.com
 0.0.0.0 m.oppa888.com
 0.0.0.0 m.perfectgirls.net
 0.0.0.0 m.perfektdamen.co
@@ -20013,6 +20043,7 @@
 0.0.0.0 m.spankbang.com
 0.0.0.0 m.sunporno.com
 0.0.0.0 m.taianhsex.com
+0.0.0.0 m.tf88265.com
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.thegay.porn
 0.0.0.0 m.tnaflix.com
@@ -20036,6 +20067,7 @@
 0.0.0.0 m.vnloto.com
 0.0.0.0 m.vnloto.vip
 0.0.0.0 m.vntop88.com
+0.0.0.0 m.vuabet88.org
 0.0.0.0 m.vz79.com
 0.0.0.0 m.w88ac.com
 0.0.0.0 m.w88banh.com
@@ -20058,6 +20090,7 @@
 0.0.0.0 m0002.gamecopyworld.com
 0.0.0.0 m1.17sexvideo.com
 0.0.0.0 m1.dvdl.net
+0.0.0.0 m1.may88d.com
 0.0.0.0 m2.17sexvideo.com
 0.0.0.0 m20.dvdl.net
 0.0.0.0 m3.17sexvideo.com
@@ -20572,6 +20605,7 @@
 0.0.0.0 maxxxhits.com
 0.0.0.0 may88.club
 0.0.0.0 may88.com
+0.0.0.0 may88.top
 0.0.0.0 may88.vip
 0.0.0.0 may88.win
 0.0.0.0 mayansports.eu
@@ -21172,6 +21206,7 @@
 0.0.0.0 mo.faporn.pro
 0.0.0.0 mo.porno666.sex
 0.0.0.0 moanogamy.tumblr.com
+0.0.0.0 mobi.oleviet777.com
 0.0.0.0 mobiblog.cc
 0.0.0.0 mobiblog.net
 0.0.0.0 mobiblog.us
@@ -21699,6 +21734,7 @@
 0.0.0.0 mtrc.hitbdsm.com
 0.0.0.0 mtrpr.com
 0.0.0.0 mtruyen18.com
+0.0.0.0 mu9.club
 0.0.0.0 mu9.com
 0.0.0.0 mu9.fun
 0.0.0.0 mu9.vip
@@ -22307,6 +22343,7 @@
 0.0.0.0 naughtyteenvids.com
 0.0.0.0 naughtywebcams.com
 0.0.0.0 nayporno.blogspot.com
+0.0.0.0 nbet.club
 0.0.0.0 nbet.com
 0.0.0.0 nbet.top
 0.0.0.0 nbet.vip
@@ -23317,6 +23354,7 @@
 0.0.0.0 oldyounghub.com
 0.0.0.0 ole12.com
 0.0.0.0 ole777vietnam.com
+0.0.0.0 oleviet777.com
 0.0.0.0 olg.ca
 0.0.0.0 olgasangels.net
 0.0.0.0 olgslotsandcasinos.ca
@@ -23358,6 +23396,7 @@
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
 0.0.0.0 one88.me
+0.0.0.0 one88.top
 0.0.0.0 one88.us
 0.0.0.0 one88.vip
 0.0.0.0 one88.win
@@ -23592,6 +23631,7 @@
 0.0.0.0 oxbet.club
 0.0.0.0 oxbet.com
 0.0.0.0 oxbet.net
+0.0.0.0 oxbet.top
 0.0.0.0 oxbet.win
 0.0.0.0 oxbetd.com
 0.0.0.0 oxfol.tumblr.com
@@ -25168,7 +25208,6 @@
 0.0.0.0 phim-sec.net
 0.0.0.0 phim-sec.pro
 0.0.0.0 phim-set-hay.pro
-0.0.0.0 phim-set.com
 0.0.0.0 phim-set.me
 0.0.0.0 phim-set.pro
 0.0.0.0 phim-sex-hay.me
@@ -26157,6 +26196,7 @@
 0.0.0.0 player.javdisk.com
 0.0.0.0 player.javmec.com
 0.0.0.0 player.ole777vietnam.com
+0.0.0.0 player.oleviet777.com
 0.0.0.0 player.pornogaygratis.net
 0.0.0.0 player2.hanime.tv
 0.0.0.0 player3.hanime.tv
@@ -28259,6 +28299,7 @@
 0.0.0.0 red88.com
 0.0.0.0 red88.uk
 0.0.0.0 red88.us
+0.0.0.0 red88.vin
 0.0.0.0 redangel.hu
 0.0.0.0 redangels.se
 0.0.0.0 redbeeg.com
@@ -28713,6 +28754,7 @@
 0.0.0.0 s.sankakucomplex.com
 0.0.0.0 s.teennakedporn.com
 0.0.0.0 s.trupornolabs.org
+0.0.0.0 s.vnchich.net
 0.0.0.0 s.wlresources.com
 0.0.0.0 s.xxxadulttorrent.org
 0.0.0.0 s.xxxsexyteens.net
@@ -28761,6 +28803,7 @@
 0.0.0.0 s3xads.com
 0.0.0.0 s3xcore.tumblr.com
 0.0.0.0 s3xua.com
+0.0.0.0 s3xvn.com
 0.0.0.0 s4.femefun.com
 0.0.0.0 s4.trafficdeposit.com
 0.0.0.0 s5.cloudembed.net
@@ -29439,6 +29482,7 @@
 0.0.0.0 sexei.net
 0.0.0.0 sexemulator.com
 0.0.0.0 sexetube.pro
+0.0.0.0 sexf8.com
 0.0.0.0 sexfans.org
 0.0.0.0 sexfg.com
 0.0.0.0 sexfilm.best
@@ -30527,6 +30571,7 @@
 0.0.0.0 simpsons.porn
 0.0.0.0 simpsonsonly.booru.org
 0.0.0.0 simpsonsporn.us
+0.0.0.0 sin88.bet
 0.0.0.0 sin88.biz
 0.0.0.0 sin88.club
 0.0.0.0 sin88.mobi
@@ -30633,6 +30678,7 @@
 0.0.0.0 skrog.net
 0.0.0.0 sksawi.info
 0.0.0.0 sky88.com
+0.0.0.0 sky88.fun
 0.0.0.0 sky88.top
 0.0.0.0 sky88.uk
 0.0.0.0 sky88.win
@@ -30814,9 +30860,12 @@
 0.0.0.0 socialmediapornstars.com
 0.0.0.0 socialsexnetwork.net
 0.0.0.0 society.gg
+0.0.0.0 sock.mu9.club
 0.0.0.0 sock.mu9.com
 0.0.0.0 sock.red88.com
 0.0.0.0 sock.red88.us
+0.0.0.0 sock.red88.vin
+0.0.0.0 sock.sky88.fun
 0.0.0.0 socket.static.reallifecam.com
 0.0.0.0 socoroas.net
 0.0.0.0 socvip.com
@@ -31602,8 +31651,10 @@
 0.0.0.0 sv.pornrabbit.com
 0.0.0.0 sv.xhamster.com
 0.0.0.0 sv1.sv88.vip
+0.0.0.0 sv1.sv88d.com
 0.0.0.0 sv88.club
 0.0.0.0 sv88.com
+0.0.0.0 sv88.vin
 0.0.0.0 sv88.vip
 0.0.0.0 sveacasino.se
 0.0.0.0 svedalacasino.com
@@ -31905,6 +31956,7 @@
 0.0.0.0 tb3.sb-cd.com
 0.0.0.0 tb4.sb-cd.com
 0.0.0.0 tb5.sb-cd.com
+0.0.0.0 tbab395.com
 0.0.0.0 tbh-horny.tumblr.com
 0.0.0.0 tbib.org
 0.0.0.0 tblop.com
@@ -33505,6 +33557,7 @@
 0.0.0.0 truyensex88.info
 0.0.0.0 truyensexhay.info
 0.0.0.0 truyensexvip.com
+0.0.0.0 truyenthongthongtin.com
 0.0.0.0 truyentranhgay.com
 0.0.0.0 truyentructuyen.com
 0.0.0.0 truyenvina.com
@@ -34927,14 +34980,18 @@
 0.0.0.0 vn.javbabe.net
 0.0.0.0 vn.ku6101.net
 0.0.0.0 vn.ku6106.net
+0.0.0.0 vn.ku6108.net
 0.0.0.0 vn.ku6110.net
 0.0.0.0 vn.ku6123.net
+0.0.0.0 vn.ku6126.net
 0.0.0.0 vn.ku6131.net
+0.0.0.0 vn.ku6133.net
 0.0.0.0 vn.pg.bet
 0.0.0.0 vn.phimsexsub.info
 0.0.0.0 vn.sol999.com
 0.0.0.0 vn.solarbet.com
 0.0.0.0 vn.solbet88.com
+0.0.0.0 vn.tbab556.com
 0.0.0.0 vn.vndbetway.com
 0.0.0.0 vn138viet.com
 0.0.0.0 vn34.com
@@ -34956,6 +35013,7 @@
 0.0.0.0 vn969.com
 0.0.0.0 vnanchoi.ca
 0.0.0.0 vnbiz88.com
+0.0.0.0 vnchich.com
 0.0.0.0 vnchich.net
 0.0.0.0 vnclub88.live
 0.0.0.0 vnd188.app
@@ -35083,6 +35141,7 @@
 0.0.0.0 vua1005.club
 0.0.0.0 vua88.club
 0.0.0.0 vuabai9.com
+0.0.0.0 vuabet88.org
 0.0.0.0 vuaclub1008.club
 0.0.0.0 vuagaigoi.org
 0.0.0.0 vuasex.club
@@ -35728,8 +35787,10 @@
 0.0.0.0 wowyoungporn.com
 0.0.0.0 wp.mu9.win
 0.0.0.0 wp.red88.us
+0.0.0.0 wp.red88.vin
 0.0.0.0 wp.rikvip.tv
 0.0.0.0 wp.rikvipp.net
+0.0.0.0 wp.sky88.fun
 0.0.0.0 wp.yourlustmedia.com
 0.0.0.0 wporncomics.com
 0.0.0.0 wqw.planetsuzy.org
@@ -36159,6 +36220,7 @@
 0.0.0.0 www.8thstreetlatinas.com
 0.0.0.0 www.8x055.com
 0.0.0.0 www.8xbet.fun
+0.0.0.0 www.8xbet.tv
 0.0.0.0 www.8xbet.xyz
 0.0.0.0 www.8xbet05.com
 0.0.0.0 www.8xbet115.com
@@ -38868,6 +38930,7 @@
 0.0.0.0 www.blogbugs.org
 0.0.0.0 www.blogdasbundasmaisgostosas.blogspot.com
 0.0.0.0 www.blogdotadosdanet.blogspot.com
+0.0.0.0 www.blogf8bet.com
 0.0.0.0 www.bloggeronbooze.blogspot.com
 0.0.0.0 www.bloggingmysins.blogspot.com
 0.0.0.0 www.bloggostoso.blogspot.com
@@ -40975,7 +41038,14 @@
 0.0.0.0 www.ezstreetsports.com
 0.0.0.0 www.eztzvuzvuz.info
 0.0.0.0 www.f-mex.blogspot.com
+0.0.0.0 www.f8bet.com
+0.0.0.0 www.f8bet.site
+0.0.0.0 www.f8bet.win
 0.0.0.0 www.f8bet0.com
+0.0.0.0 www.f8bet1.com
+0.0.0.0 www.f8bet2.com
+0.0.0.0 www.f8bet3.com
+0.0.0.0 www.f8bet4.com
 0.0.0.0 www.f8bet5.com
 0.0.0.0 www.f8betaa.com
 0.0.0.0 www.f95zone.com
@@ -41119,6 +41189,7 @@
 0.0.0.0 www.fax-portal.blogspot.com
 0.0.0.0 www.fb88.link
 0.0.0.0 www.fb88aff.com
+0.0.0.0 www.fb88affok.com
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88cup.com
 0.0.0.0 www.fb88max.com
@@ -42795,8 +42866,10 @@
 0.0.0.0 www.i99908.com
 0.0.0.0 www.i9bet102.com
 0.0.0.0 www.i9bet105.com
+0.0.0.0 www.i9bet108.com
 0.0.0.0 www.i9bet109.com
 0.0.0.0 www.i9bet111.com
+0.0.0.0 www.i9bet26.com
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
@@ -45299,6 +45372,7 @@
 0.0.0.0 www.olduvsen.cz
 0.0.0.0 www.oldyounghub.com
 0.0.0.0 www.ole777vietnam.com
+0.0.0.0 www.oleviet777.com
 0.0.0.0 www.olg.ca
 0.0.0.0 www.olgasangels.net
 0.0.0.0 www.olgslotsandcasinos.ca
@@ -47456,6 +47530,7 @@
 0.0.0.0 www.s.angelo.over-blog.org
 0.0.0.0 www.s1s1s1.com
 0.0.0.0 www.s3xads.com
+0.0.0.0 www.s3xvn.com
 0.0.0.0 www.s7lob.com
 0.0.0.0 www.s7lob.net
 0.0.0.0 www.s9996.com
@@ -47747,6 +47822,7 @@
 0.0.0.0 www.sexedtalk.com
 0.0.0.0 www.sexei.net
 0.0.0.0 www.sexetube.pro
+0.0.0.0 www.sexf8.com
 0.0.0.0 www.sexfans.org
 0.0.0.0 www.sexfg.com
 0.0.0.0 www.sexfilme.net
@@ -48677,6 +48753,7 @@
 0.0.0.0 www.taxi69.com
 0.0.0.0 www.taxidrivermovie.com
 0.0.0.0 www.taxindecente.com
+0.0.0.0 www.tbab395.com
 0.0.0.0 www.tblop.com
 0.0.0.0 www.tdarkangel.com
 0.0.0.0 www.teachtwinks.com
@@ -49270,6 +49347,7 @@
 0.0.0.0 www.trustyfine.com
 0.0.0.0 www.truthaboutsluts.blogspot.com
 0.0.0.0 www.truthordarepics.com
+0.0.0.0 www.truyenthongthongtin.com
 0.0.0.0 www.tryboobs.com
 0.0.0.0 www.tryebonysex.com
 0.0.0.0 www.tryhotporn.com
@@ -50913,6 +50991,7 @@
 0.0.0.0 www.zmature.com
 0.0.0.0 www.zmut.com
 0.0.0.0 www.zodiacu.com
+0.0.0.0 www.zohup.com
 0.0.0.0 www.zoig.com
 0.0.0.0 www.zoltan79-barbetta.blogspot.com
 0.0.0.0 www.zombieporn.blogspot.com
@@ -51532,6 +51611,7 @@
 0.0.0.0 xnxxzooporn.com
 0.0.0.0 xnxxzz.net
 0.0.0.0 xo88.com
+0.0.0.0 xo88.fun
 0.0.0.0 xoac69.xyz
 0.0.0.0 xogogo.com
 0.0.0.0 xold.net
@@ -51710,6 +51790,7 @@
 0.0.0.0 xvideos6.com
 0.0.0.0 xvideos69.com.br
 0.0.0.0 xvideos8.org
+0.0.0.0 xvideos888.net
 0.0.0.0 xvideos9.com
 0.0.0.0 xvideos98.xxx
 0.0.0.0 xvideosamador.blogspot.com
@@ -52365,7 +52446,6 @@
 0.0.0.0 yetiporntube.com
 0.0.0.0 yetisblog.com
 0.0.0.0 yeu3x.com
-0.0.0.0 yeulien.com
 0.0.0.0 yeusex.me
 0.0.0.0 yeusex.net
 0.0.0.0 yeusex.org
@@ -52787,6 +52867,7 @@
 0.0.0.0 zo88.org
 0.0.0.0 zodiacu.com
 0.0.0.0 zoelover.com
+0.0.0.0 zohup.com
 0.0.0.0 zohup.net
 0.0.0.0 zoig.com
 0.0.0.0 zoiofilmesadulto.com
