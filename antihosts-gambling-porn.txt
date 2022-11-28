@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-11-26 21:38:10
+# DATE: 2022-11-28 21:38:35
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -600,6 +600,7 @@
 0.0.0.0 6677444.com
 0.0.0.0 668dg.net
 0.0.0.0 668kbet.com
+0.0.0.0 66ko9.com
 0.0.0.0 6789live.com
 0.0.0.0 68b3.club
 0.0.0.0 68rich.com
@@ -1443,7 +1444,9 @@
 0.0.0.0 ae788.bet
 0.0.0.0 ae888.11bet.life
 0.0.0.0 ae888.com
+0.0.0.0 ae88859.com
 0.0.0.0 ae888i.com
+0.0.0.0 ae888vn.com
 0.0.0.0 ae988bet.com
 0.0.0.0 aebn.net
 0.0.0.0 aenyc.blogspot.com
@@ -1538,6 +1541,7 @@
 0.0.0.0 agathouse.ru
 0.0.0.0 agaysex.com
 0.0.0.0 agbet.co
+0.0.0.0 agbong88.com
 0.0.0.0 agedcunts.com
 0.0.0.0 agedhomemade.com
 0.0.0.0 agedlust.com
@@ -1872,6 +1876,7 @@
 0.0.0.0 almostjailbait.blogspot.com
 0.0.0.0 almostliberated.blogspot.com
 0.0.0.0 almostvirgins.com
+0.0.0.0 alo888.com
 0.0.0.0 alochucknorris.tumblr.com
 0.0.0.0 alogaigoi.com
 0.0.0.0 alogirlxinh.com
@@ -3020,17 +3025,20 @@
 0.0.0.0 api.88new.cc
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.ae888.com
+0.0.0.0 api.ae88859.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.cloudembed.net
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
 0.0.0.0 api.fapinstructor.com
+0.0.0.0 api.hb88p.com
 0.0.0.0 api.i8bet.org
 0.0.0.0 api.i99902.com
 0.0.0.0 api.i99903.com
 0.0.0.0 api.i99908.com
 0.0.0.0 api.i9bet102.com
 0.0.0.0 api.i9bet105.com
+0.0.0.0 api.i9bet106.com
 0.0.0.0 api.i9bet108.com
 0.0.0.0 api.i9bet109.com
 0.0.0.0 api.jerkmate.com
@@ -3052,6 +3060,8 @@
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.simply-hentai.com
 0.0.0.0 api.sky88.fun
+0.0.0.0 api.st666.win
+0.0.0.0 api.st66606.com
 0.0.0.0 api.t8bet999.com
 0.0.0.0 api.t8betvip.com
 0.0.0.0 api.v79top.com
@@ -3799,6 +3809,7 @@
 0.0.0.0 b44.com
 0.0.0.0 b52.vip
 0.0.0.0 b52.win
+0.0.0.0 b88ag.com
 0.0.0.0 b89.bet
 0.0.0.0 b97.nudevista.com
 0.0.0.0 b98.nudevista.com
@@ -5091,11 +5102,13 @@
 0.0.0.0 bondanime.com
 0.0.0.0 bondesthetiq.tumblr.com
 0.0.0.0 bonesutra.blogspot.com
+0.0.0.0 bong8899.com
 0.0.0.0 bong88net.com
 0.0.0.0 bong90.bet
 0.0.0.0 bong99.com
 0.0.0.0 bong99.fun
 0.0.0.0 bong99.live
+0.0.0.0 bong99.me
 0.0.0.0 bong99.top
 0.0.0.0 bong99.vin
 0.0.0.0 bong99.vip
@@ -8231,6 +8244,7 @@
 0.0.0.0 dabanh.thethaofb88.com
 0.0.0.0 dabet.me
 0.0.0.0 dabet.top
+0.0.0.0 dabet.us
 0.0.0.0 dabet.win
 0.0.0.0 dabong.thethaofb88.com
 0.0.0.0 dacash.com
@@ -10493,6 +10507,7 @@
 0.0.0.0 fcb8.club
 0.0.0.0 fcb8.com
 0.0.0.0 fcb8.fun
+0.0.0.0 fcb8.top
 0.0.0.0 fcb8.vip
 0.0.0.0 fcb8.win
 0.0.0.0 fcb88.com
@@ -10516,6 +10531,7 @@
 0.0.0.0 feetsolesposeblowjob.blogspot.com
 0.0.0.0 feetwebcams.com
 0.0.0.0 feiticeiraezimod.blogspot.com
+0.0.0.0 feli88.com
 0.0.0.0 felicidadepuradelicia.blogspot.com
 0.0.0.0 fellatiojapan.com
 0.0.0.0 felony-angel.blogdrive.com
@@ -12742,6 +12758,7 @@
 0.0.0.0 gotxx.com
 0.0.0.0 govintageporn.com
 0.0.0.0 gowildcasino.net
+0.0.0.0 gowin39.com
 0.0.0.0 goxxxlesbian.com
 0.0.0.0 gozacomigo.com
 0.0.0.0 gozadinhas.com
@@ -13230,6 +13247,7 @@
 0.0.0.0 hayvkl.xyz
 0.0.0.0 hayvl.pro
 0.0.0.0 hazehim.com
+0.0.0.0 hb88p.com
 0.0.0.0 hbrowse.com
 0.0.0.0 hc0303.tumblr.com
 0.0.0.0 hclips.ahcdn.com
@@ -14518,6 +14536,7 @@
 0.0.0.0 i99908.com
 0.0.0.0 i9bet102.com
 0.0.0.0 i9bet105.com
+0.0.0.0 i9bet106.com
 0.0.0.0 i9bet108.com
 0.0.0.0 i9bet109.com
 0.0.0.0 i9bet111.com
@@ -19355,6 +19374,7 @@
 0.0.0.0 linksexchange.net
 0.0.0.0 linkshit.com
 0.0.0.0 linkvaobw.info
+0.0.0.0 linkvaom88.xyz
 0.0.0.0 linkw88dn.com
 0.0.0.0 linuxtycoon.com
 0.0.0.0 lionbet.com
@@ -19831,6 +19851,7 @@
 0.0.0.0 lucky.porn
 0.0.0.0 lucky88.bet
 0.0.0.0 lucky88.casino
+0.0.0.0 lucky88.cc
 0.0.0.0 lucky88.club
 0.0.0.0 lucky88.com
 0.0.0.0 lucky88.live
@@ -19941,6 +19962,7 @@
 0.0.0.0 m.388bet.vip
 0.0.0.0 m.3movs.co
 0.0.0.0 m.520xiaojin.com
+0.0.0.0 m.66ko9.com
 0.0.0.0 m.88viet.com
 0.0.0.0 m.88vnd.com
 0.0.0.0 m.8live.com
@@ -19957,6 +19979,7 @@
 0.0.0.0 m.bong99.com
 0.0.0.0 m.bong99.fun
 0.0.0.0 m.bong99.live
+0.0.0.0 m.bong99.me
 0.0.0.0 m.booru.org
 0.0.0.0 m.boylesports.com
 0.0.0.0 m.bwingmkt1.com
@@ -20076,6 +20099,7 @@
 0.0.0.0 m.w88city.com
 0.0.0.0 m.w88club.com
 0.0.0.0 m.w88hn.com
+0.0.0.0 m.w88io.com
 0.0.0.0 m.w88ok.com
 0.0.0.0 m.w88yes.com
 0.0.0.0 m.webcamgf.com
@@ -20257,6 +20281,7 @@
 0.0.0.0 manhunt.net
 0.0.0.0 manhwa18.com
 0.0.0.0 manhwa24h.com
+0.0.0.0 manhwa24hs.com
 0.0.0.0 manhwahentai.me
 0.0.0.0 maniacosporcomics.com
 0.0.0.0 maniacpass.com
@@ -20901,6 +20926,7 @@
 0.0.0.0 mhcams.com
 0.0.0.0 mhot.sextgem.com
 0.0.0.0 mi-manga-hentai.blogspot.com
+0.0.0.0 mi3368.com
 0.0.0.0 miakhalifa.com
 0.0.0.0 mialelani.puba.com
 0.0.0.0 miamicasino.com
@@ -22507,6 +22533,7 @@
 0.0.0.0 nguoilon.top
 0.0.0.0 nguyentienquang--arts.blogspot.com
 0.0.0.0 ngwv0.com
+0.0.0.0 nhacai88.net
 0.0.0.0 nhacaik8.club
 0.0.0.0 nhacaik8.fun
 0.0.0.0 nhacaik8.info
@@ -23389,6 +23416,7 @@
 0.0.0.0 omorashiii.tumblr.com
 0.0.0.0 omweb.eu
 0.0.0.0 omwex.com
+0.0.0.0 onbet111.com
 0.0.0.0 oncam.me
 0.0.0.0 one-tit-out.tumblr.com
 0.0.0.0 one-video-xxx.com
@@ -23632,6 +23660,7 @@
 0.0.0.0 oxbet.com
 0.0.0.0 oxbet.net
 0.0.0.0 oxbet.top
+0.0.0.0 oxbet.vip
 0.0.0.0 oxbet.win
 0.0.0.0 oxbetd.com
 0.0.0.0 oxfol.tumblr.com
@@ -25752,6 +25781,7 @@
 0.0.0.0 phimxx.xyz
 0.0.0.0 phimxxhd.me
 0.0.0.0 phimxxnx.net
+0.0.0.0 phimxxx.io
 0.0.0.0 phimxxx.link
 0.0.0.0 phimxxx.live
 0.0.0.0 phimxxx.lol
@@ -28031,6 +28061,9 @@
 0.0.0.0 qc.x8vn.top
 0.0.0.0 qc.zo88.org
 0.0.0.0 qh205.com
+0.0.0.0 qh217.com
+0.0.0.0 qh218.com
+0.0.0.0 qh235.com
 0.0.0.0 qh52.com
 0.0.0.0 qh91.com
 0.0.0.0 qoh.booru.org
@@ -28043,6 +28076,7 @@
 0.0.0.0 qq188.com
 0.0.0.0 qq288.com
 0.0.0.0 qq288jak.com
+0.0.0.0 qq628.live
 0.0.0.0 qq8788.net
 0.0.0.0 qq8788viet.com
 0.0.0.0 qq892.live
@@ -28817,6 +28851,7 @@
 0.0.0.0 s7lob.net
 0.0.0.0 s8.trafficdeposit.com
 0.0.0.0 s9.trafficdeposit.com
+0.0.0.0 s99902e.com
 0.0.0.0 s99906.com
 0.0.0.0 s9996.com
 0.0.0.0 s9997.com
@@ -30311,8 +30346,11 @@
 0.0.0.0 shawnalenee.tv
 0.0.0.0 shawnslip.tumblr.com
 0.0.0.0 shb11.com
+0.0.0.0 shbet.com
+0.0.0.0 shbet.win
 0.0.0.0 shbet0.com
 0.0.0.0 shbet3.com
+0.0.0.0 shbetcc.com
 0.0.0.0 she-gon-squirt.tumblr.com
 0.0.0.0 she-is-my-submissive.tumblr.com
 0.0.0.0 she66.com
@@ -30498,6 +30536,8 @@
 0.0.0.0 shut-up-and-fuck-me-harder.tumblr.com
 0.0.0.0 shuttermann.tumblr.com
 0.0.0.0 shuttur.com
+0.0.0.0 shviet.com
+0.0.0.0 shviet0.com
 0.0.0.0 shy-angels.over-blog.com
 0.0.0.0 shy-virgins.com
 0.0.0.0 shyandnaked.com
@@ -30575,6 +30615,7 @@
 0.0.0.0 sin88.biz
 0.0.0.0 sin88.club
 0.0.0.0 sin88.mobi
+0.0.0.0 sin88.vip
 0.0.0.0 sin88.win
 0.0.0.0 sin88bet.me
 0.0.0.0 sin88s.com
@@ -30677,6 +30718,7 @@
 0.0.0.0 skokka.com
 0.0.0.0 skrog.net
 0.0.0.0 sksawi.info
+0.0.0.0 sky88.bet
 0.0.0.0 sky88.com
 0.0.0.0 sky88.fun
 0.0.0.0 sky88.top
@@ -31145,6 +31187,7 @@
 0.0.0.0 sssbet.com
 0.0.0.0 sssh.com
 0.0.0.0 sssiindia.com
+0.0.0.0 ssv288.com
 0.0.0.0 sswpornoblog.blogspot.com
 0.0.0.0 st-sy.com
 0.0.0.0 st.gigporno.com
@@ -31153,12 +31196,16 @@
 0.0.0.0 st.tubecup.org
 0.0.0.0 st.virgin.net
 0.0.0.0 st.xhamster.com
+0.0.0.0 st00001.com
 0.0.0.0 st1.exaltedporn.com
 0.0.0.0 st1.sunporno.com
 0.0.0.0 st1.tranny.one
 0.0.0.0 st2.xhamster.com
 0.0.0.0 st3.xhamster.com
 0.0.0.0 st4.xhamster.com
+0.0.0.0 st666.win
+0.0.0.0 st66602.com
+0.0.0.0 st66606.com
 0.0.0.0 stackedcurves.blogspot.com
 0.0.0.0 stacydia.tumblr.com
 0.0.0.0 stacyindiapers.tumblr.com
@@ -31650,12 +31697,20 @@
 0.0.0.0 sv.jzzo.com
 0.0.0.0 sv.pornrabbit.com
 0.0.0.0 sv.xhamster.com
+0.0.0.0 sv1.sv88.uk
 0.0.0.0 sv1.sv88.vip
 0.0.0.0 sv1.sv88d.com
+0.0.0.0 sv1.sv88vn.com
+0.0.0.0 sv288.net
+0.0.0.0 sv388.com
+0.0.0.0 sv388.net
 0.0.0.0 sv88.club
 0.0.0.0 sv88.com
+0.0.0.0 sv88.uk
 0.0.0.0 sv88.vin
 0.0.0.0 sv88.vip
+0.0.0.0 sv88.win
+0.0.0.0 sv88vn.com
 0.0.0.0 sveacasino.se
 0.0.0.0 svedalacasino.com
 0.0.0.0 svenskaspel.se
@@ -31666,6 +31721,10 @@
 0.0.0.0 svs-games.com
 0.0.0.0 svscomics.com
 0.0.0.0 svtfoe.booru.org
+0.0.0.0 svv288.com
+0.0.0.0 svv388.com
+0.0.0.0 svvv288.com
+0.0.0.0 svvv388.com
 0.0.0.0 swallowcrockerybless.com
 0.0.0.0 swallowed.com
 0.0.0.0 swallowladys.blogspot.com
@@ -32445,6 +32504,7 @@
 0.0.0.0 teufelchens.tv
 0.0.0.0 texascasino.com
 0.0.0.0 tezfiles.com
+0.0.0.0 tf2022v.com
 0.0.0.0 tf88265.com
 0.0.0.0 tf88luck.com
 0.0.0.0 tf88v.com
@@ -32624,6 +32684,7 @@
 0.0.0.0 thehentai.net
 0.0.0.0 thehentaicomics.com
 0.0.0.0 thehentaiworld.com
+0.0.0.0 thehotlive.com
 0.0.0.0 thehun.net
 0.0.0.0 theindecent.me
 0.0.0.0 theindianporn.com
@@ -33552,6 +33613,7 @@
 0.0.0.0 truyensac.net
 0.0.0.0 truyensec.net
 0.0.0.0 truyensex.cc
+0.0.0.0 truyensex.one
 0.0.0.0 truyensex.vip
 0.0.0.0 truyensex18.com
 0.0.0.0 truyensex88.info
@@ -34109,6 +34171,7 @@
 0.0.0.0 v7ac.com
 0.0.0.0 v7king.com
 0.0.0.0 v8.club
+0.0.0.0 v88ag.com
 0.0.0.0 v99win.app
 0.0.0.0 v9bet.com
 0.0.0.0 v9bet55.com
@@ -34582,6 +34645,7 @@
 0.0.0.0 villenu.com
 0.0.0.0 villeporno.com
 0.0.0.0 villoumoristic.blogs.allocine.fr
+0.0.0.0 vin68.com
 0.0.0.0 vinalottery.com
 0.0.0.0 vinnarum.com
 0.0.0.0 vintage-calc.info
@@ -34858,6 +34922,7 @@
 0.0.0.0 vitalbet.com
 0.0.0.0 vitzpornandwarez.blogspot.com
 0.0.0.0 viva88.com
+0.0.0.0 viva88.net
 0.0.0.0 vivacuties.com
 0.0.0.0 vivashemale.com
 0.0.0.0 vivatranny.com
@@ -35228,6 +35293,7 @@
 0.0.0.0 w88club.com
 0.0.0.0 w88easy.com
 0.0.0.0 w88hn.com
+0.0.0.0 w88io.com
 0.0.0.0 w88kub.com
 0.0.0.0 w88mp.com
 0.0.0.0 w88ok.com
@@ -36636,6 +36702,7 @@
 0.0.0.0 www.adyingstar.blogspot.com
 0.0.0.0 www.ae788.bet
 0.0.0.0 www.ae888.com
+0.0.0.0 www.ae88859.com
 0.0.0.0 www.ae988bet.com
 0.0.0.0 www.aebn.net
 0.0.0.0 www.aenyc.blogspot.com
@@ -42312,6 +42379,7 @@
 0.0.0.0 www.hawaiianwhores.blogspot.com
 0.0.0.0 www.hawaiicasino.com
 0.0.0.0 www.hazehim.com
+0.0.0.0 www.hb88p.com
 0.0.0.0 www.hbrowse.com
 0.0.0.0 www.hclips.com
 0.0.0.0 www.hcomicbook.com
@@ -42866,6 +42934,7 @@
 0.0.0.0 www.i99908.com
 0.0.0.0 www.i9bet102.com
 0.0.0.0 www.i9bet105.com
+0.0.0.0 www.i9bet106.com
 0.0.0.0 www.i9bet108.com
 0.0.0.0 www.i9bet109.com
 0.0.0.0 www.i9bet111.com
@@ -47182,6 +47251,10 @@
 0.0.0.0 www.pvt.sexy
 0.0.0.0 www.pybrac.blogspot.com
 0.0.0.0 www.pyteens.com
+0.0.0.0 www.qh205.com
+0.0.0.0 www.qh217.com
+0.0.0.0 www.qh218.com
+0.0.0.0 www.qh235.com
 0.0.0.0 www.qoqoz.com
 0.0.0.0 www.qpornsite.com
 0.0.0.0 www.qq288.com
@@ -48469,7 +48542,11 @@
 0.0.0.0 www.sssbet.com
 0.0.0.0 www.sssh.com
 0.0.0.0 www.sswpornoblog.blogspot.com
+0.0.0.0 www.st00001.com
 0.0.0.0 www.st3.xhamster.com
+0.0.0.0 www.st666.win
+0.0.0.0 www.st66602.com
+0.0.0.0 www.st66606.com
 0.0.0.0 www.stackedcurves.blogspot.com
 0.0.0.0 www.stakers.com
 0.0.0.0 www.stanjames.com
@@ -49997,6 +50074,7 @@
 0.0.0.0 www.w88city.com
 0.0.0.0 www.w88club.com
 0.0.0.0 www.w88hn.com
+0.0.0.0 www.w88io.com
 0.0.0.0 www.w88ok.com
 0.0.0.0 www.w88so.com
 0.0.0.0 www.w88u2.com
