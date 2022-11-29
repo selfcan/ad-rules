@@ -1,4 +1,4 @@
-! ----Updatetime: 2022-11-19 21:38:50 by:Mr.K----
+! ----Updatetime: 2022-11-29 21:38:35 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -81,6 +81,7 @@ aqours.today
 mediaadjustment.com
 stgowan.com
 trustedgatetocontent.com
+wpadmngr.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 4kya.com###player_pause
@@ -123,11 +124,11 @@ quandangdang.net
 ||douyucdn.cn/adxdsp/$image
 ||msstatic.com/huya/*/p2plib.js$script
 */preroll/$media,domain=91porn.com
-||btsow.click/app/jav$image
+||btsow.beauty/app/jav$image
 @@||dyncdn.me/static/20/js/jquery$script
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
-||toutiaoimg.com/origin/$image,domain=mgtv1.tv|agemys.net|acgndmku.com|subaibaiys.com
+||toutiaoimg.com/origin/$image,domain=mgtv1.org|agemys.net|acgndmku.com|subaibaiys.com
 @@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
 ||wp.com/netflixya.com/upload/$image
 ||yanetflix.com/upload/vod/$image
