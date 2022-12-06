@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-12-04 21:38:26
+# DATE: 2022-12-06 21:38:19
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -579,6 +579,7 @@
 0.0.0.0 555.porn
 0.0.0.0 558kbet.com
 0.0.0.0 560pmovie.com
+0.0.0.0 567lives.com
 0.0.0.0 570manx.com
 0.0.0.0 59y2x.com
 0.0.0.0 5besten-sexdatingseiten.ch
@@ -657,6 +658,7 @@
 0.0.0.0 789b.asia
 0.0.0.0 789b.dev
 0.0.0.0 789b.live
+0.0.0.0 789b.win
 0.0.0.0 789bet.run
 0.0.0.0 789club.biz
 0.0.0.0 789club.com
@@ -707,6 +709,7 @@
 0.0.0.0 85porn.net
 0.0.0.0 85tube.com
 0.0.0.0 85tube.net
+0.0.0.0 885ae888.com
 0.0.0.0 8886666.net
 0.0.0.0 8888.bg
 0.0.0.0 888b.com
@@ -715,6 +718,7 @@
 0.0.0.0 888betk8.net
 0.0.0.0 888k8vn.com
 0.0.0.0 888sport.com
+0.0.0.0 889ae888.com
 0.0.0.0 88asia88.com
 0.0.0.0 88bet.vin
 0.0.0.0 88bet58.com
@@ -735,6 +739,7 @@
 0.0.0.0 88vwin.com
 0.0.0.0 88winners.com
 0.0.0.0 89-melayuboleh.blogspot.com
+0.0.0.0 890ae888.com
 0.0.0.0 8chan.moe
 0.0.0.0 8daily8.com
 0.0.0.0 8day.bet
@@ -796,9 +801,11 @@
 0.0.0.0 8xbet.com
 0.0.0.0 8xbet.fun
 0.0.0.0 8xbet.games
+0.0.0.0 8xbet.org
 0.0.0.0 8xbet.tv
 0.0.0.0 8xbet.win
 0.0.0.0 8xbet.xyz
+0.0.0.0 8xbet0.com
 0.0.0.0 8xbet05.com
 0.0.0.0 8xbet06.com
 0.0.0.0 8xbet11.com
@@ -813,6 +820,7 @@
 0.0.0.0 91jav.com
 0.0.0.0 91porn.com
 0.0.0.0 92lottery.com
+0.0.0.0 92lottery.mobi
 0.0.0.0 968.club
 0.0.0.0 978bet34.com
 0.0.0.0 988bet.info
@@ -1448,19 +1456,26 @@
 0.0.0.0 adweb2.hornymatches.com
 0.0.0.0 adxadserv.com
 0.0.0.0 adyingstar.blogspot.com
+0.0.0.0 ae2888.com
 0.0.0.0 ae3888.top
+0.0.0.0 ae58888.com
 0.0.0.0 ae788.bet
 0.0.0.0 ae888.11bet.life
 0.0.0.0 ae888.com
+0.0.0.0 ae888.mobi
+0.0.0.0 ae888.net
 0.0.0.0 ae88830.com
 0.0.0.0 ae88836.com
 0.0.0.0 ae88838.com
 0.0.0.0 ae88839.com
 0.0.0.0 ae88843.com
+0.0.0.0 ae88848.com
 0.0.0.0 ae88850.com
 0.0.0.0 ae88856.com
+0.0.0.0 ae88858.com
 0.0.0.0 ae88859.com
 0.0.0.0 ae888i.com
+0.0.0.0 ae888sports01.com
 0.0.0.0 ae888vn.com
 0.0.0.0 ae988bet.com
 0.0.0.0 aebn.net
@@ -6098,6 +6113,7 @@
 0.0.0.0 casino.williamhill.com
 0.0.0.0 casino86.club
 0.0.0.0 casino888vn.com
+0.0.0.0 casinoae888.com
 0.0.0.0 casinoandfriends.com
 0.0.0.0 casinobg.info
 0.0.0.0 casinobitco.in
@@ -6982,6 +6998,7 @@
 0.0.0.0 cesky-sex.cz
 0.0.0.0 cf.jeedoo.com
 0.0.0.0 cf.static.xxxbunker.com
+0.0.0.0 cf68.shop
 0.0.0.0 cfake.com
 0.0.0.0 cffde4a1-cloud.perfectgirls.net
 0.0.0.0 cfnm-handjobs.tumblr.com
@@ -18938,6 +18955,7 @@
 0.0.0.0 kubet.kim
 0.0.0.0 kubet.life
 0.0.0.0 kubet.mobi
+0.0.0.0 kubet.tel
 0.0.0.0 kubet11.com
 0.0.0.0 kubet11.to
 0.0.0.0 kubet11.tv
@@ -34314,8 +34332,12 @@
 0.0.0.0 v99win.app
 0.0.0.0 v9bet.com
 0.0.0.0 v9bet55.com
+0.0.0.0 v9bet666.com
 0.0.0.0 v9bet88.net
+0.0.0.0 v9beta.net
 0.0.0.0 v9betasia.com
+0.0.0.0 v9betvi.com
+0.0.0.0 v9betwin.net
 0.0.0.0 v9jvn.com
 0.0.0.0 va-ua.com
 0.0.0.0 vadiaecorno.blogspot.com
@@ -36401,9 +36423,11 @@
 0.0.0.0 www.85porn.net
 0.0.0.0 www.85tube.com
 0.0.0.0 www.85tube.net
+0.0.0.0 www.885ae888.com
 0.0.0.0 www.8886666.net
 0.0.0.0 www.888b.com
 0.0.0.0 www.888sport.com
+0.0.0.0 www.889ae888.com
 0.0.0.0 www.88asia88.com
 0.0.0.0 www.88cum.com
 0.0.0.0 www.88fuck.com
@@ -36417,6 +36441,7 @@
 0.0.0.0 www.88vnd.com
 0.0.0.0 www.88vwin.com
 0.0.0.0 www.89-melayuboleh.blogspot.com
+0.0.0.0 www.890ae888.com
 0.0.0.0 www.8day.com
 0.0.0.0 www.8dayclub.com
 0.0.0.0 www.8kbet.vn
@@ -36849,11 +36874,17 @@
 0.0.0.0 www.advertising.justusboys.net
 0.0.0.0 www.advertx.net
 0.0.0.0 www.adyingstar.blogspot.com
+0.0.0.0 www.ae2888.com
+0.0.0.0 www.ae58888.com
 0.0.0.0 www.ae788.bet
 0.0.0.0 www.ae888.com
+0.0.0.0 www.ae888.mobi
 0.0.0.0 www.ae88840.com
+0.0.0.0 www.ae88848.com
 0.0.0.0 www.ae88856.com
+0.0.0.0 www.ae88858.com
 0.0.0.0 www.ae88859.com
+0.0.0.0 www.ae888sports01.com
 0.0.0.0 www.ae9888.com
 0.0.0.0 www.ae988bet.com
 0.0.0.0 www.aebn.net
@@ -48336,6 +48367,7 @@
 0.0.0.0 www.shbet0.com
 0.0.0.0 www.shbet2.com
 0.0.0.0 www.shbet3.com
+0.0.0.0 www.shbetgg.com
 0.0.0.0 www.shedevils.com
 0.0.0.0 www.shegotass.info
 0.0.0.0 www.sheilatarada.blogspot.com
@@ -49850,6 +49882,7 @@
 0.0.0.0 www.v99win.app
 0.0.0.0 www.v9bet.com
 0.0.0.0 www.v9bet55.com
+0.0.0.0 www.v9bet666.com
 0.0.0.0 www.v9bet88.net
 0.0.0.0 www.v9betasia.com
 0.0.0.0 www.v9jvn.com
