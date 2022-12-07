@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-12-06 21:38:19
+# DATE: 2022-12-07 21:38:11
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -84,7 +84,6 @@
 0.0.0.0 10hd.fun
 0.0.0.0 10hd.xyz
 0.0.0.0 10luxury39.com
-0.0.0.0 10prok8.com
 0.0.0.0 110percentnatural.com
 0.0.0.0 11625574.ahcdn.com
 0.0.0.0 116almet.ru
@@ -579,7 +578,10 @@
 0.0.0.0 555.porn
 0.0.0.0 558kbet.com
 0.0.0.0 560pmovie.com
+0.0.0.0 567live.online
+0.0.0.0 567liveapp.net
 0.0.0.0 567lives.com
+0.0.0.0 567lives.top
 0.0.0.0 570manx.com
 0.0.0.0 59y2x.com
 0.0.0.0 5besten-sexdatingseiten.ch
@@ -722,6 +724,7 @@
 0.0.0.0 88asia88.com
 0.0.0.0 88bet.vin
 0.0.0.0 88bet58.com
+0.0.0.0 88bet88bet.com
 0.0.0.0 88cum.com
 0.0.0.0 88fuck.com
 0.0.0.0 88gals.com
@@ -1469,6 +1472,7 @@
 0.0.0.0 ae88838.com
 0.0.0.0 ae88839.com
 0.0.0.0 ae88843.com
+0.0.0.0 ae88847.com
 0.0.0.0 ae88848.com
 0.0.0.0 ae88850.com
 0.0.0.0 ae88856.com
@@ -3054,9 +3058,11 @@
 0.0.0.0 api.7897890.vip
 0.0.0.0 api.78win01.com
 0.0.0.0 api.78win07.com
+0.0.0.0 api.88bet88bet.com
 0.0.0.0 api.88new.cc
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.ae888.com
+0.0.0.0 api.ae88847.com
 0.0.0.0 api.ae88859.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.cloudembed.net
@@ -3072,7 +3078,9 @@
 0.0.0.0 api.i9bet106.com
 0.0.0.0 api.i9bet108.com
 0.0.0.0 api.i9bet109.com
+0.0.0.0 api.i9bet31.com
 0.0.0.0 api.jerkmate.com
+0.0.0.0 api.jun889.vip
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.luscious.net
 0.0.0.0 api.mc876.com
@@ -3787,6 +3795,7 @@
 0.0.0.0 awnamylove.blogspot.com
 0.0.0.0 aws-foto.amateri.com
 0.0.0.0 awscc3001.r18.com
+0.0.0.0 awsdfs.88bet88bet.com
 0.0.0.0 awsexy.blogspot.com
 0.0.0.0 awsum.me
 0.0.0.0 axbet.com
@@ -7173,6 +7182,7 @@
 0.0.0.0 chich.live
 0.0.0.0 chich.mobi
 0.0.0.0 chich.pro
+0.0.0.0 chich.vnzb8.com
 0.0.0.0 chich.xyz
 0.0.0.0 chich3x.net
 0.0.0.0 chichgaixinh.com
@@ -7344,7 +7354,6 @@
 0.0.0.0 click.idesires.com
 0.0.0.0 click.jasmin.com
 0.0.0.0 click.mibet.com
-0.0.0.0 click.mibet.mobi
 0.0.0.0 click.mibet88.com
 0.0.0.0 click.mistressofasia.com
 0.0.0.0 click.nudevista.com
@@ -9525,6 +9534,7 @@
 0.0.0.0 empflix.com
 0.0.0.0 empflix.icu
 0.0.0.0 emphequa.com
+0.0.0.0 empire.casino
 0.0.0.0 empireamateurs.com
 0.0.0.0 empornium.me
 0.0.0.0 empressleak.biz
@@ -14637,6 +14647,7 @@
 0.0.0.0 i9bet28.com
 0.0.0.0 i9bet29.com
 0.0.0.0 i9bet3.com
+0.0.0.0 i9bet31.com
 0.0.0.0 i9bet333.com
 0.0.0.0 i9bet4.com
 0.0.0.0 i9bet444.com
@@ -16862,6 +16873,7 @@
 0.0.0.0 juliensoreltron.tumblr.com
 0.0.0.0 julievalmont.blogspot.com
 0.0.0.0 jumboporn.xyz
+0.0.0.0 jun889.vip
 0.0.0.0 jun88k.com
 0.0.0.0 juneloi-myfun.blogspot.com
 0.0.0.0 juniorcizinha.blogspot.com
@@ -26312,7 +26324,6 @@
 0.0.0.0 play.rikvip.tv
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.taib52.com
-0.0.0.0 play.top88.club
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
@@ -28187,8 +28198,6 @@
 0.0.0.0 qc.nhat.game
 0.0.0.0 qc.playmanclub.uk
 0.0.0.0 qc.taimacau.club
-0.0.0.0 qc.top88.club
-0.0.0.0 qc.top88.fun
 0.0.0.0 qc.top88.me
 0.0.0.0 qc.top88.uk
 0.0.0.0 qc.top88.us
@@ -28987,6 +28996,7 @@
 0.0.0.0 s5.cloudembed.net
 0.0.0.0 s5.pics.vc
 0.0.0.0 s5.trafficdeposit.com
+0.0.0.0 s555.com
 0.0.0.0 s5cfs1cdn.staticporn.cc
 0.0.0.0 s6.trafficdeposit.com
 0.0.0.0 s666.tv
@@ -30866,6 +30876,7 @@
 0.0.0.0 sky88.bet
 0.0.0.0 sky88.com
 0.0.0.0 sky88.fun
+0.0.0.0 sky88.in
 0.0.0.0 sky88.top
 0.0.0.0 sky88.uk
 0.0.0.0 sky88.win
@@ -31053,6 +31064,7 @@
 0.0.0.0 sock.red88.us
 0.0.0.0 sock.red88.vin
 0.0.0.0 sock.sky88.fun
+0.0.0.0 sock.sky88.in
 0.0.0.0 socket.static.reallifecam.com
 0.0.0.0 socoroas.net
 0.0.0.0 socvip.com
@@ -35272,6 +35284,7 @@
 0.0.0.0 vnxxx.org
 0.0.0.0 vnxxx.pro
 0.0.0.0 vnxxx.sex
+0.0.0.0 vnzb8.com
 0.0.0.0 voayeurs.com
 0.0.0.0 vod.com
 0.0.0.0 vod.hotmoviesforher.com
@@ -36880,6 +36893,7 @@
 0.0.0.0 www.ae888.com
 0.0.0.0 www.ae888.mobi
 0.0.0.0 www.ae88840.com
+0.0.0.0 www.ae88847.com
 0.0.0.0 www.ae88848.com
 0.0.0.0 www.ae88856.com
 0.0.0.0 www.ae88858.com
@@ -40949,6 +40963,7 @@
 0.0.0.0 www.emobunny.com
 0.0.0.0 www.empflix.com
 0.0.0.0 www.empflix.icu
+0.0.0.0 www.empire.casino
 0.0.0.0 www.empireamateurs.com
 0.0.0.0 www.empornium.me
 0.0.0.0 www.empressleak.biz
@@ -43134,6 +43149,7 @@
 0.0.0.0 www.i9bet24.com
 0.0.0.0 www.i9bet25.com
 0.0.0.0 www.i9bet26.com
+0.0.0.0 www.i9bet31.com
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
@@ -43669,6 +43685,7 @@
 0.0.0.0 www.juliaannlive.com
 0.0.0.0 www.julie-skyhigh.com
 0.0.0.0 www.julievalmont.blogspot.com
+0.0.0.0 www.jun889.vip
 0.0.0.0 www.juneloi-myfun.blogspot.com
 0.0.0.0 www.juniorcizinha.blogspot.com
 0.0.0.0 www.jurassiccock.com
