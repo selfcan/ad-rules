@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2022-11-29 21:38:35
+! Version: 2022-12-10 21:37:51
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -117,7 +117,6 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 g.huya.com
 ||msstatic.com/huya/*/p2plib.js$script
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
-litix.io
 ||onetrust.
 youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
 *_ad_$media,domain=youtube.com,3p
@@ -149,9 +148,6 @@ dandanzan10.top,nunuyy3.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan10.top,nunuyy3.org##+js(set,mozRTCPeerConnection,null)
 dandanzan10.top,nunuyy3.org#@#+js(nowebrtc)
 dandanzan10.top,nunuyy3.org##.gm-fp-body video:style(max-height:100%!important)
-aqours.today
-mediaadjustment.com
-stgowan.com
 trustedgatetocontent.com
 wpadmngr.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
@@ -175,5 +171,8 @@ youle55.com
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
 ||nooen.com^$popup
+aqours.today
 bixinlive.com
+orgaorg.com
 quandangdang.net
+stgowan.com
