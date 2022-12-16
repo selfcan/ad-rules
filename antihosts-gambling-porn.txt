@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-12-13 21:38:16
+# DATE: 2022-12-16 21:37:49
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -110,9 +110,11 @@
 0.0.0.0 123b.com
 0.0.0.0 123b.org
 0.0.0.0 123b03.com
+0.0.0.0 123b04.com
 0.0.0.0 123b06.com
 0.0.0.0 123b333.com
 0.0.0.0 123b88.com
+0.0.0.0 123bdy.com
 0.0.0.0 123gayporn.com
 0.0.0.0 123porn.com
 0.0.0.0 123sex.top
@@ -427,6 +429,8 @@
 0.0.0.0 33betf.com
 0.0.0.0 33betx.com
 0.0.0.0 33win7.com
+0.0.0.0 3547711.com
+0.0.0.0 3549900.com
 0.0.0.0 35p-cheap-phone-sex.com
 0.0.0.0 3600sex.com
 0.0.0.0 3650022.com
@@ -434,6 +438,7 @@
 0.0.0.0 3676b.com
 0.0.0.0 368bet.com
 0.0.0.0 377bet.com
+0.0.0.0 380099.com
 0.0.0.0 388bet.me
 0.0.0.0 388bet.top
 0.0.0.0 388bet.us
@@ -1935,6 +1940,7 @@
 0.0.0.0 almostjailbait.blogspot.com
 0.0.0.0 almostliberated.blogspot.com
 0.0.0.0 almostvirgins.com
+0.0.0.0 alo789.com
 0.0.0.0 alo88.bet
 0.0.0.0 alo888.com
 0.0.0.0 alochucknorris.tumblr.com
@@ -9466,6 +9472,8 @@
 0.0.0.0 ee88-viet.227290wss.com
 0.0.0.0 ee88.club
 0.0.0.0 ee88.com
+0.0.0.0 ee8801.com
+0.0.0.0 ee8802.com
 0.0.0.0 ee8803.com
 0.0.0.0 eestiloto.ee
 0.0.0.0 efagion.com
@@ -10618,6 +10626,7 @@
 0.0.0.0 fb88anh.com
 0.0.0.0 fb88club.com
 0.0.0.0 fb88cup.com
+0.0.0.0 fb88day.com
 0.0.0.0 fb88en.com
 0.0.0.0 fb88fifa.com
 0.0.0.0 fb88go.com
@@ -13884,6 +13893,10 @@
 0.0.0.0 hi.oppa888.com
 0.0.0.0 hi.xhamster.com
 0.0.0.0 hi888.app
+0.0.0.0 hi88vip1.com
+0.0.0.0 hi88vip3.com
+0.0.0.0 hi88vip4.com
+0.0.0.0 hi88vip7.com
 0.0.0.0 hi88vip8.com
 0.0.0.0 hib6.com
 0.0.0.0 hiddencameraporn.net
@@ -22614,6 +22627,9 @@
 0.0.0.0 nayporno.blogspot.com
 0.0.0.0 nbet.club
 0.0.0.0 nbet.com
+0.0.0.0 nbet.fun
+0.0.0.0 nbet.me
+0.0.0.0 nbet.site
 0.0.0.0 nbet.top
 0.0.0.0 nbet.vip
 0.0.0.0 nbet.win
@@ -25778,6 +25794,7 @@
 0.0.0.0 phimsexhanquoc.me
 0.0.0.0 phimsexhanquoc.mobi
 0.0.0.0 phimsexhanquoc.org
+0.0.0.0 phimsexhanquoc.site
 0.0.0.0 phimsexhanquoc.xyz
 0.0.0.0 phimsexhay.biz
 0.0.0.0 phimsexhay.club
@@ -26432,7 +26449,6 @@
 0.0.0.0 play.fa88.win
 0.0.0.0 play.go88.club
 0.0.0.0 play.go88.im
-0.0.0.0 play.kichduc.cc
 0.0.0.0 play.kichduc.to
 0.0.0.0 play.kphim.cc
 0.0.0.0 play.manclub.vin
@@ -29135,6 +29151,7 @@
 0.0.0.0 s99906.com
 0.0.0.0 s9996.com
 0.0.0.0 s9997.com
+0.0.0.0 s999d.com
 0.0.0.0 sa7you.com
 0.0.0.0 saartoto.de
 0.0.0.0 sabbaspornbabes.blogspot.com
@@ -33762,6 +33779,7 @@
 0.0.0.0 trampararam.net
 0.0.0.0 tranceangel.startmee.nl
 0.0.0.0 tranent.nl
+0.0.0.0 trangchu.app
 0.0.0.0 trangxemsex.pro
 0.0.0.0 tranny-ocean.com
 0.0.0.0 tranny.com
@@ -35650,11 +35668,13 @@
 0.0.0.0 w88easy.com
 0.0.0.0 w88hn.com
 0.0.0.0 w88io.com
+0.0.0.0 w88kh.com
 0.0.0.0 w88kub.com
 0.0.0.0 w88mp.com
 0.0.0.0 w88ok.com
 0.0.0.0 w88so.com
 0.0.0.0 w88u2.com
+0.0.0.0 w88ud2.com
 0.0.0.0 w88vui.com
 0.0.0.0 w88yes.com
 0.0.0.0 w8z2x4m.blogspot.com
@@ -36487,6 +36507,8 @@
 0.0.0.0 www.33betad.com
 0.0.0.0 www.33betf.com
 0.0.0.0 www.33betx.com
+0.0.0.0 www.3547711.com
+0.0.0.0 www.3549900.com
 0.0.0.0 www.3600sex.com
 0.0.0.0 www.3650011.com
 0.0.0.0 www.3650022.com
@@ -37368,6 +37390,7 @@
 0.0.0.0 www.almostjailbait.blogspot.com
 0.0.0.0 www.almostliberated.blogspot.com
 0.0.0.0 www.almostvirgins.com
+0.0.0.0 www.alo789.com
 0.0.0.0 www.alohasportsbook.com
 0.0.0.0 www.alohatube.com
 0.0.0.0 www.alohatube.xyz
@@ -41651,6 +41674,7 @@
 0.0.0.0 www.fb88affok.com
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88cup.com
+0.0.0.0 www.fb88day.com
 0.0.0.0 www.fb88fifa.com
 0.0.0.0 www.fb88id.com
 0.0.0.0 www.fb88max.com
@@ -50503,9 +50527,11 @@
 0.0.0.0 www.w88club.com
 0.0.0.0 www.w88hn.com
 0.0.0.0 www.w88io.com
+0.0.0.0 www.w88kh.com
 0.0.0.0 www.w88ok.com
 0.0.0.0 www.w88so.com
 0.0.0.0 www.w88u2.com
+0.0.0.0 www.w88ud2.com
 0.0.0.0 www.w88yes.com
 0.0.0.0 www.w8z2x4m.blogspot.com
 0.0.0.0 www.waap.co.jp
