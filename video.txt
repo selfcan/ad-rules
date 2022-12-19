@@ -1,4 +1,4 @@
-! ----Updatetime: 2022-12-10 21:37:51 by:Mr.K----
+! ----Updatetime: 2022-12-19 21:38:01 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -63,6 +63,7 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 g.huya.com
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 ||onetrust.
+litix.io
 youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
 youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
 ||youtube.com/pagead/

@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-12-16 21:37:49
+# DATE: 2022-12-19 21:38:02
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -584,6 +584,7 @@
 0.0.0.0 52fikir.biz
 0.0.0.0 52gp1.com
 0.0.0.0 54647.io
+0.0.0.0 5533789.com
 0.0.0.0 555.porn
 0.0.0.0 558kbet.com
 0.0.0.0 560pmovie.com
@@ -604,6 +605,7 @@
 0.0.0.0 5shbet.com
 0.0.0.0 5srvpecon.ggccxpj005.xyz
 0.0.0.0 5starangels.com
+0.0.0.0 608822.com
 0.0.0.0 60granny.com
 0.0.0.0 60milfs.com
 0.0.0.0 60plusmilfs.com
@@ -2800,6 +2802,7 @@
 0.0.0.0 angrymachines.blogspot.com
 0.0.0.0 anhgaihotnhat.blogspot.com
 0.0.0.0 anhgaisexy.com
+0.0.0.0 anhgaixinh.us
 0.0.0.0 anhjavdep.blogspot.com
 0.0.0.0 anhlondep.xyz
 0.0.0.0 anhmodel.com
@@ -3191,6 +3194,7 @@
 0.0.0.0 applefoam.angelfire.com
 0.0.0.0 applive.vn
 0.0.0.0 appliveshow.com
+0.0.0.0 appmmlive.com
 0.0.0.0 approachingstorm.blogspot.com
 0.0.0.0 apps-ratgeber.com
 0.0.0.0 apricotbranch.blogspot.com
@@ -4930,6 +4934,7 @@
 0.0.0.0 bk8i.com
 0.0.0.0 bk8p.com
 0.0.0.0 bk8ping.com
+0.0.0.0 bk8vie.com
 0.0.0.0 bk8viet.com
 0.0.0.0 bk8vietnam.com
 0.0.0.0 bk8vn.com
@@ -11999,6 +12004,7 @@
 0.0.0.0 gaigoikiemdinh.live
 0.0.0.0 gaigoinhatrang.com
 0.0.0.0 gaigoionline.link
+0.0.0.0 gaigoisinhvien.xyz
 0.0.0.0 gaigoituoi18.xyz
 0.0.0.0 gaigoivip.info
 0.0.0.0 gaigoivip.live
@@ -12553,6 +12559,7 @@
 0.0.0.0 ghslut.blogspot.com
 0.0.0.0 gi888.cc
 0.0.0.0 gi8vn.vip
+0.0.0.0 giaimanhacai.com
 0.0.0.0 giaitri.fun
 0.0.0.0 giaitri.tv
 0.0.0.0 giaitriviet.click
@@ -13786,6 +13793,7 @@
 0.0.0.0 hentaivlz.com
 0.0.0.0 hentaivn.cc
 0.0.0.0 hentaivn.com
+0.0.0.0 hentaivn.de
 0.0.0.0 hentaivn.fun
 0.0.0.0 hentaivn.info
 0.0.0.0 hentaivn.la
@@ -19855,6 +19863,7 @@
 0.0.0.0 lode555.com
 0.0.0.0 lode88.online
 0.0.0.0 lode88.vip
+0.0.0.0 lodevip.us
 0.0.0.0 lodevn789.net
 0.0.0.0 lodinudist.tumblr.com
 0.0.0.0 log.ebonybooty.pics
@@ -20332,9 +20341,11 @@
 0.0.0.0 m.vn88.com
 0.0.0.0 m.vn88hn.live
 0.0.0.0 m.vn88vui.live
+0.0.0.0 m.vnbong88.live
 0.0.0.0 m.vndbet88.com
 0.0.0.0 m.vnloto.com
 0.0.0.0 m.vnloto.vip
+0.0.0.0 m.vnpro88.com
 0.0.0.0 m.vntop88.com
 0.0.0.0 m.vuabet88.org
 0.0.0.0 m.vz79.com
@@ -21466,12 +21477,15 @@
 0.0.0.0 mm.7-7-7-partner.org
 0.0.0.0 mm.777livecams.com
 0.0.0.0 mm12.tumblr.com
+0.0.0.0 mm1cloud.com
 0.0.0.0 mmakaelnewby.blogspot.com
 0.0.0.0 mmcams.com
 0.0.0.0 mmixalot.blogspot.com
 0.0.0.0 mmlive.live
 0.0.0.0 mmlive.one
+0.0.0.0 mmlive1.com
 0.0.0.0 mmliveapp.club
+0.0.0.0 mmliveapp.top
 0.0.0.0 mmmature.com
 0.0.0.0 mmmmmovies.blogspot.com
 0.0.0.0 mmporno.blogspot.com
@@ -22807,6 +22821,7 @@
 0.0.0.0 nhacailucky88.net
 0.0.0.0 nhacaisodo.net
 0.0.0.0 nhacaisomot.com
+0.0.0.0 nhacaiuytin.life
 0.0.0.0 nhaicaik8.net
 0.0.0.0 nhanthuong88.com
 0.0.0.0 nhat.bet
@@ -26508,6 +26523,7 @@
 0.0.0.0 player.ole777vietnam.com
 0.0.0.0 player.oleviet777.com
 0.0.0.0 player.pornogaygratis.net
+0.0.0.0 player.win102.com
 0.0.0.0 player2.hanime.tv
 0.0.0.0 player3.hanime.tv
 0.0.0.0 playforceone.com
@@ -28367,6 +28383,7 @@
 0.0.0.0 qq628.live
 0.0.0.0 qq8788viet.com
 0.0.0.0 qq892.live
+0.0.0.0 qqlive.cc
 0.0.0.0 qqqporn.com
 0.0.0.0 qqtogel88.com
 0.0.0.0 quadrinhosdesexo.com
@@ -35445,6 +35462,7 @@
 0.0.0.0 vn969.com
 0.0.0.0 vnanchoi.ca
 0.0.0.0 vnbiz88.com
+0.0.0.0 vnbong88.live
 0.0.0.0 vnchich.com
 0.0.0.0 vnchich.net
 0.0.0.0 vnclub88.live
@@ -35463,6 +35481,7 @@
 0.0.0.0 vnn8d.com
 0.0.0.0 vnnmarket.com
 0.0.0.0 vnok.net
+0.0.0.0 vnpro88.com
 0.0.0.0 vnq8.bet
 0.0.0.0 vnq8.com
 0.0.0.0 vnq8.net
@@ -36134,11 +36153,13 @@
 0.0.0.0 willow203.tumblr.com
 0.0.0.0 wilsonbet.com
 0.0.0.0 win.vaorikvip.com
+0.0.0.0 win102.com
 0.0.0.0 win29.com
 0.0.0.0 win365good.com
 0.0.0.0 win365vip8.com
 0.0.0.0 win365vip9.com
 0.0.0.0 win79.app
+0.0.0.0 win79.download
 0.0.0.0 win79.vip
 0.0.0.0 win79play.me
 0.0.0.0 win88.me
@@ -36585,6 +36606,7 @@
 0.0.0.0 www.5278-5278-5278-5278-5278.blogspot.com
 0.0.0.0 www.52av.one
 0.0.0.0 www.54647.io
+0.0.0.0 www.5533789.com
 0.0.0.0 www.558kbet.com
 0.0.0.0 www.5dimes.com
 0.0.0.0 www.5fing.com
@@ -36592,6 +36614,7 @@
 0.0.0.0 www.5kteens.com
 0.0.0.0 www.5shbet.com
 0.0.0.0 www.5starangels.com
+0.0.0.0 www.608822.com
 0.0.0.0 www.60milfs.com
 0.0.0.0 www.64kporn.com
 0.0.0.0 www.666casino.com
@@ -39350,6 +39373,7 @@
 0.0.0.0 www.bk8i.com
 0.0.0.0 www.bk8p.com
 0.0.0.0 www.bk8ping.com
+0.0.0.0 www.bk8vie.com
 0.0.0.0 www.bk8viet.com
 0.0.0.0 www.bk8vietnam.com
 0.0.0.0 www.bk8vn.com
@@ -50448,10 +50472,12 @@
 0.0.0.0 www.vn88.com
 0.0.0.0 www.vn88hn.live
 0.0.0.0 www.vn88vui.live
+0.0.0.0 www.vnbong88.live
 0.0.0.0 www.vnd88hn.com
 0.0.0.0 www.vndbet88.com
 0.0.0.0 www.vndbetway.com
 0.0.0.0 www.vnloto.com
+0.0.0.0 www.vnpro88.com
 0.0.0.0 www.vnq8.bet
 0.0.0.0 www.vnq8.com
 0.0.0.0 www.vnq8.net
@@ -50728,6 +50754,7 @@
 0.0.0.0 www.williamhill.com
 0.0.0.0 www.willigedamen.com
 0.0.0.0 www.wilsonbet.com
+0.0.0.0 www.win102.com
 0.0.0.0 www.win29.com
 0.0.0.0 www.win79.vip
 0.0.0.0 www.winkbj02.com
@@ -52007,6 +52034,7 @@
 0.0.0.0 xn--72c6aej0bzc2b7ita3c.blogspot.com
 0.0.0.0 xn--72c9abh1f8ad1lzc.com
 0.0.0.0 xn--chch-6w5a.live
+0.0.0.0 xn--hi-ji6caa.com
 0.0.0.0 xn--mgbkt9eckk.net
 0.0.0.0 xn--se-sha.com
 0.0.0.0 xn-xx.me
