@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-12-19 21:38:02
+# DATE: 2022-12-20 21:37:47
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -3157,6 +3157,7 @@
 0.0.0.0 api.v79top.com
 0.0.0.0 api.v7king.com
 0.0.0.0 api.vh79.com
+0.0.0.0 api.vn1610.com
 0.0.0.0 api.vnloto.com
 0.0.0.0 api.vnq8.bet
 0.0.0.0 api.vnq8.com
@@ -5199,6 +5200,8 @@
 0.0.0.0 bondanime.com
 0.0.0.0 bondesthetiq.tumblr.com
 0.0.0.0 bonesutra.blogspot.com
+0.0.0.0 bong88.cam
+0.0.0.0 bong88.pro
 0.0.0.0 bong8899.com
 0.0.0.0 bong88net.com
 0.0.0.0 bong90.bet
@@ -7071,6 +7074,7 @@
 0.0.0.0 cf.static.xxxbunker.com
 0.0.0.0 cf68.shop
 0.0.0.0 cfake.com
+0.0.0.0 cfc.leto58.xyz
 0.0.0.0 cffde4a1-cloud.perfectgirls.net
 0.0.0.0 cfnm-handjobs.tumblr.com
 0.0.0.0 cfnm.jerkoffgalleries.com
@@ -7134,6 +7138,7 @@
 0.0.0.0 chatorgasm.com
 0.0.0.0 chatrandom.com
 0.0.0.0 chatroulette.com
+0.0.0.0 chatserverv.ooooooo2.com
 0.0.0.0 chatspin.com
 0.0.0.0 chattelprod.tumblr.com
 0.0.0.0 chatterbate.io
@@ -8353,6 +8358,10 @@
 0.0.0.0 d329v4h155l6cn.cloudfront.net
 0.0.0.0 d4j95.com
 0.0.0.0 d4rk.club
+0.0.0.0 d9bet.cam
+0.0.0.0 d9bet.store
+0.0.0.0 d9bet38.com
+0.0.0.0 d9bet68.com
 0.0.0.0 d9bet88.com
 0.0.0.0 da-bleach-hentai.blogspot.com
 0.0.0.0 da-hentai-gallery.blogspot.com
@@ -10874,6 +10883,7 @@
 0.0.0.0 fikfap.com
 0.0.0.0 file.7mmtv.tv
 0.0.0.0 file.al
+0.0.0.0 file.mm1cloud.com
 0.0.0.0 file.publicflashing.me
 0.0.0.0 file1.7mmtv.tv
 0.0.0.0 file2.7mmtv.tv
@@ -12177,6 +12187,7 @@
 0.0.0.0 galorexxx.net
 0.0.0.0 gals.teachtwinks.com
 0.0.0.0 gals4free.net
+0.0.0.0 gam88.org
 0.0.0.0 gamblecsgo.com
 0.0.0.0 gambling.com
 0.0.0.0 gamcore.com
@@ -12927,6 +12938,8 @@
 0.0.0.0 gpi-design.ru
 0.0.0.0 gpvicio.com.br
 0.0.0.0 gqigjgs.angelfire.com
+0.0.0.0 gql.leto58.xyz
+0.0.0.0 gql.lt119.online
 0.0.0.0 gr.1cam.webcam
 0.0.0.0 gr.bimbolive.com
 0.0.0.0 gr.bongacams.com
@@ -14012,6 +14025,7 @@
 0.0.0.0 home-made-vids.org
 0.0.0.0 home-madeporn.tumblr.com
 0.0.0.0 home.olg.ca
+0.0.0.0 home.tuoi69vn.com
 0.0.0.0 home.uchu.co.jp
 0.0.0.0 homeanimaltube.com
 0.0.0.0 homecams.com
@@ -16501,6 +16515,8 @@
 0.0.0.0 javheroine.com
 0.0.0.0 javhihi.com
 0.0.0.0 javhihi.me
+0.0.0.0 javhiv.com
+0.0.0.0 javhiv.one
 0.0.0.0 javhiv.xyz
 0.0.0.0 javhotvietsub.com
 0.0.0.0 javhq.net
@@ -16607,6 +16623,7 @@
 0.0.0.0 javsub.mobi
 0.0.0.0 javsub.one
 0.0.0.0 javsub.online
+0.0.0.0 javsub.wiki
 0.0.0.0 javsub.xyz
 0.0.0.0 javsubbed.net
 0.0.0.0 javsubmoi.net
@@ -19497,6 +19514,7 @@
 0.0.0.0 letigrecoda.tumblr.com
 0.0.0.0 letme-fuck-you.tumblr.com
 0.0.0.0 letmejerk.asia
+0.0.0.0 leto58.xyz
 0.0.0.0 letoporn.com
 0.0.0.0 letou8868.com
 0.0.0.0 letrasui.blogspot.com
@@ -19632,7 +19650,6 @@
 0.0.0.0 listadeblogsadultos.blogspot.com
 0.0.0.0 listofsexcams.com
 0.0.0.0 listslut.com
-0.0.0.0 lite-1x0801165.top
 0.0.0.0 lite-1x6603199.top
 0.0.0.0 literotica.com
 0.0.0.0 literoticavod.com
@@ -19688,6 +19705,7 @@
 0.0.0.0 live.elasnacam.com
 0.0.0.0 live.fc2.com
 0.0.0.0 live.hegre.com
+0.0.0.0 live.mm1cloud.com
 0.0.0.0 live.pornpics.com
 0.0.0.0 live.sex
 0.0.0.0 live.sex-explorer.com
@@ -20072,6 +20090,7 @@
 0.0.0.0 lt.bongacams.org
 0.0.0.0 lt.hot-live-sex-shows.com
 0.0.0.0 lt.sex4k.cam
+0.0.0.0 lt119.online
 0.0.0.0 lt991.com
 0.0.0.0 lt992.com
 0.0.0.0 lt997.com
@@ -20294,6 +20313,7 @@
 0.0.0.0 m.oppa888.com
 0.0.0.0 m.perfectgirls.net
 0.0.0.0 m.perfektdamen.co
+0.0.0.0 m.phe3x.xyz
 0.0.0.0 m.phimsexhay.cc
 0.0.0.0 m.phimsexsub.co
 0.0.0.0 m.playmatewebcams.streamray.com
@@ -20325,6 +20345,7 @@
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.thegay.porn
 0.0.0.0 m.tnaflix.com
+0.0.0.0 m.to188xj.com
 0.0.0.0 m.tobet88.net
 0.0.0.0 m.twin188.co
 0.0.0.0 m.unscathedcorpse.blogspot.com
@@ -20335,6 +20356,7 @@
 0.0.0.0 m.v9betasia.com
 0.0.0.0 m.v9jvn.com
 0.0.0.0 m.videosz.com
+0.0.0.0 m.viet69.chat
 0.0.0.0 m.viva88.com
 0.0.0.0 m.vlxx.in
 0.0.0.0 m.vlxxvietsub.net
@@ -21476,6 +21498,7 @@
 0.0.0.0 mlnnssapi.com
 0.0.0.0 mm.7-7-7-partner.org
 0.0.0.0 mm.777livecams.com
+0.0.0.0 mm.mm1cloud.com
 0.0.0.0 mm12.tumblr.com
 0.0.0.0 mm1cloud.com
 0.0.0.0 mmakaelnewby.blogspot.com
@@ -21906,6 +21929,7 @@
 0.0.0.0 msbrattydesigns.blogspot.com
 0.0.0.0 msl.ua
 0.0.0.0 msmeb.com
+0.0.0.0 msp2.leto58.xyz
 0.0.0.0 msporn.net
 0.0.0.0 mstatic.definefetish.com
 0.0.0.0 msterg.tumblr.com
@@ -23824,6 +23848,7 @@
 0.0.0.0 oomaal.in
 0.0.0.0 ooo-sex.com
 0.0.0.0 ooo-sex.tv
+0.0.0.0 ooooooo2.com
 0.0.0.0 oopslip.tumblr.com
 0.0.0.0 oopsmovs.com
 0.0.0.0 oornag.nu
@@ -30289,8 +30314,10 @@
 0.0.0.0 sextop1x.com
 0.0.0.0 sextop3x.com
 0.0.0.0 sextop68.com
+0.0.0.0 sextopi.com
 0.0.0.0 sextopvl.net
 0.0.0.0 sextoy.com
+0.0.0.0 sextq.xyz
 0.0.0.0 sextraxanh.com
 0.0.0.0 sextremo.tumblr.com
 0.0.0.0 sextronix.com
@@ -30370,6 +30397,7 @@
 0.0.0.0 sexviet.watch
 0.0.0.0 sexviet.ws
 0.0.0.0 sexviet.xyz
+0.0.0.0 sexviet1.cc
 0.0.0.0 sexviet1.xyz
 0.0.0.0 sexviet3x.pro
 0.0.0.0 sexviet69.biz
@@ -32313,6 +32341,7 @@
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
 0.0.0.0 taiwanlottery.com.tw
+0.0.0.0 taiwin79.win
 0.0.0.0 takarakuji-official.jp
 0.0.0.0 takenfrombehind.tumblr.com
 0.0.0.0 takeoffyrpantsandjackit.tumblr.com
@@ -33444,6 +33473,7 @@
 0.0.0.0 tk326.com
 0.0.0.0 tk66.app
 0.0.0.0 tk66vn.com
+0.0.0.0 tk88g.com
 0.0.0.0 tkaz.net
 0.0.0.0 tlavideo.com
 0.0.0.0 tlb.booru.org
@@ -33471,6 +33501,7 @@
 0.0.0.0 tntmature.com
 0.0.0.0 tnttube.com
 0.0.0.0 to-be-objectified.tumblr.com
+0.0.0.0 to188xj.com
 0.0.0.0 toals.co.uk
 0.0.0.0 tobet88.net
 0.0.0.0 tocadaputaria.blogspot.com
@@ -34210,6 +34241,7 @@
 0.0.0.0 tuoi69.video
 0.0.0.0 tuoi69.website
 0.0.0.0 tuoi69.xyz
+0.0.0.0 tuoi69vn.com
 0.0.0.0 tuoi69zz.com
 0.0.0.0 tuoilon.pro
 0.0.0.0 tuoilontv.cc
@@ -35360,6 +35392,7 @@
 0.0.0.0 vlxx.club
 0.0.0.0 vlxx.cm
 0.0.0.0 vlxx.contact
+0.0.0.0 vlxx.day
 0.0.0.0 vlxx.es
 0.0.0.0 vlxx.fun
 0.0.0.0 vlxx.gay
@@ -35440,9 +35473,11 @@
 0.0.0.0 vn.solarbet.com
 0.0.0.0 vn.solbet88.com
 0.0.0.0 vn.tbab556.com
+0.0.0.0 vn.viet69.chat
 0.0.0.0 vn.vndbetway.com
 0.0.0.0 vn138.net
 0.0.0.0 vn138viet.com
+0.0.0.0 vn1610.com
 0.0.0.0 vn34.com
 0.0.0.0 vn3x.me
 0.0.0.0 vn67801.com
@@ -35602,6 +35637,7 @@
 0.0.0.0 vuasex.co
 0.0.0.0 vuasex.net
 0.0.0.0 vuatruyensex.com
+0.0.0.0 vue.ooooooo2.com
 0.0.0.0 vui.fun
 0.0.0.0 vui3x.cc
 0.0.0.0 vuianime.tv
@@ -40605,6 +40641,8 @@
 0.0.0.0 www.czechvr.com
 0.0.0.0 www.czvids.com
 0.0.0.0 www.d2pass.com
+0.0.0.0 www.d9bet.cam
+0.0.0.0 www.d9bet68.com
 0.0.0.0 www.da-bleach-hentai.blogspot.com
 0.0.0.0 www.da-hentai-gallery.blogspot.com
 0.0.0.0 www.dacash.com
@@ -44314,6 +44352,7 @@
 0.0.0.0 www.lethalpass.com
 0.0.0.0 www.letmejerk.asia
 0.0.0.0 www.letmejerk.com
+0.0.0.0 www.leto58.xyz
 0.0.0.0 www.letou8868.com
 0.0.0.0 www.letrasui.blogspot.com
 0.0.0.0 www.letsbet.com
@@ -44550,6 +44589,7 @@
 0.0.0.0 www.lsbet.com
 0.0.0.0 www.lsbet690.com
 0.0.0.0 www.lswebcams.com
+0.0.0.0 www.lt119.online
 0.0.0.0 www.lubed.com
 0.0.0.0 www.lubedfan.com
 0.0.0.0 www.lubeyourtube.com
@@ -49717,12 +49757,14 @@
 0.0.0.0 www.tjb22.net
 0.0.0.0 www.tjoob.com
 0.0.0.0 www.tk326.com
+0.0.0.0 www.tk88g.com
 0.0.0.0 www.tlehunter.com
 0.0.0.0 www.tma.co.jp
 0.0.0.0 www.tmwwtw-fgm.blogspot.com
 0.0.0.0 www.tnaflix.com
 0.0.0.0 www.tnaflix.world
 0.0.0.0 www.to-satsu.com
+0.0.0.0 www.to188xj.com
 0.0.0.0 www.toals.co.uk
 0.0.0.0 www.tobet88.net
 0.0.0.0 www.tocadaputaria.blogspot.com
@@ -50463,6 +50505,7 @@
 0.0.0.0 www.vlxx.tv
 0.0.0.0 www.vn138138.com
 0.0.0.0 www.vn138viet.com
+0.0.0.0 www.vn1610.com
 0.0.0.0 www.vn34.com
 0.0.0.0 www.vn500.com
 0.0.0.0 www.vn67801.com
@@ -53025,6 +53068,7 @@
 0.0.0.0 yeu3x.com
 0.0.0.0 yeusex.me
 0.0.0.0 yeusex.net
+0.0.0.0 yeusex.one
 0.0.0.0 yeusex.org
 0.0.0.0 yeusex.pro
 0.0.0.0 yeutinhduc.com
