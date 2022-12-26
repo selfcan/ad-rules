@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-12-20 21:37:47
+# DATE: 2022-12-26 21:37:36
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -771,6 +771,7 @@
 0.0.0.0 8day.bet
 0.0.0.0 8day.com
 0.0.0.0 8day.online
+0.0.0.0 8day66.com
 0.0.0.0 8dayclub.com
 0.0.0.0 8daygo.com
 0.0.0.0 8dayvn888.com
@@ -3080,7 +3081,6 @@
 0.0.0.0 api-stage.pornhub.com
 0.0.0.0 api-stage2.pornhub.com
 0.0.0.0 api-stage3.pornhub.com
-0.0.0.0 api.016665.com
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
 0.0.0.0 api.22zalo.com
@@ -7489,6 +7489,7 @@
 0.0.0.0 clipsage.club
 0.0.0.0 clipsage.com
 0.0.0.0 clipsex.mobi
+0.0.0.0 clipsex.video
 0.0.0.0 clipsex1.com
 0.0.0.0 clipsex69.com
 0.0.0.0 clipsexhay.org
@@ -10644,6 +10645,7 @@
 0.0.0.0 fb88en.com
 0.0.0.0 fb88fifa.com
 0.0.0.0 fb88go.com
+0.0.0.0 fb88id.com
 0.0.0.0 fb88live.com
 0.0.0.0 fb88map.com
 0.0.0.0 fb88max.com
@@ -14766,6 +14768,7 @@
 0.0.0.0 i9bet30.com
 0.0.0.0 i9bet31.com
 0.0.0.0 i9bet333.com
+0.0.0.0 i9bet35.com
 0.0.0.0 i9bet4.com
 0.0.0.0 i9bet444.com
 0.0.0.0 i9bet5.com
@@ -20039,6 +20042,7 @@
 0.0.0.0 lovegrounds.com
 0.0.0.0 lovehairy.com
 0.0.0.0 lovehomeporn.com
+0.0.0.0 lovejav.net
 0.0.0.0 loveleaked.com
 0.0.0.0 lovely-incontinent-ladies.tumblr.com
 0.0.0.0 lovely-virgins.com
@@ -20341,7 +20345,6 @@
 0.0.0.0 m.sunporno.com
 0.0.0.0 m.taianhsex.com
 0.0.0.0 m.tf88265.com
-0.0.0.0 m.tf88860.co
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.thegay.porn
 0.0.0.0 m.tnaflix.com
@@ -20357,6 +20360,7 @@
 0.0.0.0 m.v9jvn.com
 0.0.0.0 m.videosz.com
 0.0.0.0 m.viet69.chat
+0.0.0.0 m.viet69.tech
 0.0.0.0 m.viva88.com
 0.0.0.0 m.vlxx.in
 0.0.0.0 m.vlxxvietsub.net
@@ -20884,6 +20888,7 @@
 0.0.0.0 maturezilla.com
 0.0.0.0 maturosexy.com
 0.0.0.0 maturs.net
+0.0.0.0 maulon.pro
 0.0.0.0 mawebcamsexe.fr
 0.0.0.0 max.porn
 0.0.0.0 maxanalporn.com
@@ -21881,6 +21886,7 @@
 0.0.0.0 mp4.mojoporntube.com
 0.0.0.0 mphimsex.me
 0.0.0.0 mphimsex.pro
+0.0.0.0 mphimsex.xyz
 0.0.0.0 mpi.gov.tr
 0.0.0.0 mpl.live
 0.0.0.0 mplcuties.com
@@ -25743,6 +25749,7 @@
 0.0.0.0 phimsex1.club
 0.0.0.0 phimsex1.net
 0.0.0.0 phimsex1080.com
+0.0.0.0 phimsex123.net
 0.0.0.0 phimsex14.net
 0.0.0.0 phimsex15.com
 0.0.0.0 phimsex17.com
@@ -25983,6 +25990,7 @@
 0.0.0.0 phimsexsub.online
 0.0.0.0 phimsexsub.plus
 0.0.0.0 phimsexsub.pro
+0.0.0.0 phimsexsub.pw
 0.0.0.0 phimsexsub.sex
 0.0.0.0 phimsexsub.vip
 0.0.0.0 phimsext.net
@@ -26007,7 +26015,6 @@
 0.0.0.0 phimsexvideos.top
 0.0.0.0 phimsexviet.info
 0.0.0.0 phimsexviet.one
-0.0.0.0 phimsexviet.to
 0.0.0.0 phimsexviet.xxx
 0.0.0.0 phimsexviet.xyz
 0.0.0.0 phimsexviet789.com
@@ -26021,6 +26028,7 @@
 0.0.0.0 phimsexvietnam.vip
 0.0.0.0 phimsexvietsub.asia
 0.0.0.0 phimsexvietsub.club
+0.0.0.0 phimsexvietsub.site
 0.0.0.0 phimsexvietsub.vip
 0.0.0.0 phimsexvip.cc
 0.0.0.0 phimsexvip.mobi
@@ -29658,6 +29666,7 @@
 0.0.0.0 sex.nikee.net
 0.0.0.0 sex.porno800.com
 0.0.0.0 sex.sex
+0.0.0.0 sex.viet69.tech
 0.0.0.0 sex.vip
 0.0.0.0 sex.xcudem.com
 0.0.0.0 sex.xxx
@@ -29824,9 +29833,11 @@
 0.0.0.0 sexdep.pro
 0.0.0.0 sexdep.tv
 0.0.0.0 sexdep.xyz
+0.0.0.0 sexdeptv.net
 0.0.0.0 sexdesant.com
 0.0.0.0 sexdesiporn.pro
 0.0.0.0 sexdiary.cc
+0.0.0.0 sexdiaryz.pro
 0.0.0.0 sexdiaryz.xyz
 0.0.0.0 sexdicted.com
 0.0.0.0 sexdildoking.com
@@ -30017,6 +30028,7 @@
 0.0.0.0 sexjapanpics.com
 0.0.0.0 sexjapantv.com
 0.0.0.0 sexjav.cc
+0.0.0.0 sexjavhd.org
 0.0.0.0 sexjobs.nl
 0.0.0.0 sexjohn.com
 0.0.0.0 sexkeel.com
@@ -30301,11 +30313,13 @@
 0.0.0.0 sextop1.club
 0.0.0.0 sextop1.dev
 0.0.0.0 sextop1.fun
+0.0.0.0 sextop1.love
 0.0.0.0 sextop1.net
 0.0.0.0 sextop1.news
 0.0.0.0 sextop1.one
 0.0.0.0 sextop1.sex
 0.0.0.0 sextop1.video
+0.0.0.0 sextop1.win
 0.0.0.0 sextop10.pro
 0.0.0.0 sextop123.com
 0.0.0.0 sextop18.plus
@@ -30323,6 +30337,7 @@
 0.0.0.0 sextronix.com
 0.0.0.0 sextructuyen.com
 0.0.0.0 sextrung.me
+0.0.0.0 sextrung.top
 0.0.0.0 sextrungquoc.biz
 0.0.0.0 sextrungquoc.co
 0.0.0.0 sextrungquoc.mobi
@@ -30433,6 +30448,7 @@
 0.0.0.0 sexvietvl.com
 0.0.0.0 sexvietvl.net
 0.0.0.0 sexvietvl.pro
+0.0.0.0 sexvietx.net
 0.0.0.0 sexvietz.co
 0.0.0.0 sexvietz.org
 0.0.0.0 sexvintagemovies.com
@@ -32360,6 +32376,7 @@
 0.0.0.0 tammys-obsessions.tumblr.com
 0.0.0.0 tamolazosperuvian.blogspot.com
 0.0.0.0 tamsu9x.com
+0.0.0.0 tangl0c.8day66.com
 0.0.0.0 taniateen.blogspot.com
 0.0.0.0 tantegirangditiduri.blogspot.com
 0.0.0.0 tantoporno.com
@@ -33363,6 +33380,7 @@
 0.0.0.0 ticklegasms.tumblr.com
 0.0.0.0 tiedgirlsnet.tumblr.com
 0.0.0.0 tiemposyencanto.blogspot.com
+0.0.0.0 tienlen.8day66.com
 0.0.0.0 tienve.thethaofb88.com
 0.0.0.0 tiffani-amber-thiessen.blogspot.com
 0.0.0.0 tiffany-amber-thiessen.blogspot.com
@@ -34537,6 +34555,7 @@
 0.0.0.0 uvtho5ve2q.ent-cdn.com
 0.0.0.0 uw88vnd.com
 0.0.0.0 uw88vnd1.com
+0.0.0.0 uytin.8day66.com
 0.0.0.0 v-anale.cc
 0.0.0.0 v-lang.eu
 0.0.0.0 v-rn.slutload-media.com
@@ -35023,6 +35042,7 @@
 0.0.0.0 viet69.social
 0.0.0.0 viet69.store
 0.0.0.0 viet69.studio
+0.0.0.0 viet69.tech
 0.0.0.0 viet69.to
 0.0.0.0 viet69.us
 0.0.0.0 viet69.vc
@@ -35393,7 +35413,6 @@
 0.0.0.0 vlxx.cm
 0.0.0.0 vlxx.contact
 0.0.0.0 vlxx.day
-0.0.0.0 vlxx.es
 0.0.0.0 vlxx.fun
 0.0.0.0 vlxx.gay
 0.0.0.0 vlxx.icu
@@ -35440,6 +35459,7 @@
 0.0.0.0 vlxxsex.com
 0.0.0.0 vlxxsub.net
 0.0.0.0 vlxxtop.com
+0.0.0.0 vlxxtube.cc
 0.0.0.0 vlxxtube.com
 0.0.0.0 vlxxtube.net
 0.0.0.0 vlxxvc.com
@@ -35469,11 +35489,13 @@
 0.0.0.0 vn.ku6133.net
 0.0.0.0 vn.pg.bet
 0.0.0.0 vn.phimsexsub.info
+0.0.0.0 vn.phym18.com
 0.0.0.0 vn.sol999.com
 0.0.0.0 vn.solarbet.com
 0.0.0.0 vn.solbet88.com
 0.0.0.0 vn.tbab556.com
 0.0.0.0 vn.viet69.chat
+0.0.0.0 vn.vlxxtube.cc
 0.0.0.0 vn.vndbetway.com
 0.0.0.0 vn138.net
 0.0.0.0 vn138viet.com
@@ -36188,6 +36210,7 @@
 0.0.0.0 willigedamen.com
 0.0.0.0 willow203.tumblr.com
 0.0.0.0 wilsonbet.com
+0.0.0.0 win.8day66.com
 0.0.0.0 win.vaorikvip.com
 0.0.0.0 win102.com
 0.0.0.0 win29.com
@@ -43430,6 +43453,7 @@
 0.0.0.0 www.i9bet25.com
 0.0.0.0 www.i9bet26.com
 0.0.0.0 www.i9bet31.com
+0.0.0.0 www.i9bet35.com
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
@@ -48492,6 +48516,7 @@
 0.0.0.0 www.sexoyfetichismo.blogspot.com
 0.0.0.0 www.sexpeeper.com
 0.0.0.0 www.sexperiencesex.blogspot.com
+0.0.0.0 www.sexphimhds.net
 0.0.0.0 www.sexphotos.pw
 0.0.0.0 www.sexpicturespass.com
 0.0.0.0 www.sexpicxxx.net
@@ -51724,6 +51749,7 @@
 0.0.0.0 x.adult-empire.com
 0.0.0.0 x.babe.today
 0.0.0.0 x.fap.to
+0.0.0.0 x.phimsexsub.pw
 0.0.0.0 x.sextop1.life
 0.0.0.0 x.teenssites.net
 0.0.0.0 x00xbeautiful-disasterx00x.tumblr.com
@@ -51898,6 +51924,7 @@
 0.0.0.0 xemsexvip.net
 0.0.0.0 xemsexvip.pro
 0.0.0.0 xemsexvl.net
+0.0.0.0 xemsexvl.pro
 0.0.0.0 xemsexvn.com
 0.0.0.0 xemsexvn.me
 0.0.0.0 xemsexvn.tv
@@ -52005,6 +52032,7 @@
 0.0.0.0 xhwebsite.com
 0.0.0.0 xhwide2.com
 0.0.0.0 xhypnotube.com
+0.0.0.0 xidach.8day66.com
 0.0.0.0 xihck.blogspot.com
 0.0.0.0 ximage.cyou
 0.0.0.0 xindiana.com
