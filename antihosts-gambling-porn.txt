@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-12-26 21:37:36
+# DATE: 2022-12-29 21:37:44
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -13910,6 +13910,7 @@
 0.0.0.0 hgamecg.com
 0.0.0.0 hh-imgs.cyou
 0.0.0.0 hheennttaaii.tumblr.com
+0.0.0.0 hhentai.net
 0.0.0.0 hhime.com
 0.0.0.0 hi-wife.com
 0.0.0.0 hi.chaturbate.com
@@ -14695,6 +14696,7 @@
 0.0.0.0 i0.wlmediahub.com
 0.0.0.0 i1.cdn2b.image.pornhub.phncdn.com
 0.0.0.0 i1.dvdl.net
+0.0.0.0 i1.hhentai.net
 0.0.0.0 i1.pc20160301.com
 0.0.0.0 i1.yourhentaipics.com
 0.0.0.0 i18girls.com
@@ -14709,6 +14711,7 @@
 0.0.0.0 i3.fapality.com
 0.0.0.0 i3.fvporn.com
 0.0.0.0 i3.hentaivn.tv
+0.0.0.0 i3.hhentai.net
 0.0.0.0 i3.pc20160301.com
 0.0.0.0 i4.fapality.com
 0.0.0.0 i4.fvporn.com
@@ -14767,6 +14770,7 @@
 0.0.0.0 i9bet3.com
 0.0.0.0 i9bet30.com
 0.0.0.0 i9bet31.com
+0.0.0.0 i9bet32.com
 0.0.0.0 i9bet333.com
 0.0.0.0 i9bet35.com
 0.0.0.0 i9bet4.com
@@ -34480,6 +34484,7 @@
 0.0.0.0 unusualporn.net
 0.0.0.0 unuzroe.angelfire.com
 0.0.0.0 uominisenzapudore.blogspot.com
+0.0.0.0 up1.hhentai.net
 0.0.0.0 up2.hentaivn.tv
 0.0.0.0 upanh.vn88.com
 0.0.0.0 upbbw.com
@@ -43453,6 +43458,7 @@
 0.0.0.0 www.i9bet25.com
 0.0.0.0 www.i9bet26.com
 0.0.0.0 www.i9bet31.com
+0.0.0.0 www.i9bet32.com
 0.0.0.0 www.i9bet35.com
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
