@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2022-12-20 21:37:47
+! Version: 2023-01-04 21:38:02
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -137,7 +137,6 @@ jads.co
 |https://tellme.pw/go/jav$popup
 |https://$script,subdocument,popup,3p,domain=btsow.beauty|dandanzan10.top|nunuyy5.org|rarbgprx.org
 statsy.net
-@@||dyncdn.me/static/20/js/jquery$script
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
 age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
@@ -145,11 +144,12 @@ age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
 cdn.sosrom.cn
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
-dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
-dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
-dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
-dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
-dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
+dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
+dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+shipostrich.com
 trustedgatetocontent.com
 wpadmngr.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup

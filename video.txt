@@ -1,4 +1,4 @@
-! ----Updatetime: 2022-12-20 21:37:47 by:Mr.K----
+! ----Updatetime: 2023-01-04 21:38:02 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -77,7 +77,8 @@ jads.co
 statsy.net
 cdn.sosrom.cn
 d58zz.com
-dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+shipostrich.com
 trustedgatetocontent.com
 wpadmngr.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
@@ -126,7 +127,6 @@ stgowan.com
 ||msstatic.com/huya/*/p2plib.js$script
 */preroll/$media,domain=91porn.com
 ||btsow.beauty/app/jav$image
-@@||dyncdn.me/static/20/js/jquery$script
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
 ||toutiaoimg.com/origin/$image,domain=mgtv1.org|agemys.net|acgndmku.com|subaibaiys.com
