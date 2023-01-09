@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2022-12-20 21:37:47
+! Version: 2023-01-09 21:38:03
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
@@ -1106,6 +1106,7 @@ erebor.douban.com
 *_300_250_$image
 *_728x90_$image
 *_950x90.gif$image
+@@||learn.microsoft.com/video/media/*_960.jpg|$image,domain=learn.microsoft.com
 *_960.$image
 *_960_60.$image
 *_960_90.$image

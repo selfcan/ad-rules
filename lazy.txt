@@ -1,4 +1,4 @@
-! ----Updatetime: 2022-12-06 21:38:18 by:Mr.K----
+! ----Updatetime: 2023-01-09 21:38:03 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -1211,6 +1211,7 @@ pageMediaControl*$script
 *_300_250_$image
 *_728x90_$image
 *_950x90.gif$image
+@@||learn.microsoft.com/video/media/*_960.jpg|$image,domain=learn.microsoft.com
 *_960.$image
 *_960_60.$image
 *_960_90.$image
