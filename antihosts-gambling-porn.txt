@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-01-06 21:38:03
+# DATE: 2023-01-12 21:37:54
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -424,6 +424,7 @@
 0.0.0.0 321sexchat.fchat.net
 0.0.0.0 321webcams.com
 0.0.0.0 32redsport.com
+0.0.0.0 331725.com
 0.0.0.0 338kbet.com
 0.0.0.0 33beta.com
 0.0.0.0 33betad.com
@@ -632,11 +633,18 @@
 0.0.0.0 69-sexgames.com
 0.0.0.0 69-webcams.com
 0.0.0.0 6990425.ahcdn.com
+0.0.0.0 69dinhtruong.com
+0.0.0.0 69ducthien.com
 0.0.0.0 69games.xxx
+0.0.0.0 69hoanglam.com
+0.0.0.0 69huyhoang.com
+0.0.0.0 69minhduc.com
+0.0.0.0 69nguyenhuuphuoc.com
+0.0.0.0 69nguyenvanduc.com
 0.0.0.0 69teensex.com
 0.0.0.0 69teentube.com
 0.0.0.0 69threesome.blogspot.com
-0.0.0.0 69vip2.com
+0.0.0.0 69truonghuunguyen.com
 0.0.0.0 6adcgngnn.ggccxpj006.xyz
 0.0.0.0 6bangs.com
 0.0.0.0 6chat.streamray.com
@@ -749,6 +757,7 @@
 0.0.0.0 888betk8.net
 0.0.0.0 888k8vn.com
 0.0.0.0 888sport.com
+0.0.0.0 888thao.com
 0.0.0.0 889ae888.com
 0.0.0.0 88asia88.com
 0.0.0.0 88bet.vin
@@ -766,8 +775,12 @@
 0.0.0.0 88new.cc
 0.0.0.0 88online.live
 0.0.0.0 88online.me
+0.0.0.0 88quay.com
+0.0.0.0 88quayclub.com
 0.0.0.0 88sports.com
+0.0.0.0 88sports88.com
 0.0.0.0 88thaicasinoslots.com
+0.0.0.0 88thao88.com
 0.0.0.0 88uu.app
 0.0.0.0 88viet.com
 0.0.0.0 88vin.zone
@@ -815,6 +828,7 @@
 0.0.0.0 8kpornvids.com
 0.0.0.0 8ksexmovie.com
 0.0.0.0 8kun.top
+0.0.0.0 8live.club
 0.0.0.0 8live.com
 0.0.0.0 8live.fun
 0.0.0.0 8live.net
@@ -834,6 +848,7 @@
 0.0.0.0 8teenxxx.com
 0.0.0.0 8teenxxxhd.com
 0.0.0.0 8ten.club
+0.0.0.0 8thao8.com
 0.0.0.0 8thstreetlatinas.com
 0.0.0.0 8x055.com
 0.0.0.0 8xbet.cc
@@ -848,12 +863,6 @@
 0.0.0.0 8xbet05.com
 0.0.0.0 8xbet06.com
 0.0.0.0 8xbet11.com
-0.0.0.0 8xbet115.com
-0.0.0.0 8xbet22.com
-0.0.0.0 8xbet5.com
-0.0.0.0 8xbet71.com
-0.0.0.0 8xbet888.com
-0.0.0.0 8xbet96.com
 0.0.0.0 90dakika.com
 0.0.0.0 910833.com
 0.0.0.0 911asians.com
@@ -7509,6 +7518,7 @@
 0.0.0.0 clipcat.net
 0.0.0.0 clipcelebrity.com
 0.0.0.0 clipchich.com
+0.0.0.0 cliphot-vn.com
 0.0.0.0 cliphot.biz
 0.0.0.0 cliphot.cc
 0.0.0.0 cliphot.live
@@ -7521,6 +7531,7 @@
 0.0.0.0 cliphotne.com
 0.0.0.0 cliphotqua.com
 0.0.0.0 cliphotvn.com
+0.0.0.0 cliphotvn.org
 0.0.0.0 cliphubs.com
 0.0.0.0 cliphunter.com
 0.0.0.0 cliphunter.global
@@ -7554,6 +7565,7 @@
 0.0.0.0 clipsexhot.org
 0.0.0.0 clipsexmoi.com
 0.0.0.0 clipsextop.com
+0.0.0.0 clipsexviet.live
 0.0.0.0 clipsexviet.xyz
 0.0.0.0 clipsexvn.me
 0.0.0.0 clipsexvn.net
@@ -14079,6 +14091,18 @@
 0.0.0.0 hitzefrei.com
 0.0.0.0 hiyoko0.x.fc2.com
 0.0.0.0 hkcafekaty.com
+0.0.0.0 hl8.daily123hl8.com
+0.0.0.0 hl8atm.com
+0.0.0.0 hl8bai.com
+0.0.0.0 hl8bongda.com
+0.0.0.0 hl8casino.com
+0.0.0.0 hl8club.com
+0.0.0.0 hl8hn.com
+0.0.0.0 hl8lucky.com
+0.0.0.0 hl8media.com
+0.0.0.0 hl8thai8.com
+0.0.0.0 hl8vi.com
+0.0.0.0 hl8vn.fun
 0.0.0.0 hlebo.mobi
 0.0.0.0 hls-hw.xnxx-cdn.com
 0.0.0.0 hls-hw.xvideos-cdn.com
@@ -16067,6 +16091,7 @@
 0.0.0.0 iseekgirls.com
 0.0.0.0 iseekyoung.com
 0.0.0.0 isexychat.com
+0.0.0.0 ishg.xyz
 0.0.0.0 ishootporn.com
 0.0.0.0 isht.tumblr.com
 0.0.0.0 isitmymom.com
@@ -16666,6 +16691,7 @@
 0.0.0.0 javnhatban.pro
 0.0.0.0 javnoi.xyz
 0.0.0.0 javnong.cc
+0.0.0.0 javnong.top
 0.0.0.0 javnong.xyz
 0.0.0.0 javopen.co
 0.0.0.0 javout.net
@@ -18952,6 +18978,7 @@
 0.0.0.0 khieudam.club
 0.0.0.0 khoailac.net
 0.0.0.0 khoanhnguoinoitieng.blogspot.com
+0.0.0.0 khohieu.com
 0.0.0.0 khongche.net
 0.0.0.0 khongche.us
 0.0.0.0 khophim1080.com
@@ -19118,6 +19145,7 @@
 0.0.0.0 klubxx.com
 0.0.0.0 km-pics.phncdn.com
 0.0.0.0 km.playmanclub.vin
+0.0.0.0 km1888866b.com
 0.0.0.0 km238b.com
 0.0.0.0 kmisa68.com
 0.0.0.0 knakworst.blogspot.com
@@ -20328,6 +20356,7 @@
 0.0.0.0 lvbet.pl
 0.0.0.0 lvs.streamray.com
 0.0.0.0 lxax.com
+0.0.0.0 lxviet66.com
 0.0.0.0 lydia-ramirez.blogspot.com
 0.0.0.0 lynxdollars.com
 0.0.0.0 lyrics.filestube.com
@@ -20414,6 +20443,7 @@
 0.0.0.0 m.lode88.vip
 0.0.0.0 m.lucky88.com
 0.0.0.0 m.lucky88.net
+0.0.0.0 m.lxviet66.com
 0.0.0.0 m.m88my.com
 0.0.0.0 m.m88vina.com
 0.0.0.0 m.mansion66.com
@@ -20688,6 +20718,7 @@
 0.0.0.0 manhwa18.com
 0.0.0.0 manhwa24h.com
 0.0.0.0 manhwa24hs.com
+0.0.0.0 manhwa24hz.com
 0.0.0.0 manhwahentai.me
 0.0.0.0 maniacosporcomics.com
 0.0.0.0 maniacpass.com
@@ -30395,6 +30426,7 @@
 0.0.0.0 sexroom.live
 0.0.0.0 sexsagar.com
 0.0.0.0 sexsaoy.com
+0.0.0.0 sexsb.xyz
 0.0.0.0 sexsbarrel.com
 0.0.0.0 sexsearch.com
 0.0.0.0 sexsearchcom.com
@@ -32586,7 +32618,7 @@
 0.0.0.0 tbh-horny.tumblr.com
 0.0.0.0 tbib.org
 0.0.0.0 tblop.com
-0.0.0.0 tbr11.com
+0.0.0.0 tbr.games
 0.0.0.0 tcams.me
 0.0.0.0 tcccams.com
 0.0.0.0 tcms.psmcdn.net
@@ -33139,6 +33171,8 @@
 0.0.0.0 thank-me-for-your-brands.tumblr.com
 0.0.0.0 thantai68.com
 0.0.0.0 thao.live
+0.0.0.0 thao88.com
+0.0.0.0 thao888.com
 0.0.0.0 tharki.blogspot.com
 0.0.0.0 thatpervert.com
 0.0.0.0 thatpoofybunny.tumblr.com
@@ -33657,6 +33691,7 @@
 0.0.0.0 tjoob.com
 0.0.0.0 tk326.com
 0.0.0.0 tk66.app
+0.0.0.0 tk66.tv
 0.0.0.0 tk66vn.com
 0.0.0.0 tk88g.com
 0.0.0.0 tkaz.net
@@ -36768,6 +36803,7 @@
 0.0.0.0 www.321webcams.com
 0.0.0.0 www.32red.com
 0.0.0.0 www.32redsport.com
+0.0.0.0 www.331725.com
 0.0.0.0 www.338kbet.com
 0.0.0.0 www.33beta.com
 0.0.0.0 www.33betad.com
@@ -36950,10 +36986,6 @@
 0.0.0.0 www.8xbet.tv
 0.0.0.0 www.8xbet.xyz
 0.0.0.0 www.8xbet05.com
-0.0.0.0 www.8xbet115.com
-0.0.0.0 www.8xbet22.com
-0.0.0.0 www.8xbet71.com
-0.0.0.0 www.8xbet96.com
 0.0.0.0 www.90dakika.com
 0.0.0.0 www.91jav.com
 0.0.0.0 www.91porn.com
@@ -50752,6 +50784,7 @@
 0.0.0.0 www.vnq8.net
 0.0.0.0 www.vnq8.win
 0.0.0.0 www.vntop88.com
+0.0.0.0 www.vnzb8.com
 0.0.0.0 www.voayeurs.com
 0.0.0.0 www.vod.com
 0.0.0.0 www.vod.topbucks.com
