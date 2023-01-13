@@ -1,9 +1,8 @@
-! ----Updatetime: 2023-01-04 21:38:02 by:Mr.K----
+! ----Updatetime: 2023-01-13 21:37:51 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
 cad.youku.com
-|https://static.youku.com/index/js/ikuAdapterNew.js
 apisgame.iqiyi.com
 static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
@@ -100,7 +99,6 @@ orgaorg.com
 quandangdang.net
 stgowan.com
 @@||mmstat.com^$domain=youku.com
-||cibntv.net/youku/$media,important
 ||sealine.youku.com/yk/*callback=adpagesdk$script
 ||static.iqiyi.com/js/common/mars_v.js$script
 ||iqiyi.com/videos/other/202$xmlhttprequest
