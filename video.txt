@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-01-13 21:37:51 by:Mr.K----
+! ----Updatetime: 2023-01-14 21:37:32 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -83,6 +83,7 @@ wpadmngr.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 4kya.com###player_pause
+www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
 ch-hr12333.com
 cppoc.com
 g1c5.com
