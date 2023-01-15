@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-01-14 21:37:32 by:Mr.K----
+! ----Updatetime: 2023-01-15 21:37:32 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -63,7 +63,6 @@ g.huya.com
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 ||onetrust.
 litix.io
-stripe.com
 youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
 youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
 ||youtube.com/pagead/
@@ -124,6 +123,7 @@ stgowan.com
 ||jd.com/$domain=le.com
 ||douyucdn.cn/adxdsp/$image
 ||msstatic.com/huya/*/p2plib.js$script
+||stripe.com^$script,domain=~nextdns.io
 */preroll/$media,domain=91porn.com
 ||btsow.beauty/app/jav$image
 ||dyncdn.me/static/20/js/showads.js$script

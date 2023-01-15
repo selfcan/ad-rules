@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-01-09 21:38:03 by:Mr.K----
+! ----Updatetime: 2023-01-15 21:37:32 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -963,7 +963,7 @@ pageMediaControl*$script
 @@||media.nintendo.com/share/nclood/stable/en-us/bundles/microsite.min.js$script
 */pagead$script
 */s.php?id=$script,third-party
-*/pop.js^$domain=~autohome.com.cn|~patch.ali213.net
+*/pop.js^$domain=~socpk.com|~autohome.com.cn|~patch.ali213.net
 *.pop.js^$script
 */float.js^$script,domain=~keylol.com
 *gonggao.js|$domain=~lol.qq.com

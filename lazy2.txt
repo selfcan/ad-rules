@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2023-01-09 21:38:03
+! Version: 2023-01-15 21:37:32
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
@@ -156,7 +156,7 @@ pageMediaControl*$script
 */pagead$script
 */s.php?id=$script,third-party
 */piao.js|
-*/pop.js^$domain=~autohome.com.cn|~patch.ali213.net
+*/pop.js^$domain=~socpk.com|~autohome.com.cn|~patch.ali213.net
 *.pop.js^$script
 */float.js^$script,domain=~keylol.com
 *gonggao.js|$domain=~lol.qq.com
