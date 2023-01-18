@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-01-15 21:37:32 by:Mr.K----
+! ----Updatetime: 2023-01-18 21:38:26 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -41,7 +41,6 @@ zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,
 ||adsense.
 */adsense/
 ||adserver.
-@@||g.tbcdn.cn/
 ||gg.
 ||ggg.
 37cs.com
@@ -651,7 +650,6 @@ erebor.douban.com
 */inner_center1
 */intf/bbs_expert
 */js/118.
-*/js/3000.
 */js/300X250-
 */js/66*x60.
 */js/acmsd/
@@ -1176,6 +1174,7 @@ pageMediaControl*$script
 */js/1.htm$subdocument
 @@||wago.io/js/118.$script
 */js/22.$subdocument
+*/js/3000.$domain=~dict.naver.com
 */js/33.$subdocument
 */js/asp.js^$script
 */js/bd.js^$domain=~dmhy.org
