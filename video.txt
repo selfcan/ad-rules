@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-01-15 21:37:32 by:Mr.K----
+! ----Updatetime: 2023-01-19 21:38:04 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -83,11 +83,6 @@ netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 4kya.com###player_pause
 www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
-ch-hr12333.com
-cppoc.com
-g1c5.com
-geoparker.net
-jinrongwang.net
 onenews.vip
 quickapp.cn
 v4dwkcv.com
@@ -106,7 +101,6 @@ stgowan.com
 ||iqiyipic.com/image/20*_100000$image
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
-@@||g.w.bilicdn1.com/$script,domain=bilibili.com
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||hdslb.com/bfs/sycp/creative_img/$image
 ||imall.cctv.com/$subdocument
@@ -128,9 +122,10 @@ stgowan.com
 ||btsow.beauty/app/jav$image
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
-||toutiaoimg.com/origin/$image,domain=mgtv1.org|agemys.net|acgndmku.com|subaibaiys.com
+||toutiaoimg.com/origin/$image,domain=agemys.net|acgndmku.com|subaibaiys.com
 @@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
 ||wp.com/netflixya.com/upload/$image
 ||yanetflix.com/upload/vod/$image
+|https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image

@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-01-18 21:38:26 by:Mr.K----
+! ----Updatetime: 2023-01-19 21:38:04 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -792,7 +792,6 @@ vegaschina.cn
 ||xmindchina.
 xshellcn.com
 yihuifu.cn
-www.zhzzx.com
 ||in.appcenter.ms/logs?
 ||napp.catchingnow.com/logs
 ||analytics.map.qq.com^
