@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-01-27 21:37:45
+# DATE: 2023-01-31 21:38:00
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -426,6 +426,7 @@
 0.0.0.0 321webcams.com
 0.0.0.0 32redsport.com
 0.0.0.0 331725.com
+0.0.0.0 331729.com
 0.0.0.0 338kbet.com
 0.0.0.0 33beta.com
 0.0.0.0 33betad.com
@@ -609,7 +610,6 @@
 0.0.0.0 5kteens.com
 0.0.0.0 5naf.booru.org
 0.0.0.0 5sex.maulon.pro
-0.0.0.0 5shbet.com
 0.0.0.0 5srvpecon.ggccxpj005.xyz
 0.0.0.0 5starangels.com
 0.0.0.0 608822.com
@@ -1212,6 +1212,7 @@
 0.0.0.0 ads16.win888b.com
 0.0.0.0 ads2.tuccus.com
 0.0.0.0 ads23.win888b.com
+0.0.0.0 ads5.dangkybum.club
 0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 adserver.juicybucks.com
 0.0.0.0 adserver.penthouse.com
@@ -1540,6 +1541,7 @@
 0.0.0.0 ae888sports01.com
 0.0.0.0 ae888vn.com
 0.0.0.0 ae988bet.com
+0.0.0.0 aebet.bet
 0.0.0.0 aebn.net
 0.0.0.0 aenyc.blogspot.com
 0.0.0.0 aepics.com
@@ -4194,7 +4196,9 @@
 0.0.0.0 bayvip.tv
 0.0.0.0 bayvip247.fun
 0.0.0.0 bayvip247.live
+0.0.0.0 bayvip247.me
 0.0.0.0 bayvip247.page
+0.0.0.0 bayvip247.win
 0.0.0.0 bazoocam.org
 0.0.0.0 bb.camsoda.com
 0.0.0.0 bb11.live
@@ -5000,6 +5004,7 @@
 0.0.0.0 bk8vn.live
 0.0.0.0 bk8vn.vip
 0.0.0.0 bk8vnd.com
+0.0.0.0 bk8win.top
 0.0.0.0 bknkz.flndmyiove.net
 0.0.0.0 bl.definebabe.com
 0.0.0.0 bl.definefetish.com
@@ -8575,6 +8580,7 @@
 0.0.0.0 dangky.go88.com
 0.0.0.0 dangky.thethaofb88.com
 0.0.0.0 dangkybayvip.com
+0.0.0.0 dangkybum.club
 0.0.0.0 dangkykubet.vip
 0.0.0.0 dangkythabet.com
 0.0.0.0 danimiles.com
@@ -9285,7 +9291,9 @@
 0.0.0.0 download-porn-movies.blogspot.com
 0.0.0.0 download.bayvip.tv
 0.0.0.0 download.bayvip247.live
+0.0.0.0 download.bayvip247.me
 0.0.0.0 download.bayvip247.page
+0.0.0.0 download.bayvip247.win
 0.0.0.0 downloadfromxvideos.com
 0.0.0.0 downloadpornmovies4u.blogspot.com
 0.0.0.0 downloadpornogratis.blogspot.com
@@ -9425,6 +9433,7 @@
 0.0.0.0 dualeotruyen1s.com
 0.0.0.0 dualeotruyen24h.com
 0.0.0.0 dualeotruyen3s.com
+0.0.0.0 dubaivn.vip
 0.0.0.0 dubhentai.blogspot.com
 0.0.0.0 duccai.com
 0.0.0.0 duccai.xyz
@@ -13553,6 +13562,7 @@
 0.0.0.0 hayvkl.xyz
 0.0.0.0 hayvl.pro
 0.0.0.0 hazehim.com
+0.0.0.0 hb8864.com
 0.0.0.0 hb8875.com
 0.0.0.0 hb8887.com
 0.0.0.0 hb88p.com
@@ -14929,6 +14939,7 @@
 0.0.0.0 i9bet39.com
 0.0.0.0 i9bet4.com
 0.0.0.0 i9bet444.com
+0.0.0.0 i9bet49.com
 0.0.0.0 i9bet5.com
 0.0.0.0 i9bet6.com
 0.0.0.0 i9bet666.com
@@ -16222,6 +16233,9 @@
 0.0.0.0 iwantu.com
 0.0.0.0 iwiin.club
 0.0.0.0 iwin.club
+0.0.0.0 iwin.info
+0.0.0.0 iwin6699.com
+0.0.0.0 iwin68m.com
 0.0.0.0 iwinapk.link
 0.0.0.0 iwinapplink.club
 0.0.0.0 iwinclub.win
@@ -20526,6 +20540,7 @@
 0.0.0.0 m.sextvx.com
 0.0.0.0 m.sexu.com
 0.0.0.0 m.sexzz.me
+0.0.0.0 m.shbet.love
 0.0.0.0 m.skybet.com
 0.0.0.0 m.skypecam.streamray.com
 0.0.0.0 m.spankbang.com
@@ -26804,8 +26819,10 @@
 0.0.0.0 playingmatures.com
 0.0.0.0 playitagainceeci.blogspot.com
 0.0.0.0 playiwin.biz
+0.0.0.0 playiwin.club
 0.0.0.0 playiwin.in
 0.0.0.0 playiwin.site
+0.0.0.0 playiwin.top
 0.0.0.0 playiwin.uk
 0.0.0.0 playmanclub.uk
 0.0.0.0 playmanclub.vin
@@ -29093,6 +29110,7 @@
 0.0.0.0 rijpevrouwenwebcams.com
 0.0.0.0 rik.bet
 0.0.0.0 rik.club
+0.0.0.0 rik.top
 0.0.0.0 rik.vip
 0.0.0.0 rik.win
 0.0.0.0 rikbet789.club
@@ -30970,15 +30988,14 @@
 0.0.0.0 shavkunovayb4a.tumblr.com
 0.0.0.0 shawnalenee.tv
 0.0.0.0 shawnslip.tumblr.com
-0.0.0.0 shb11.com
 0.0.0.0 shbet.com
+0.0.0.0 shbet.love
+0.0.0.0 shbet.me
+0.0.0.0 shbet.news
+0.0.0.0 shbet.rip
 0.0.0.0 shbet.site
 0.0.0.0 shbet.vin
 0.0.0.0 shbet.win
-0.0.0.0 shbet0.com
-0.0.0.0 shbet3.com
-0.0.0.0 shbetcc.com
-0.0.0.0 shbetvv.com
 0.0.0.0 she-gon-squirt.tumblr.com
 0.0.0.0 she-is-my-submissive.tumblr.com
 0.0.0.0 she66.com
@@ -32570,10 +32587,12 @@
 0.0.0.0 tai.nhatvip.live
 0.0.0.0 tai.rik.bet
 0.0.0.0 tai.rik.club
+0.0.0.0 tai.rik.top
 0.0.0.0 tai.rikvip.tv
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
+0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai.yo88vn.us
 0.0.0.0 tai.you88.vin
@@ -33634,6 +33653,7 @@
 0.0.0.0 thunderpick.com
 0.0.0.0 thuonghieunhacai.com
 0.0.0.0 thuonghieunhacai.net
+0.0.0.0 thuongkingfun.biz
 0.0.0.0 thvwbet.com
 0.0.0.0 tia-tanaka.com
 0.0.0.0 tiasenwebcams.com.ar
@@ -36537,8 +36557,10 @@
 0.0.0.0 win365good.com
 0.0.0.0 win365vip8.com
 0.0.0.0 win365vip9.com
+0.0.0.0 win456.cc
 0.0.0.0 win79.app
 0.0.0.0 win79.download
+0.0.0.0 win79.pro
 0.0.0.0 win79.vip
 0.0.0.0 win79play.me
 0.0.0.0 win88.me
@@ -36904,6 +36926,7 @@
 0.0.0.0 www.32red.com
 0.0.0.0 www.32redsport.com
 0.0.0.0 www.331725.com
+0.0.0.0 www.331729.com
 0.0.0.0 www.338kbet.com
 0.0.0.0 www.33beta.com
 0.0.0.0 www.33betad.com
@@ -39762,6 +39785,7 @@
 0.0.0.0 www.bk8vn.live
 0.0.0.0 www.bk8vn.vip
 0.0.0.0 www.bk8vnd.com
+0.0.0.0 www.bk8win.top
 0.0.0.0 www.black--anal--sex.blogspot.com
 0.0.0.0 www.black-cat-teens.blogspot.com
 0.0.0.0 www.black-porn-ebony-sex.blogspot.com
@@ -43208,6 +43232,7 @@
 0.0.0.0 www.hawaiianwhores.blogspot.com
 0.0.0.0 www.hawaiicasino.com
 0.0.0.0 www.hazehim.com
+0.0.0.0 www.hb8864.com
 0.0.0.0 www.hb8887.com
 0.0.0.0 www.hb88g.com
 0.0.0.0 www.hb88h.com
@@ -43781,6 +43806,7 @@
 0.0.0.0 www.i9bet35.com
 0.0.0.0 www.i9bet36.com
 0.0.0.0 www.i9bet444.com
+0.0.0.0 www.i9bet49.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
 0.0.0.0 www.i9bet888.com
@@ -52088,6 +52114,7 @@
 0.0.0.0 x.adult-empire.com
 0.0.0.0 x.babe.today
 0.0.0.0 x.fap.to
+0.0.0.0 x.phimsexsub.co
 0.0.0.0 x.phimsexsub.pw
 0.0.0.0 x.sextop1.life
 0.0.0.0 x.teenssites.net
