@@ -1,13 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2023-01-28 21:37:48
+! Version: 2023-02-05 21:37:42
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 ||cpro.$domain=~baidu.com
 ada.baidu.com
 cstm.baidu.com
-dlswbr.baidu.com
 ||dup.baidustatic.com/
 ||ubmcmm.baidustatic.com/
 ||adscdn.baidu.com/
