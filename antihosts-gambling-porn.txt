@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-02-07 21:38:03
+# DATE: 2023-02-16 21:38:01
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -33,6 +33,7 @@
 0.0.0.0 03bestk8.com
 0.0.0.0 03gamek8.com
 0.0.0.0 03prok8.com
+0.0.0.0 048.com
 0.0.0.0 04bestk8.com
 0.0.0.0 04gamek8.com
 0.0.0.0 04prok8.com
@@ -8436,6 +8437,16 @@
 0.0.0.0 cw.phncdn.com
 0.0.0.0 cw.rdtcdn.com
 0.0.0.0 cwdporn.com
+0.0.0.0 cwin.com
+0.0.0.0 cwin01.com
+0.0.0.0 cwin02.com
+0.0.0.0 cwin03.com
+0.0.0.0 cwin04.com
+0.0.0.0 cwin05.com
+0.0.0.0 cwin111.com
+0.0.0.0 cwin222.com
+0.0.0.0 cwin333.com
+0.0.0.0 cwin444.com
 0.0.0.0 cwin999.com
 0.0.0.0 cwow.org
 0.0.0.0 cxfakes.com
@@ -16749,6 +16760,7 @@
 0.0.0.0 javhd.today
 0.0.0.0 javhd.video
 0.0.0.0 javhd.vip
+0.0.0.0 javhd.ws
 0.0.0.0 javhd3.co
 0.0.0.0 javhd3x.com
 0.0.0.0 javhdfree.net
@@ -19631,6 +19643,7 @@
 0.0.0.0 lemmecheck.xxx
 0.0.0.0 lemoncams.com
 0.0.0.0 lemonmov.com
+0.0.0.0 lenlut.info
 0.0.0.0 lenlut.net
 0.0.0.0 lenochkasblog.blogspot.com
 0.0.0.0 lenoirgold.tumblr.com
@@ -20536,6 +20549,8 @@
 0.0.0.0 m.cliphunter.com
 0.0.0.0 m.conheo3x.com
 0.0.0.0 m.cuocba.com
+0.0.0.0 m.cwin.com
+0.0.0.0 m.cwin444.com
 0.0.0.0 m.cwin999.com
 0.0.0.0 m.definefetish.com
 0.0.0.0 m.dktp88.com
@@ -36691,6 +36706,7 @@
 0.0.0.0 winmasters.com
 0.0.0.0 winningft.com
 0.0.0.0 winporn.com
+0.0.0.0 wintbr.com
 0.0.0.0 wintermission.tumblr.com
 0.0.0.0 winx-club-hentai.com
 0.0.0.0 wiredpussy.com
@@ -41108,6 +41124,11 @@
 0.0.0.0 www.cutiesintights.com
 0.0.0.0 www.cutiesonweb.blogspot.com
 0.0.0.0 www.cutscenes.net
+0.0.0.0 www.cwin01.com
+0.0.0.0 www.cwin02.com
+0.0.0.0 www.cwin03.com
+0.0.0.0 www.cwin05.com
+0.0.0.0 www.cwin222.com
 0.0.0.0 www.cwin999.com
 0.0.0.0 www.cyberangels.org
 0.0.0.0 www.cybererotica.com
