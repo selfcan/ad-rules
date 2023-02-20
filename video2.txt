@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2023-02-19 21:37:40
+! Version: 2023-02-20 21:37:49
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -138,9 +138,6 @@ statsy.net
 ||dyncdn.me/static/20/js/expla$script
 age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
 ||toutiaoimg.com/origin/$image,domain=agemys.net|acgndmku.com|subaibaiys.com
-cdn.sosrom.cn
-hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
-d58zz.com
 996dm.com,dmlaa.com,dandanzan.com,dandanzan10.top,nunuyy5.org,btnull.*##+js(m3u-prune, /^http/, /^https:\/\/vip\.lz-?cdn\d*\./)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)

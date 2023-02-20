@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-02-18 21:37:40 by:Mr.K----
+! ----Updatetime: 2023-02-20 21:37:49 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -73,8 +73,6 @@ youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkl
 waust.at
 jads.co
 statsy.net
-cdn.sosrom.cn
-d58zz.com
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
 shipostrich.com
 trustedgatetocontent.com
