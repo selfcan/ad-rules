@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-02-19 21:37:40 by:Mr.K----
+! ----Updatetime: 2023-02-21 21:38:10 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -805,6 +805,7 @@ www.zhzzx.com
 ||pan.baidu.com/rest/*/adx?$image
 ||s1.bdstatic.com/r/www/cache/biz/ecom/common/api/$script
 @@||tb1.bdstatic.com/??/tb/_/*/ad_$script
+@@||xxxy.jnu.edu.cn/_upload/tpl/08/ad/2221/template2221/$script
 @@||www.microsoft.com/onerfstatics/marketingsites-*/ad-$script
 */ad0$script
 */ad1$script
