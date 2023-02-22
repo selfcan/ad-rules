@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2023-02-20 21:37:49
+! Version: 2023-02-22 21:38:14
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -144,10 +144,10 @@ dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
-shipostrich.com
-trustedgatetocontent.com
 wpadmngr.com
 |https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
+||nunuyingyuan.com/serviceworker.js^$script
+||dandanzan.cf/serviceworker.js^$script
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
