@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2023-02-24 21:38:14
+! Version: 2023-02-28 21:38:07
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -156,6 +156,7 @@ netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
 ||wp.com/netflixya.com/upload/$image
 ||yanetflix.com/upload/vod/$image
 www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
+www.sbdm.net##.ads_all:remove()
 |https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 onenews.vip

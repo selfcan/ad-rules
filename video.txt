@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-02-22 21:38:14 by:Mr.K----
+! ----Updatetime: 2023-02-28 21:38:07 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -79,6 +79,7 @@ netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 4kya.com###player_pause
 www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
+www.sbdm.net##.ads_all:remove()
 onenews.vip
 quickapp.cn
 v4dwkcv.com
