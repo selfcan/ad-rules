@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-03-01 21:38:12
+# DATE: 2023-03-03 21:38:10
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -749,6 +749,7 @@
 0.0.0.0 820mm.live
 0.0.0.0 825mm.live
 0.0.0.0 828bet.net
+0.0.0.0 836mm.live
 0.0.0.0 8559553.com
 0.0.0.0 8559555.com
 0.0.0.0 85porn.net
@@ -5294,6 +5295,7 @@
 0.0.0.0 bollywoodporn.name
 0.0.0.0 bollywoodxxx.pro
 0.0.0.0 boltontits.tumblr.com
+0.0.0.0 bom52.club
 0.0.0.0 bombaybets.eu
 0.0.0.0 bonabanners.co.uk
 0.0.0.0 bonbonme-bonbonyou.blogspot.com
@@ -8229,6 +8231,7 @@
 0.0.0.0 crowin24.com
 0.0.0.0 crownbet.com
 0.0.0.0 crownbet.com.au
+0.0.0.0 crownlive.net
 0.0.0.0 crsportsbetting.com
 0.0.0.0 cruel-furies.com
 0.0.0.0 cruel-handjobs.com
@@ -9582,6 +9585,7 @@
 0.0.0.0 dualeotruyen1s.com
 0.0.0.0 dualeotruyen24h.com
 0.0.0.0 dualeotruyen3s.com
+0.0.0.0 dualeotruyenzz.com
 0.0.0.0 dubaivn.vip
 0.0.0.0 dubhentai.blogspot.com
 0.0.0.0 duccai.com
@@ -12600,6 +12604,7 @@
 0.0.0.0 game.789d.club
 0.0.0.0 game.b52.win
 0.0.0.0 game.b52d.club
+0.0.0.0 game.bom52.club
 0.0.0.0 game.taib52.com
 0.0.0.0 game.v99win.app
 0.0.0.0 game69.top
@@ -14313,8 +14318,10 @@
 0.0.0.0 heotop1.net
 0.0.0.0 heotv.net
 0.0.0.0 heoviet.com
+0.0.0.0 heovl.cc
 0.0.0.0 heovl.com
 0.0.0.0 heovl.fun
+0.0.0.0 heovl.io
 0.0.0.0 heovl.live
 0.0.0.0 heovl.me
 0.0.0.0 heovl.net
@@ -15189,6 +15196,7 @@
 0.0.0.0 i8.pc20160301.com
 0.0.0.0 i8bet.org
 0.0.0.0 i9.pc20160301.com
+0.0.0.0 i998.co
 0.0.0.0 i99902.com
 0.0.0.0 i99903.com
 0.0.0.0 i99904.com
@@ -16544,6 +16552,7 @@
 0.0.0.0 iwiin.club
 0.0.0.0 iwin.club
 0.0.0.0 iwin.info
+0.0.0.0 iwin.us
 0.0.0.0 iwin6699.com
 0.0.0.0 iwin68m.com
 0.0.0.0 iwinapk.link
@@ -22084,12 +22093,14 @@
 0.0.0.0 mm.mm1cloud.com
 0.0.0.0 mm12.tumblr.com
 0.0.0.0 mm1cloud.com
+0.0.0.0 mm819.me
 0.0.0.0 mmakaelnewby.blogspot.com
 0.0.0.0 mmcams.com
 0.0.0.0 mmixalot.blogspot.com
 0.0.0.0 mmlive.link
 0.0.0.0 mmlive.live
 0.0.0.0 mmlive.one
+0.0.0.0 mmlive.plus
 0.0.0.0 mmlive1.com
 0.0.0.0 mmliveapp.club
 0.0.0.0 mmliveapp.top
@@ -22865,6 +22876,7 @@
 0.0.0.0 mymaturegranny.com
 0.0.0.0 mymaturemovies.net
 0.0.0.0 mymatureporn.com
+0.0.0.0 mymeyeu.xyz
 0.0.0.0 mymomsfuckingblackzilla.com
 0.0.0.0 mynakedblackgirl.com
 0.0.0.0 mynakedgirls.net
@@ -24115,6 +24127,7 @@
 0.0.0.0 nuttloads.tumblr.com
 0.0.0.0 nuvid.com
 0.0.0.0 nuvid.tv
+0.0.0.0 nv89w.top
 0.0.0.0 nwsgifs.com
 0.0.0.0 nxb8.com
 0.0.0.0 nxgx.com
@@ -27174,6 +27187,7 @@
 0.0.0.0 play-boom.com
 0.0.0.0 play-with-kitten.tumblr.com
 0.0.0.0 play.b52.win
+0.0.0.0 play.bom52.club
 0.0.0.0 play.choiwin79.net
 0.0.0.0 play.fa88.win
 0.0.0.0 play.go88.club
@@ -30112,6 +30126,7 @@
 0.0.0.0 se.sex4k.cam
 0.0.0.0 se.spankbang.com
 0.0.0.0 se.xhamster.com
+0.0.0.0 se69.fun
 0.0.0.0 sea-angels.ru
 0.0.0.0 sea1c-ls.naiadsystems.com
 0.0.0.0 seabet.com
@@ -30554,6 +30569,7 @@
 0.0.0.0 sexdesiporn.pro
 0.0.0.0 sexdiary.cc
 0.0.0.0 sexdiary.pro
+0.0.0.0 sexdiaryz.fun
 0.0.0.0 sexdiaryz.pro
 0.0.0.0 sexdiaryz.xyz
 0.0.0.0 sexdicted.com
@@ -44605,6 +44621,7 @@
 0.0.0.0 www.iwantporn.net
 0.0.0.0 www.iwanttobeapornstar.blogspot.com
 0.0.0.0 www.iwantu.com
+0.0.0.0 www.iwin.us
 0.0.0.0 www.iwriteadirtyblog.blogspot.com
 0.0.0.0 www.ixtractor.com
 0.0.0.0 www.ixxx.asia
@@ -49171,6 +49188,7 @@
 0.0.0.0 www.scumshardcorepornvideos.blogspot.com
 0.0.0.0 www.sdc.com
 0.0.0.0 www.sdfasdf.vangangelt.info
+0.0.0.0 www.se69.fun
 0.0.0.0 www.sea-angels.ru
 0.0.0.0 www.seabet.com
 0.0.0.0 www.seacoasthotwife.blogspot.com
