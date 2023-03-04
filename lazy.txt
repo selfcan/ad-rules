@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-02-21 21:38:10 by:Mr.K----
+! ----Updatetime: 2023-03-04 21:37:30 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -14,8 +14,6 @@ kstj.baidu.com
 ||cbjs.baidu.com/
 ||crs.baidu.com/
 ||hm.baidu.com/
-@@||baidu.com/customer_search/api/
-||znsv.baidu.com/
 ||pups.bdimg.com/
 baike.baidu.com##.after-content,#adLayerSideWrap
 baike.baidu.com##.squareAni.square.super-layer-promote
@@ -52,28 +50,21 @@ zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,
 ||coinhive.com/
 ||coin-hive.com/
 doubleclick.net
-he2d.comhnjls.com.cn
 dlads.cn
-dmvbdfblevxvx.com
 ||adservice.
 ||googleadservices.
 imasdk.googleapis.com
 ||googlesyndication.com
 ||google-analytics.com
-gshtrl.top
-iclickcdn.com
 ||irs01.
 irs03.com
 cm.jd.com
 x.jd.com
 u-x.jd.com
 mediav.com
-q1qfc323.com
-sdqoi2d.com
 tanx.com
 ||union.
 */vamaker/
-wegowan.com
 wrating.com
 wwads.cn
 *##.ad
@@ -153,6 +144,7 @@ gd.qq.com###r_ad
 ||swa.gtimg.com/
 ||wb.gtimg.com/adwin/
 @@||bnet.163.com/
+g.163.com
 ||img1.126.net/
 ||img3.126.net/
 ||img6.126.net/
@@ -795,7 +787,6 @@ yihuifu.cn
 www.zhzzx.com
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 ||cpro.$domain=~baidu.com
-||sp0.baidu.com/$third-party
 ||entry.baidu.com/$subdocument
 ||s1.bdstatic.com/r/www/cache/biz/ecom/common/api/$script
 ||exp.bdstatic.com/static/exp-pc/common-jquery/widget/popup-$script
@@ -882,6 +873,7 @@ pageMediaControl*$script
 ||view.news.qq.com/PL_ad$subdocument
 ||mat1.gtimg.com/sports/000_AD/$image
 ||mat1.gtimg.com/$object
+||c.m.163.com^$subdocument
 ||static.ws.126.net/*/adTracker.$script
 ||static.ws.126.net/*/js/sspAd.$script
 ||bobo.com/special/$subdocument

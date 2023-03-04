@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2023-02-21 21:38:10
+! Version: 2023-03-04 21:37:30
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
@@ -16,13 +16,10 @@ cstm.baidu.com
 ||f11.baidu.com/
 kstj.baidu.com
 ||pos.baidu.com/
-||sp0.baidu.com/$third-party
 ||cbjs.baidu.com/
 ||crs.baidu.com/
 ||entry.baidu.com/$subdocument
 ||hm.baidu.com/
-@@||baidu.com/customer_search/api/
-||znsv.baidu.com/
 ||pups.bdimg.com/
 baike.baidu.com##.after-content,#adLayerSideWrap
 baike.baidu.com##.squareAni.square.super-layer-promote
@@ -81,31 +78,24 @@ zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,
 *coinhive.min.js^$script
 ||coin-hive.com/
 doubleclick.net
-he2d.comhnjls.com.cn
 dlads.cn
-dmvbdfblevxvx.com
 ||adservice.
 ||googleadservices.
 imasdk.googleapis.com
 ||googlesyndication.com
 ||google-analytics.com
-gshtrl.top
-iclickcdn.com
 ||irs01.
 irs03.com
 cm.jd.com
 x.jd.com
 u-x.jd.com
 mediav.com
-q1qfc323.com
-sdqoi2d.com
 tanx.com
 @@||s.click.taobao.com^$popup
 ||click.taobao.com/$third-party,popunder
 ||union.
 ||vamaker.com/$third-party
 */vamaker/
-wegowan.com
 wrating.com
 wwads.cn
 *##.ad
@@ -265,7 +255,8 @@ gd.qq.com###r_ad
 ||swa.gtimg.com/
 ||wb.gtimg.com/adwin/
 @@||bnet.163.com/
-||g.163.com/$~object-subrequest
+g.163.com
+||c.m.163.com^$subdocument
 ||img1.126.net/
 ||img3.126.net/
 ||img6.126.net/
