@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-03-05 21:37:42 by:Mr.K----
+! ----Updatetime: 2023-03-06 21:38:11 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -7,7 +7,8 @@ apisgame.iqiyi.com
 static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 show.ssports.com
-v.qq.com###player  .txp_zt_content
+v.qq.com###player .txp_zt_content
+v.qq.com##.quick_games.quick_item,div.card-wrap
 qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
 cm.l.qq.com
 ||l.qq.com/lview?
