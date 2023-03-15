@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-03-03 21:38:10
+# DATE: 2023-03-15 21:37:50
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -10771,6 +10771,7 @@
 0.0.0.0 fancentro.com
 0.0.0.0 fanlistings.angelic-trust.net
 0.0.0.0 fannygrrl.blogspot.com
+0.0.0.0 fanpay.org
 0.0.0.0 fans-here.com
 0.0.0.0 fansbet.com
 0.0.0.0 fansdekarisweets.blogspot.com
@@ -14051,11 +14052,16 @@
 0.0.0.0 helplessfucking.com
 0.0.0.0 hemail.tumblr.com
 0.0.0.0 hen-tie.net
+0.0.0.0 henho.cucvui.com
+0.0.0.0 henho.us
+0.0.0.0 henho247.xyz
 0.0.0.0 henho24az.xyz
+0.0.0.0 henho24h.com
 0.0.0.0 henho2k.xyz
 0.0.0.0 henho3mien.com
 0.0.0.0 henhoaz.xyz
 0.0.0.0 henhogai.xyz
+0.0.0.0 henhozalo.com
 0.0.0.0 hennojin.com
 0.0.0.0 hentai-anime-xxx.com
 0.0.0.0 hentai-blog.tumblr.com
@@ -19346,6 +19352,8 @@
 0.0.0.0 keonhacai3.com
 0.0.0.0 keotot.net
 0.0.0.0 keptindiapers.tumblr.com
+0.0.0.0 ketban24h.xyz
+0.0.0.0 ketdoi.net
 0.0.0.0 kevinloreaux.blogspot.com
 0.0.0.0 key-drop.com
 0.0.0.0 keyarena.gg
@@ -21506,12 +21514,17 @@
 0.0.0.0 mb.smartmovies.net
 0.0.0.0 mb.wendise.com
 0.0.0.0 mb88.com
+0.0.0.0 mbbg-binhduong.blogspot.com
 0.0.0.0 mbbg.cc
+0.0.0.0 mbbg.club
+0.0.0.0 mbbg.info
 0.0.0.0 mbbg.live
 0.0.0.0 mbbg.org
 0.0.0.0 mbbg.pro
 0.0.0.0 mbbg.tv
 0.0.0.0 mbbg.vip
+0.0.0.0 mbbg.xyz
+0.0.0.0 mbbgvietnam.me
 0.0.0.0 mbell85.tumblr.com
 0.0.0.0 mbet.co.za
 0.0.0.0 mbfi.ru
@@ -26887,6 +26900,7 @@
 0.0.0.0 photovirgins.com
 0.0.0.0 photoxota.blogspot.com
 0.0.0.0 phun.org
+0.0.0.0 phunucodon.cc
 0.0.0.0 phunuthainguyen.com
 0.0.0.0 phym18.com
 0.0.0.0 phymjavhd.com
@@ -29194,6 +29208,7 @@
 0.0.0.0 radioactivelingerie.tumblr.com
 0.0.0.0 radioaktywni.eu
 0.0.0.0 ragingstallion.com
+0.0.0.0 raiseyourhandnow.com
 0.0.0.0 rajabokep1.blogspot.com
 0.0.0.0 rajahbet.com
 0.0.0.0 rajaslot77.net
@@ -34209,6 +34224,9 @@
 0.0.0.0 tim1.pixytube.com
 0.0.0.0 tim2.pixytube.com
 0.0.0.0 tim3.pixytube.com
+0.0.0.0 timbaby.net
+0.0.0.0 timban24h.com
+0.0.0.0 timbanbonphuongaz.com
 0.0.0.0 timbangainhanh.com
 0.0.0.0 timbanhenho24h.xyz
 0.0.0.0 timbantinhvn.com
@@ -34217,6 +34235,7 @@
 0.0.0.0 timebackporn.com
 0.0.0.0 timesofbombay.com
 0.0.0.0 timetoteens.com
+0.0.0.0 timmaybaybagia.net
 0.0.0.0 timtales.com
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
@@ -35526,6 +35545,7 @@
 0.0.0.0 vem-pra-putaria-comigo.tumblr.com
 0.0.0.0 vemkeselambusa.tumblr.com
 0.0.0.0 vemsentir-prazer.tumblr.com
+0.0.0.0 venturefestbristolandbath.com
 0.0.0.0 venus-av.com
 0.0.0.0 venusmoms.com
 0.0.0.0 veopornogratis.xxx
