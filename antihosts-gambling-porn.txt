@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-03-15 21:37:50
+# DATE: 2023-03-25 21:37:34
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -353,6 +353,7 @@
 0.0.0.0 20centimes.info
 0.0.0.0 20felezyab.com
 0.0.0.0 20teentube.com
+0.0.0.0 210vn.net
 0.0.0.0 21bet.com
 0.0.0.0 21casino.com
 0.0.0.0 21naturals.com
@@ -6526,6 +6527,7 @@
 0.0.0.0 cdn.handjobhub.com
 0.0.0.0 cdn.handjobjapan.com
 0.0.0.0 cdn.hdgrannytube.com
+0.0.0.0 cdn.hencb.top
 0.0.0.0 cdn.hentaicb.xyz
 0.0.0.0 cdn.hentaihand.com
 0.0.0.0 cdn.hog.tv
@@ -14052,6 +14054,7 @@
 0.0.0.0 helplessfucking.com
 0.0.0.0 hemail.tumblr.com
 0.0.0.0 hen-tie.net
+0.0.0.0 hencb.top
 0.0.0.0 henho.cucvui.com
 0.0.0.0 henho.us
 0.0.0.0 henho247.xyz
@@ -14272,6 +14275,7 @@
 0.0.0.0 hentaivn.moe
 0.0.0.0 hentaivn.net
 0.0.0.0 hentaivn.online
+0.0.0.0 hentaivn.run
 0.0.0.0 hentaivn.tv
 0.0.0.0 hentaivnvip.com
 0.0.0.0 hentaivvz.com
@@ -14331,6 +14335,7 @@
 0.0.0.0 heovl.live
 0.0.0.0 heovl.me
 0.0.0.0 heovl.net
+0.0.0.0 heovl.tv
 0.0.0.0 heozz.net
 0.0.0.0 her-master.tumblr.com
 0.0.0.0 her.porn
@@ -35450,6 +35455,7 @@
 0.0.0.0 v7king.com
 0.0.0.0 v8.club
 0.0.0.0 v88ag.com
+0.0.0.0 v8club.club
 0.0.0.0 v99win.app
 0.0.0.0 v9bet.com
 0.0.0.0 v9bet55.com

@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-03-04 21:37:30 by:Mr.K----
+! ----Updatetime: 2023-03-25 21:37:33 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -1022,7 +1022,7 @@ pageMediaControl*$script
 */ftad.js?$script
 */gad/$domain=~cc.163.com|~uu.163.com
 */gg.html|$subdocument
-*/gg/$domain=~cnr.cn|~health.dahe.cn
+*/gg/$domain=~cnr.cn|~20-0.net|~health.dahe.cn
 */gg160.$subdocument
 */gg250.$subdocument
 */gg300.$subdocument
