@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-03-06 21:38:11 by:Mr.K----
+! ----Updatetime: 2023-04-06 21:37:33 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -114,7 +114,7 @@ stgowan.com
 ||jd.com/$domain=le.com
 ||douyucdn.cn/adxdsp/$image
 ||msstatic.com/huya/*/p2plib.js$script
-||stripe.com^$script,domain=~nextdns.io
+||stripe.com^$script,domain=~nextdns.io|~obsidian.md
 */preroll/$media,domain=91porn.com
 ||btsow.mom/app/jav$image
 ||dyncdn.me/static/20/js/showads.js$script
