@@ -1,11 +1,15 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-03-30 21:37:37
+# DATE: 2023-04-07 21:37:31
 # This hosts lite from StevenBlack/hosts.
  
+0.0.0.0 0.oldgyhogola.com
 0.0.0.0 0.xd-cdn.com
 0.0.0.0 0.xxx-cdn.com
+0.0.0.0 0000130.com
 0.0.0.0 0006666.net
 0.0.0.0 002.pinknotora.net
+0.0.0.0 0066130.com
+0.0.0.0 0077130.com
 0.0.0.0 007milf.com
 0.0.0.0 007zeed.com
 0.0.0.0 00dirtyone.tumblr.com
@@ -89,6 +93,7 @@
 0.0.0.0 1116666.net
 0.0.0.0 111c54.com
 0.0.0.0 11625574.ahcdn.com
+0.0.0.0 1166130.com
 0.0.0.0 116almet.ru
 0.0.0.0 11779494.ahcdn.com
 0.0.0.0 118kbet.com
@@ -126,6 +131,7 @@
 0.0.0.0 12b99.com
 0.0.0.0 12bet.com
 0.0.0.0 12hdem.com
+0.0.0.0 130casino.com
 0.0.0.0 1337bid.com
 0.0.0.0 1337x.freepornxxxhd.com
 0.0.0.0 135.anyhentai.com
@@ -1682,6 +1688,7 @@
 0.0.0.0 agregadordelink.com.br
 0.0.0.0 agregadorporno.com
 0.0.0.0 agrupalinks.com
+0.0.0.0 ags.hobby.porn
 0.0.0.0 aguideforgirls.blogspot.com
 0.0.0.0 aguysite.blogspot.com
 0.0.0.0 agviet168.com
@@ -6965,6 +6972,7 @@
 0.0.0.0 cdn3.gaysex18.com
 0.0.0.0 cdn3.hdpornvideos.su
 0.0.0.0 cdn3.hdsexvideos.pro
+0.0.0.0 cdn3.hentaihand.com
 0.0.0.0 cdn3.homemadexvids.com
 0.0.0.0 cdn3.hq-porntube.com
 0.0.0.0 cdn3.indianal.com
@@ -13891,6 +13899,7 @@
 0.0.0.0 hayvkl.xyz
 0.0.0.0 hayvl.pro
 0.0.0.0 hazehim.com
+0.0.0.0 hazicu.hothomefuck.com
 0.0.0.0 hb8864.com
 0.0.0.0 hb8875.com
 0.0.0.0 hb8887.com
@@ -21138,6 +21147,7 @@
 0.0.0.0 makesmypussywet.tumblr.com
 0.0.0.0 maketeengape.com
 0.0.0.0 makingsatanblush.blogspot.com
+0.0.0.0 makumva.all-usanomination.com
 0.0.0.0 malade-de-sexe.com
 0.0.0.0 malatyaescortlar.org
 0.0.0.0 malatyaeskortlar.org
@@ -36152,6 +36162,7 @@
 0.0.0.0 vip.8kbet.vn
 0.0.0.0 vip.mtree.com
 0.0.0.0 vip.v99win.app
+0.0.0.0 vip130130.com
 0.0.0.0 vip3x.me
 0.0.0.0 vip9x.pro
 0.0.0.0 vipamateurtube.com
@@ -36940,6 +36951,8 @@
 0.0.0.0 web-sex-cam.com
 0.0.0.0 web-sex-cam.de
 0.0.0.0 web-starlets.com
+0.0.0.0 web.0000130.com
+0.0.0.0 web.130casino.com
 0.0.0.0 web.68rich.com
 0.0.0.0 web.macau.club
 0.0.0.0 web.macauclub.fun
@@ -37430,6 +37443,8 @@
 0.0.0.0 www-stage3.pornhub.com
 0.0.0.0 www-trombare-it.blogspot.com
 0.0.0.0 www-xxx-video.com
+0.0.0.0 www.0066130.com
+0.0.0.0 www.0077130.com
 0.0.0.0 www.016665.com
 0.0.0.0 www.016881.com
 0.0.0.0 www.01800.blogspot.com
@@ -37456,6 +37471,7 @@
 0.0.0.0 www.10luxury39.com
 0.0.0.0 www.110percentnatural.com
 0.0.0.0 www.1126bet.com
+0.0.0.0 www.1166130.com
 0.0.0.0 www.118kbet.com
 0.0.0.0 www.11freeporn.blogspot.com
 0.0.0.0 www.11zalo.com
