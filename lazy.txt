@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-04-06 21:37:33 by:Mr.K----
+! ----Updatetime: 2023-04-14 21:37:33 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -799,6 +799,7 @@ www.zhzzx.com
 @@||www.microsoft.com/onerfstatics/marketingsites-*/ad-$script
 @@||static.zhihu.com/ad-raccoon-web/$script
 */ad-$~stylesheet
+@@||discord.com/assets/ad0149f80$script
 */ad0$script
 */ad1$script
 @@||www.youtube.com/s/desktop/ad$script
