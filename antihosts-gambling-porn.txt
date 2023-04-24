@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-04-12 21:37:44
+# DATE: 2023-04-24 21:37:36
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -21909,7 +21909,6 @@
 0.0.0.0 megaonlyfans.com
 0.0.0.0 megaporn.blogspot.es
 0.0.0.0 megapornfreehd.com
-0.0.0.0 megaporno.com.br
 0.0.0.0 megapornpics.com
 0.0.0.0 megapornx.com
 0.0.0.0 megasesso.com
