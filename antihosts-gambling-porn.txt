@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-04-24 21:37:36
+# DATE: 2023-04-30 21:37:47
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -33120,7 +33120,6 @@
 0.0.0.0 strip2.in
 0.0.0.0 stripbrunettes.com
 0.0.0.0 stripcamfun.com
-0.0.0.0 stripchat.com
 0.0.0.0 stripchat.global
 0.0.0.0 stripclubmemories.blogspot.com
 0.0.0.0 stripgalleries.net
