@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2023-04-06 21:37:33
+! Version: 2023-05-24 21:37:34
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -147,14 +147,10 @@ wpadmngr.com
 |https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
 ||nunuyingyuan.com/serviceworker.js^$script
 ||dandanzan.cf/serviceworker.js^$script
-netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
-netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
-netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
-@@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
-4kya.com###player_pause
-||wp.com/netflixya.com/upload/$image
-||yanetflix.com/upload/vod/$image
 www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
+aqours.today
+chushoushijian.cn
+z4a.net
 www.sbdm.net##.ads_all:remove()
 |https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
@@ -166,7 +162,6 @@ youle55.com
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
 ||nooen.com^$popup
-aqours.today
 bixinlive.com
 orgaorg.com
 quandangdang.net
