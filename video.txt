@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-05-24 21:37:34 by:Mr.K----
+! ----Updatetime: 2023-05-25 21:37:31 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -119,8 +119,8 @@ stgowan.com
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
 ||toutiaoimg.com/origin/$image,domain=agemys.net|acgndmku.com|subaibaiys.com
-||nunuyingyuan.com/serviceworker.js^$script
-||dandanzan.cf/serviceworker.js^$script
+||nunuyingyuan.tk/serviceworker.js^$script
+||nunuyy.cf/serviceworker.js^$script
 |https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image

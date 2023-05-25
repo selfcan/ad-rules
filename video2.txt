@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2023-05-24 21:37:34
+! Version: 2023-05-25 21:37:31
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -145,8 +145,8 @@ dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
 wpadmngr.com
 |https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
-||nunuyingyuan.com/serviceworker.js^$script
-||dandanzan.cf/serviceworker.js^$script
+||nunuyingyuan.tk/serviceworker.js^$script
+||nunuyy.cf/serviceworker.js^$script
 www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
 aqours.today
 chushoushijian.cn
