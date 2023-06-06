@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-05-24 21:37:34 by:Mr.K----
+! ----Updatetime: 2023-06-06 21:37:34 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -1081,5 +1081,5 @@ pageMediaControl*$script
 *_ad_close.$image
 *_index_banner$script
 *_right_ad.$domain=~dzwww.com
-||acs.$domain=~youku.com|~tudou.com
+||acs.$domain=~youku.com|~tudou.com|~acs.org
 ||168.it168.com$script
