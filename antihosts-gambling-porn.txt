@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-06-03 21:37:39
+# DATE: 2023-06-07 21:37:35
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -740,6 +740,7 @@
 0.0.0.0 78win07.com
 0.0.0.0 78win09.com
 0.0.0.0 79sodo.com
+0.0.0.0 79sun.bet
 0.0.0.0 79sun.net
 0.0.0.0 7andgoingstrong.tumblr.com
 0.0.0.0 7ballbet.com
@@ -3243,6 +3244,7 @@
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
 0.0.0.0 api.fapinstructor.com
+0.0.0.0 api.go88r.pro
 0.0.0.0 api.hb8887.com
 0.0.0.0 api.hb88h.com
 0.0.0.0 api.hb88p.com
@@ -4950,6 +4952,7 @@
 0.0.0.0 biendo.one
 0.0.0.0 biendo.store
 0.0.0.0 biendo1.com
+0.0.0.0 biendo2.com
 0.0.0.0 biendo3.com
 0.0.0.0 biendo9.com
 0.0.0.0 big-ass-pornvideos.blogspot.com
@@ -13498,6 +13501,7 @@
 0.0.0.0 go88b.com
 0.0.0.0 go88bet.net
 0.0.0.0 go88f.com
+0.0.0.0 go88r.pro
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
 0.0.0.0 goal123.com
@@ -21385,6 +21389,7 @@
 0.0.0.0 m.videosz.com
 0.0.0.0 m.viet69.chat
 0.0.0.0 m.viet69.tech
+0.0.0.0 m.vipbet001.org
 0.0.0.0 m.viva88.com
 0.0.0.0 m.vlxxvietsub.net
 0.0.0.0 m.vn88.com
@@ -21604,6 +21609,7 @@
 0.0.0.0 manhwa24hs.com
 0.0.0.0 manhwa24hz.com
 0.0.0.0 manhwahentai.me
+0.0.0.0 manhwavn.com
 0.0.0.0 maniacosporcomics.com
 0.0.0.0 maniacpass.com
 0.0.0.0 maniakjav.blogspot.com
@@ -37017,6 +37023,7 @@
 0.0.0.0 vipangelz.com
 0.0.0.0 viparea.com
 0.0.0.0 vipbabesfuck.com
+0.0.0.0 vipbet001.org
 0.0.0.0 vipbet998.com
 0.0.0.0 vipbook.com.br
 0.0.0.0 vipcams.literotica.com
@@ -52466,6 +52473,7 @@
 0.0.0.0 www.vintporn.com
 0.0.0.0 www.vipangelz.com
 0.0.0.0 www.vipbabesfuck.com
+0.0.0.0 www.vipbet001.org
 0.0.0.0 www.vipcams.literotica.com
 0.0.0.0 www.vipcaptions.blogspot.com
 0.0.0.0 www.vipergirls.to
