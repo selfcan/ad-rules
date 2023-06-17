@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-06-07 21:37:35
+# DATE: 2023-06-17 21:37:34
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -4751,6 +4751,7 @@
 0.0.0.0 bet88012.com
 0.0.0.0 bet88013.com
 0.0.0.0 bet88014.com
+0.0.0.0 bet885678.com
 0.0.0.0 bet90.com
 0.0.0.0 bet9ja.com
 0.0.0.0 beta-api.cams.com
@@ -6530,6 +6531,7 @@
 0.0.0.0 cazzofilm.com
 0.0.0.0 cbcam2cam.com
 0.0.0.0 cbhentai.one
+0.0.0.0 cbhentai.xyz
 0.0.0.0 cbird.sextracker.com
 0.0.0.0 cbmb1.tumblr.com
 0.0.0.0 cbmiocw.com
@@ -7632,6 +7634,7 @@
 0.0.0.0 choigai.xyz
 0.0.0.0 choigaigoi.com
 0.0.0.0 choigaingon.xyz
+0.0.0.0 choigiaitri.net
 0.0.0.0 choiiwin79.fun
 0.0.0.0 choingay88.com
 0.0.0.0 choingayone88.win
@@ -8858,6 +8861,7 @@
 0.0.0.0 damacai.com.my
 0.0.0.0 damadolove.com
 0.0.0.0 damagelimitation.blogspot.com
+0.0.0.0 daman2.com
 0.0.0.0 damchim.com
 0.0.0.0 damchim1.com
 0.0.0.0 damimage.com
@@ -14654,6 +14658,7 @@
 0.0.0.0 heovl.net
 0.0.0.0 heovl.tv
 0.0.0.0 heovl1.com
+0.0.0.0 heovl1.net
 0.0.0.0 heozz.net
 0.0.0.0 her-master.tumblr.com
 0.0.0.0 her.porn
@@ -18878,6 +18883,7 @@
 0.0.0.0 k8viet888.com
 0.0.0.0 k8viet99.com
 0.0.0.0 k8viet999.com
+0.0.0.0 k8vietpro.com
 0.0.0.0 k8vii01.com
 0.0.0.0 k8vii02.com
 0.0.0.0 k8vii03.com
@@ -22510,6 +22516,7 @@
 0.0.0.0 minhamulher.com
 0.0.0.0 minidtcdn.com
 0.0.0.0 minigame.vnloto.com
+0.0.0.0 minosa68.com
 0.0.0.0 mintladies.com
 0.0.0.0 mintteens.com
 0.0.0.0 minuporno.com
@@ -29548,6 +29555,7 @@
 0.0.0.0 pt.xhamster.com
 0.0.0.0 pt.xhamster2.com
 0.0.0.0 pt.youporn.com
+0.0.0.0 pt66.vip
 0.0.0.0 ptbabes.blogspot.com
 0.0.0.0 ptblrnude.club
 0.0.0.0 ptencontros.com
@@ -30652,6 +30660,7 @@
 0.0.0.0 s21.trafficdeposit.com
 0.0.0.0 s23.trafficdeposit.com
 0.0.0.0 s24.trafficdeposit.com
+0.0.0.0 s26bet.bet
 0.0.0.0 s3.amateurs-gone-wild.com
 0.0.0.0 s3.erome.com
 0.0.0.0 s3.trafficdeposit.com
@@ -38297,6 +38306,7 @@
 0.0.0.0 wowteenporn.com
 0.0.0.0 wowteenporno.com
 0.0.0.0 wowyoungporn.com
+0.0.0.0 wp.choigiaitri.net
 0.0.0.0 wp.mu9.win
 0.0.0.0 wp.red88.us
 0.0.0.0 wp.red88.vin
@@ -53196,6 +53206,7 @@
 0.0.0.0 www.xnxxx.rocks
 0.0.0.0 www.xnxxx.su
 0.0.0.0 www.xnxxxvideos.net
+0.0.0.0 www.xo88.win
 0.0.0.0 www.xogogo.com
 0.0.0.0 www.xonline.tv
 0.0.0.0 www.xonline.vip
@@ -53886,6 +53897,7 @@
 0.0.0.0 x0r.urlgalleries.net
 0.0.0.0 x1.xcavy.com
 0.0.0.0 x1.xo88.info
+0.0.0.0 x1.xo88.win
 0.0.0.0 x1080hd.com
 0.0.0.0 x1798.com
 0.0.0.0 x18.live
@@ -53893,6 +53905,7 @@
 0.0.0.0 x1cdn.com
 0.0.0.0 x2.xo88.info
 0.0.0.0 x3.xo88.info
+0.0.0.0 x3.xo88.win
 0.0.0.0 x3dgay.com
 0.0.0.0 x3guide.com
 0.0.0.0 x3vid.com
@@ -54481,6 +54494,7 @@
 0.0.0.0 xo88.com
 0.0.0.0 xo88.fun
 0.0.0.0 xo88.info
+0.0.0.0 xo88.win
 0.0.0.0 xoac69.xyz
 0.0.0.0 xodesiporn.net
 0.0.0.0 xogogo.com
@@ -55745,6 +55759,7 @@
 0.0.0.0 yuvutu.com
 0.0.0.0 yvonfamily.com
 0.0.0.0 ywebcams.com
+0.0.0.0 yylive.top
 0.0.0.0 z-hentai.blogspot.com
 0.0.0.0 z.720vedeo.me
 0.0.0.0 z.phimsexsub.co
