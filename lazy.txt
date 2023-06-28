@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-06-06 21:37:34 by:Mr.K----
+! ----Updatetime: 2023-06-28 21:37:54 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -206,7 +206,6 @@ autohome.com.cn###s2287
 ||x.autoimg.cn/dealer/custom/subsite/forcePicAd20160628.js
 ||autoimg.cn/admdfs/
 ||autohome.com.cn/adfront/
-cnbeta.com##.cbv,#artibody~*,#upcoming_box,div.article-global,div.meta > span.fr:last-child
 blog.csdn.net###content_views pre, #content_views pre code:style(user-select:auto!important)
 ||img-ads.csdn.net/
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f

@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-06-23 21:37:38
+# DATE: 2023-06-28 21:37:55
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -664,6 +664,7 @@
 0.0.0.0 66ko9.com
 0.0.0.0 6789live.com
 0.0.0.0 679king.com
+0.0.0.0 67win9.com
 0.0.0.0 68b3.club
 0.0.0.0 68game2.com
 0.0.0.0 68gamebaix.com
@@ -772,6 +773,7 @@
 0.0.0.0 7sex.org
 0.0.0.0 7virgin.com
 0.0.0.0 7x3.net
+0.0.0.0 800774.com
 0.0.0.0 8008135.blogspot.com
 0.0.0.0 80k8vn.com
 0.0.0.0 80s-touch.tumblr.com
@@ -12490,6 +12492,7 @@
 0.0.0.0 fun88event.com
 0.0.0.0 fun88fifa.com
 0.0.0.0 fun88viet.tv
+0.0.0.0 fun99.vip
 0.0.0.0 funcasino.com
 0.0.0.0 fundangky.com
 0.0.0.0 fundorado.com
@@ -14193,10 +14196,12 @@
 0.0.0.0 hayvl.pro
 0.0.0.0 hazehim.com
 0.0.0.0 hazicu.hothomefuck.com
+0.0.0.0 hb88017.com
 0.0.0.0 hb8864.com
 0.0.0.0 hb8875.com
 0.0.0.0 hb8887.com
 0.0.0.0 hb88p.com
+0.0.0.0 hb88vn.co
 0.0.0.0 hbrowse.com
 0.0.0.0 hc0303.tumblr.com
 0.0.0.0 hclips.ahcdn.com
@@ -14391,6 +14396,7 @@
 0.0.0.0 hencb.top
 0.0.0.0 henho.cucvui.com
 0.0.0.0 henho.us
+0.0.0.0 henho.vip
 0.0.0.0 henho247.xyz
 0.0.0.0 henho24az.xyz
 0.0.0.0 henho24h.com
@@ -15653,6 +15659,7 @@
 0.0.0.0 i9bet59.com
 0.0.0.0 i9bet6.com
 0.0.0.0 i9bet62.com
+0.0.0.0 i9bet63.com
 0.0.0.0 i9bet64.com
 0.0.0.0 i9bet666.com
 0.0.0.0 i9bet6688.com
@@ -21028,6 +21035,7 @@
 0.0.0.0 loto188ae.com
 0.0.0.0 loto188az.com
 0.0.0.0 loto188vi.com
+0.0.0.0 loto66.com
 0.0.0.0 lotoquebec.com
 0.0.0.0 lottapleasure.tumblr.com
 0.0.0.0 lotterien.at
@@ -38277,6 +38285,7 @@
 0.0.0.0 winbet.bg
 0.0.0.0 winbet58.live
 0.0.0.0 winbet58.win
+0.0.0.0 winbet99.co
 0.0.0.0 winbetaffiliates.bg
 0.0.0.0 windelzofe.tumblr.com
 0.0.0.0 winjp2.comapatecoman.gob.mx
