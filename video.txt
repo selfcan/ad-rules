@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-05-25 21:37:31 by:Mr.K----
+! ----Updatetime: 2023-07-10 21:37:46 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -91,6 +91,7 @@ orgaorg.com
 quandangdang.net
 stgowan.com
 @@||mmstat.com^$domain=youku.com
+||cibntv.net/youku/$media
 ||sealine.youku.com/yk/*callback=adpagesdk$script
 ||static.iqiyi.com/js/common/mars_v.js$script
 ||iqiyi.com/videos/other/202$xmlhttprequest
@@ -103,6 +104,7 @@ stgowan.com
 ||g.pptv.com/game/$subdocument
 ||osswc.pplive.cn/cccms/$image
 ||cmvideo.cn/v1/iflyad/delivery$media,domain=miguvideo.com
+||relive.vodfile.m1905.com/video/qiantie202$media
 ||video.da.mgtv.com/$media
 ||da.mgtv.com/mediafiles/wiad_creative/$image
 ||css.tv.itc.cn/m/img/player/dlBanner.$image
