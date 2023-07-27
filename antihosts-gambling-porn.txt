@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-07-21 21:37:45
+# DATE: 2023-07-27 21:37:41
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -4118,6 +4118,7 @@
 0.0.0.0 b52.win
 0.0.0.0 b52d.club
 0.0.0.0 b52k.club
+0.0.0.0 b52vn.org
 0.0.0.0 b88ag.com
 0.0.0.0 b89.bet
 0.0.0.0 b97.nudevista.com
@@ -27534,6 +27535,7 @@
 0.0.0.0 play-boom.com
 0.0.0.0 play-with-kitten.tumblr.com
 0.0.0.0 play.b52.win
+0.0.0.0 play.b52vn.org
 0.0.0.0 play.bom52.club
 0.0.0.0 play.bum3.club
 0.0.0.0 play.choisport.com
@@ -32376,6 +32378,7 @@
 0.0.0.0 sin88bet.vip
 0.0.0.0 sin88s.com
 0.0.0.0 sin88vao.com
+0.0.0.0 sinbet.vip
 0.0.0.0 sindeejennings.com
 0.0.0.0 sindybert.blogspot.com
 0.0.0.0 sinfoniahentai.blogspot.com
@@ -50758,6 +50761,7 @@
 0.0.0.0 www.sin88.biz
 0.0.0.0 www.sin88.club
 0.0.0.0 www.sin88s.com
+0.0.0.0 www.sinbet.vip
 0.0.0.0 www.sindeejennings.com
 0.0.0.0 www.sindybert.blogspot.com
 0.0.0.0 www.sinfoniahentai.blogspot.com
