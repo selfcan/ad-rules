@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-07-27 21:37:41
+# DATE: 2023-08-01 21:37:44
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -448,6 +448,7 @@
 0.0.0.0 32redsport.com
 0.0.0.0 331725.com
 0.0.0.0 331729.com
+0.0.0.0 333.vip
 0.0.0.0 333666.buzz
 0.0.0.0 333666j.com
 0.0.0.0 338kbet.com
@@ -1271,6 +1272,7 @@
 0.0.0.0 ads.myjizztube.com
 0.0.0.0 ads.playboy.bg
 0.0.0.0 ads.playiwin.in
+0.0.0.0 ads.playmay88.top
 0.0.0.0 ads.pornerbros.com
 0.0.0.0 ads.premiumaccounts.com
 0.0.0.0 ads.privatefeeds.com
@@ -20269,6 +20271,7 @@
 0.0.0.0 lisaunique.blogspot.com
 0.0.0.0 listabarebackpornogay.com
 0.0.0.0 listadeblogsadultos.blogspot.com
+0.0.0.0 listnhacai.com
 0.0.0.0 listofsexcams.com
 0.0.0.0 listslut.com
 0.0.0.0 lite-1x6603199.top
@@ -27559,6 +27562,7 @@
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
+0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.win
 0.0.0.0 play.vuigiaitri.online
 0.0.0.0 play.win79.vip
@@ -27633,6 +27637,7 @@
 0.0.0.0 playmanclub.vin
 0.0.0.0 playmatewebcams.com
 0.0.0.0 playmatewebcams.streamray.com
+0.0.0.0 playmay88.top
 0.0.0.0 playmymovie.com
 0.0.0.0 playnaughty.blogspot.com
 0.0.0.0 playno1.com
@@ -32694,6 +32699,7 @@
 0.0.0.0 socvl.net
 0.0.0.0 sodienthoaigai.com
 0.0.0.0 sodo103.com
+0.0.0.0 sodo107.com
 0.0.0.0 sodo109.com
 0.0.0.0 sodo12.com
 0.0.0.0 sodo13.com
@@ -36276,6 +36282,7 @@
 0.0.0.0 vanillasexgoddess.blogspot.com
 0.0.0.0 vanna69.blogspot.com
 0.0.0.0 vao789club.win
+0.0.0.0 vaob52.click
 0.0.0.0 vaoku.net
 0.0.0.0 vaorikvip.com
 0.0.0.0 vaorikvip.net
@@ -37490,9 +37497,12 @@
 0.0.0.0 vx88vnd.com
 0.0.0.0 vxxx.com
 0.0.0.0 vyxensteel.puba.com
+0.0.0.0 vz293.com
 0.0.0.0 vz681.com
 0.0.0.0 vz683.com
 0.0.0.0 vz79.com
+0.0.0.0 vz99.app
+0.0.0.0 vz99vietnam.com
 0.0.0.0 vznalvek.com
 0.0.0.0 w-sunwin.net
 0.0.0.0 w.animalsex.site
@@ -50892,6 +50902,7 @@
 0.0.0.0 www.socvip9.club
 0.0.0.0 www.sod.co.jp
 0.0.0.0 www.sodc.co.jp
+0.0.0.0 www.sodo107.com
 0.0.0.0 www.sodo109.com
 0.0.0.0 www.sodo14.com
 0.0.0.0 www.sodo66.app
@@ -52609,6 +52620,7 @@
 0.0.0.0 www.vwinthethao.com
 0.0.0.0 www.vworldporn.com
 0.0.0.0 www.vx88.live
+0.0.0.0 www.vz293.com
 0.0.0.0 www.vz681.com
 0.0.0.0 www.vz79.com
 0.0.0.0 www.w388.com
