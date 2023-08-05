@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-08-01 21:37:44
+# DATE: 2023-08-05 21:37:46
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -676,6 +676,7 @@
 0.0.0.0 68game2.com
 0.0.0.0 68gamebaix.com
 0.0.0.0 68gb3.com
+0.0.0.0 68iwin.club
 0.0.0.0 68rich.com
 0.0.0.0 69-sexgames.com
 0.0.0.0 69-webcams.com
@@ -13636,12 +13637,9 @@
 0.0.0.0 gogotube.tv
 0.0.0.0 gohairygirls.com
 0.0.0.0 gohorsebetting.ag
-0.0.0.0 goigai18.xyz
-0.0.0.0 goigai24.xyz
 0.0.0.0 goigai2k.xyz
 0.0.0.0 goigai3m.xyz
 0.0.0.0 goigaicaocap.xyz
-0.0.0.0 goigaire.xyz
 0.0.0.0 goikieu.org
 0.0.0.0 goindian2.com
 0.0.0.0 goindianfuck.com
@@ -13991,6 +13989,7 @@
 0.0.0.0 h2porn.com
 0.0.0.0 h3bet.com
 0.0.0.0 h5.kmbb70.com
+0.0.0.0 h51.live
 0.0.0.0 haamsap-revived.tumblr.com
 0.0.0.0 haarige-angelegenheit.de
 0.0.0.0 haels.blogspot.com
@@ -15122,6 +15121,7 @@
 0.0.0.0 hot-yesmessenger.com
 0.0.0.0 hot18tube.com
 0.0.0.0 hot3dpics.com
+0.0.0.0 hot51.com
 0.0.0.0 hotadultstuff.com
 0.0.0.0 hotajp.com
 0.0.0.0 hotamateurmature.com
@@ -15227,6 +15227,7 @@
 0.0.0.0 hotlesbianporn.blogspot.com
 0.0.0.0 hotlesbianpornpics.com
 0.0.0.0 hotlinecsgo.com
+0.0.0.0 hotlive.in
 0.0.0.0 hotlive.win
 0.0.0.0 hotlive8.vip
 0.0.0.0 hotlivesexchat.com
@@ -30305,6 +30306,7 @@
 0.0.0.0 rusteensex.com
 0.0.0.0 rusvideos.porn
 0.0.0.0 ruvideos.net
+0.0.0.0 rw8800.com
 0.0.0.0 rwspanking.com
 0.0.0.0 rxxxi.com
 0.0.0.0 ryanconner.com
@@ -33444,6 +33446,7 @@
 0.0.0.0 sun13.win
 0.0.0.0 sun52.bid
 0.0.0.0 sun52.click
+0.0.0.0 sun52.fun
 0.0.0.0 sun52.tv
 0.0.0.0 sun6.win
 0.0.0.0 sun88.online
