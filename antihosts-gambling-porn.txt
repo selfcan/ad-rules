@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-08-08 21:37:59
+# DATE: 2023-08-14 21:37:39
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -482,6 +482,11 @@
 0.0.0.0 3549900.com
 0.0.0.0 35p-cheap-phone-sex.com
 0.0.0.0 3600sex.com
+0.0.0.0 360bet1.com
+0.0.0.0 360bet2.com
+0.0.0.0 360bet3.com
+0.0.0.0 360bet4.com
+0.0.0.0 360bet5.com
 0.0.0.0 3650022.com
 0.0.0.0 365pornmovs.com
 0.0.0.0 3676b.com
@@ -5852,6 +5857,8 @@
 0.0.0.0 bongacams.cam
 0.0.0.0 bongacams.xxx
 0.0.0.0 bongacams5.com
+0.0.0.0 bongbet1.com
+0.0.0.0 bongbet2.com
 0.0.0.0 bongda.thethaofb88.com
 0.0.0.0 bongda2022.info
 0.0.0.0 bongda80.com
@@ -8095,6 +8102,7 @@
 0.0.0.0 choigaigoi.com
 0.0.0.0 choigiaitri.net
 0.0.0.0 choiiwin79.fun
+0.0.0.0 choilawin.net
 0.0.0.0 choingay88.com
 0.0.0.0 choingayone88.win
 0.0.0.0 choisport.com
@@ -9127,6 +9135,7 @@
 0.0.0.0 cuntex.com
 0.0.0.0 cuntlick.net
 0.0.0.0 cuntporntube.com
+0.0.0.0 cuoc.choilawin.net
 0.0.0.0 cuoc88.com
 0.0.0.0 cuoc88.net
 0.0.0.0 cuoc8899.com
@@ -21021,6 +21030,7 @@
 0.0.0.0 klubxx.com
 0.0.0.0 km-pics.phncdn.com
 0.0.0.0 km.playmanclub.vin
+0.0.0.0 km.thethaob52.org
 0.0.0.0 km1888866b.com
 0.0.0.0 km238b.com
 0.0.0.0 km938b.com
@@ -36100,6 +36110,7 @@
 0.0.0.0 sun52.bid
 0.0.0.0 sun52.click
 0.0.0.0 sun52.fun
+0.0.0.0 sun52.live
 0.0.0.0 sun52.tv
 0.0.0.0 sun6.win
 0.0.0.0 sun88.online
@@ -36548,11 +36559,14 @@
 0.0.0.0 taiqqlive.xyz
 0.0.0.0 taiqqliveapp.com
 0.0.0.0 taisum.co
+0.0.0.0 taisun52.live
+0.0.0.0 taiuk88.net
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
 0.0.0.0 taiwanlottery.com.tw
 0.0.0.0 taiwin79.win
+0.0.0.0 taix1.club
 0.0.0.0 taixiusunwin.games
 0.0.0.0 tajikskoe.ru
 0.0.0.0 takarakuji-official.jp
@@ -37538,6 +37552,7 @@
 0.0.0.0 thethao.sin88.biz
 0.0.0.0 thethao188bet.com
 0.0.0.0 thethao80k.com
+0.0.0.0 thethaob52.org
 0.0.0.0 thethaobw.com
 0.0.0.0 thethaodabet.com
 0.0.0.0 thethaofb88.com
@@ -40700,6 +40715,7 @@
 0.0.0.0 wbet58.com
 0.0.0.0 wbet99.net
 0.0.0.0 wbfbyr.angelfire.com
+0.0.0.0 wc.taiuk88.net
 0.0.0.0 wcgtube.com
 0.0.0.0 wchat16.myfreecams.com
 0.0.0.0 wchat17.myfreecams.com
@@ -41537,6 +41553,7 @@
 0.0.0.0 www.3547711.com
 0.0.0.0 www.3549900.com
 0.0.0.0 www.3600sex.com
+0.0.0.0 www.360bet1.com
 0.0.0.0 www.3650011.com
 0.0.0.0 www.3650022.com
 0.0.0.0 www.365pornmovs.com
