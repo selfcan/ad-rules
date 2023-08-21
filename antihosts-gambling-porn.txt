@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-08-17 21:37:40
+# DATE: 2023-08-21 21:37:29
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -115,6 +115,7 @@
 0.0.0.0 11wickets.com
 0.0.0.0 11zalo.com
 0.0.0.0 120galleries.com
+0.0.0.0 12388.club
 0.0.0.0 123avalon.tumblr.com
 0.0.0.0 123b.bet
 0.0.0.0 123b.com
@@ -3505,6 +3506,10 @@
 0.0.0.0 api.vnq8.net
 0.0.0.0 api.vx88.com
 0.0.0.0 api2-gateway.go88.com
+0.0.0.0 api4.hit1.co
+0.0.0.0 api4.taitx1.club
+0.0.0.0 api6.hit1.co
+0.0.0.0 api6.taitx1.club
 0.0.0.0 apicmsdl.loc89.fun
 0.0.0.0 apina.biz
 0.0.0.0 apinaporn.com
@@ -4332,6 +4337,7 @@
 0.0.0.0 b52.win
 0.0.0.0 b52d.club
 0.0.0.0 b52k.club
+0.0.0.0 b52m.club
 0.0.0.0 b52vn.org
 0.0.0.0 b88ag.com
 0.0.0.0 b89.bet
@@ -9142,6 +9148,7 @@
 0.0.0.0 cuoc88.net
 0.0.0.0 cuoc8899.com
 0.0.0.0 cuoc8live.com
+0.0.0.0 cuocb52.me
 0.0.0.0 cuocba.com
 0.0.0.0 cuocbanh88.com
 0.0.0.0 cuocbanh88.net
@@ -14642,6 +14649,7 @@
 0.0.0.0 go88s.tv
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
+0.0.0.0 go88x.club
 0.0.0.0 goal123.com
 0.0.0.0 goal68.com
 0.0.0.0 goal68.net
@@ -16026,6 +16034,7 @@
 0.0.0.0 hisslave.tumblr.com
 0.0.0.0 historietasperversas.blogspot.com
 0.0.0.0 hit1.club
+0.0.0.0 hit1.co
 0.0.0.0 hit32.club
 0.0.0.0 hit68.net
 0.0.0.0 hitahottie.com
@@ -16068,6 +16077,7 @@
 0.0.0.0 hnntube.com
 0.0.0.0 hntanon.blogspot.com
 0.0.0.0 ho6ho.com
+0.0.0.0 hoahao.vip
 0.0.0.0 hobby.porn
 0.0.0.0 hobbyladies.net
 0.0.0.0 hobomovies.com
@@ -17942,6 +17952,7 @@
 0.0.0.0 ip-109-71-162-160.dditscdn.com
 0.0.0.0 ip-109-71-162-197.dditscdn.com
 0.0.0.0 ip-93-93-53-198.dditscdn.com
+0.0.0.0 ip.cuocb52.me
 0.0.0.0 ip106520231.ahcdn.com
 0.0.0.0 ip107182233.ahcdn.com
 0.0.0.0 ip107182235.ahcdn.com
@@ -29466,6 +29477,7 @@
 0.0.0.0 play-boom.com
 0.0.0.0 play-with-kitten.tumblr.com
 0.0.0.0 play.b52.win
+0.0.0.0 play.b52m.club
 0.0.0.0 play.b52vn.org
 0.0.0.0 play.bom52.club
 0.0.0.0 play.bum3.club
@@ -29476,6 +29488,7 @@
 0.0.0.0 play.go88.im
 0.0.0.0 play.go88.vip
 0.0.0.0 play.go88s.tv
+0.0.0.0 play.hit1.co
 0.0.0.0 play.hit68.net
 0.0.0.0 play.kichduc.to
 0.0.0.0 play.kphim.cc
@@ -32923,6 +32936,7 @@
 0.0.0.0 sangetods.net
 0.0.0.0 sankaku.plus
 0.0.0.0 sankakucomplex.com
+0.0.0.0 sanos.fun
 0.0.0.0 sansurukaldir.com
 0.0.0.0 santasporngirls.com
 0.0.0.0 santoinferninho.com
@@ -35112,6 +35126,7 @@
 0.0.0.0 sky88vao.club
 0.0.0.0 skybet.com
 0.0.0.0 skybook.ag
+0.0.0.0 skyclub.city
 0.0.0.0 skyhealth.top
 0.0.0.0 skyhighpremium.com
 0.0.0.0 skymanga.co
@@ -36563,8 +36578,10 @@
 0.0.0.0 taiqqlive.app
 0.0.0.0 taiqqlive.xyz
 0.0.0.0 taiqqliveapp.com
+0.0.0.0 taiskyclub.online
 0.0.0.0 taisum.co
 0.0.0.0 taisun52.live
+0.0.0.0 taitx1.club
 0.0.0.0 taiuk88.net
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
@@ -38907,6 +38924,7 @@
 0.0.0.0 tx.king96.net
 0.0.0.0 tx.socvip.com
 0.0.0.0 tx.socvip9.club
+0.0.0.0 tx1.vip
 0.0.0.0 txorraditas.blogspot.com
 0.0.0.0 txxx-com.ru
 0.0.0.0 txxx.ahcdn.com
