@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-08-22 21:37:29
+# DATE: 2023-08-29 21:37:31
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -7250,6 +7250,7 @@
 0.0.0.0 cdn.watchmygf.com
 0.0.0.0 cdn.watchmygf.me
 0.0.0.0 cdn.wild-babes.com
+0.0.0.0 cdn.winclub.net
 0.0.0.0 cdn.x1cdn.com
 0.0.0.0 cdn.xstas.biz
 0.0.0.0 cdn.xxxmovies.pro
@@ -29548,6 +29549,7 @@
 0.0.0.0 play.rikvip.tv
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.sum4.club
+0.0.0.0 play.sum5.club
 0.0.0.0 play.taib52.com
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
@@ -31540,6 +31542,7 @@
 0.0.0.0 pro-factory.com
 0.0.0.0 pro-ipcamera.ru
 0.0.0.0 pro.tizam.icu
+0.0.0.0 pro.vuigiaitri.org
 0.0.0.0 proasianporn.com
 0.0.0.0 problackporn.com
 0.0.0.0 prod.bwingmkt1.com
@@ -33121,6 +33124,7 @@
 0.0.0.0 scumshardcorepornvideos.blogspot.com
 0.0.0.0 sdc.com
 0.0.0.0 sdfasdf.vangangelt.info
+0.0.0.0 sdjlbg.xyz
 0.0.0.0 sdk.a79h.cn
 0.0.0.0 se.1cam.webcam
 0.0.0.0 se.bimbolive.com
@@ -36190,6 +36194,7 @@
 0.0.0.0 sukkisukki.com
 0.0.0.0 sultanswomen.com
 0.0.0.0 sum4.club
+0.0.0.0 sum5.club
 0.0.0.0 summerechoes.blogspot.com
 0.0.0.0 summertimesaga.com
 0.0.0.0 sumomat.blogspot.com
@@ -36654,7 +36659,9 @@
 0.0.0.0 taiqqlive.xyz
 0.0.0.0 taiqqliveapp.com
 0.0.0.0 taiskyclub.online
+0.0.0.0 taisum.ac
 0.0.0.0 taisum.co
+0.0.0.0 taisum.io
 0.0.0.0 taisun52.live
 0.0.0.0 taitx1.club
 0.0.0.0 taiuk88.net
@@ -40369,6 +40376,7 @@
 0.0.0.0 vn.viet69.chat
 0.0.0.0 vn.vlxxtube.cc
 0.0.0.0 vn.vndbetway.com
+0.0.0.0 vn123.me
 0.0.0.0 vn138.net
 0.0.0.0 vn138casino.com
 0.0.0.0 vn138d.com
@@ -40584,6 +40592,7 @@
 0.0.0.0 vuicungk8.com
 0.0.0.0 vuighe.net
 0.0.0.0 vuigiaitri.online
+0.0.0.0 vuigiaitri.org
 0.0.0.0 vuioirq.angelfire.com
 0.0.0.0 vuisex.net
 0.0.0.0 vulcanhentai.org
@@ -40828,6 +40837,7 @@
 0.0.0.0 wbet99.net
 0.0.0.0 wbfbyr.angelfire.com
 0.0.0.0 wc.taiuk88.net
+0.0.0.0 wcdn.sdjlbg.xyz
 0.0.0.0 wcgtube.com
 0.0.0.0 wchat16.myfreecams.com
 0.0.0.0 wchat17.myfreecams.com
@@ -41246,6 +41256,7 @@
 0.0.0.0 winbet99.co
 0.0.0.0 winbet999.info
 0.0.0.0 winbetaffiliates.bg
+0.0.0.0 winclub.net
 0.0.0.0 windelzofe.tumblr.com
 0.0.0.0 winderland.ru
 0.0.0.0 winjp2.comapatecoman.gob.mx
@@ -56736,6 +56747,7 @@
 0.0.0.0 www.vlxx.casa
 0.0.0.0 www.vlxx.sex
 0.0.0.0 www.vlxx.tv
+0.0.0.0 www.vn123.me
 0.0.0.0 www.vn138138.com
 0.0.0.0 www.vn138d.com
 0.0.0.0 www.vn138viet.com
@@ -57064,6 +57076,7 @@
 0.0.0.0 www.win29.com
 0.0.0.0 www.win79.vip
 0.0.0.0 www.win999.vip
+0.0.0.0 www.winclub.net
 0.0.0.0 www.winkbj02.com
 0.0.0.0 www.winmasters.com
 0.0.0.0 www.winner.co.uk
