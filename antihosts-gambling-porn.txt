@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-09-07 21:37:37
+# DATE: 2023-09-08 21:37:27
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1061,8 +1061,6 @@
 0.0.0.0 9xlove.xyz
 0.0.0.0 9xlust.in
 0.0.0.0 9xvideo.net
-0.0.0.0 Ehentai.to
-0.0.0.0 Nhentai.to
 0.0.0.0 a-adult-porn.blogspot.com
 0.0.0.0 a-angel.skyblog.com
 0.0.0.0 a-first-time-anal-sex.blogspot.com
@@ -3644,13 +3642,6 @@
 0.0.0.0 archangels.ws
 0.0.0.0 archangelschool.org
 0.0.0.0 archertube.com
-0.0.0.0 archive.ph/RHJht
-0.0.0.0 archive.ph/gKMcR
-0.0.0.0 archive.ph/goUZE
-0.0.0.0 archive.ph/nWwIO
-0.0.0.0 archive.ph/tYeYc
-0.0.0.0 archive.vn/6hOf5
-0.0.0.0 archive.vn/KJxo1
 0.0.0.0 archiveofsins.com
 0.0.0.0 archivexxx.xyz
 0.0.0.0 archontis.ru
@@ -8147,6 +8138,7 @@
 0.0.0.0 choigai.xyz
 0.0.0.0 choigaigoi.com
 0.0.0.0 choigiaitri.net
+0.0.0.0 choihitclub.run
 0.0.0.0 choiiwin79.fun
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
@@ -10761,6 +10753,7 @@
 0.0.0.0 egthis.tumblr.com
 0.0.0.0 egyfilm2.blogspot.com
 0.0.0.0 egysex.net
+0.0.0.0 ehentai.to
 0.0.0.0 ehentai.wiki
 0.0.0.0 ehentai.xxx
 0.0.0.0 ehgt.org
@@ -11092,7 +11085,6 @@
 0.0.0.0 equine.gq
 0.0.0.0 era-platform.eu
 0.0.0.0 eraputa.blogspot.com
-0.0.0.0 erenoiba.fun/
 0.0.0.0 eretroporn.com
 0.0.0.0 erett.sex.hu
 0.0.0.0 erett.szex.hu
@@ -11668,7 +11660,6 @@
 0.0.0.0 exquisiteangelz.com
 0.0.0.0 exquisiteslave.com
 0.0.0.0 exsentrik.tumblr.com
-0.0.0.0 exsite.pl/erotyka-18
 0.0.0.0 extasycams.com
 0.0.0.0 exteriorexpertsofvirginia.com
 0.0.0.0 extra-porno.cz
@@ -11903,11 +11894,6 @@
 0.0.0.0 fantasyhd.com
 0.0.0.0 fantasywebcams.com
 0.0.0.0 fap-nation-com.ru
-0.0.0.0 fap-nation.com/dating-my-daughter
-0.0.0.0 fap-nation.com/incest-adventure
-0.0.0.0 fap-nation.com/lust-and-power
-0.0.0.0 fap-nation.com/rack-2
-0.0.0.0 fap-nation.com/snow-daze-the-music-of-winter
 0.0.0.0 fap.bar
 0.0.0.0 fap.com
 0.0.0.0 fap.cool
@@ -13304,7 +13290,6 @@
 0.0.0.0 freexxxland.al
 0.0.0.0 freexxxmovies.biz
 0.0.0.0 freexxxpages.net
-0.0.0.0 freexxxporn.fun/
 0.0.0.0 freexxxporn.org
 0.0.0.0 freexxxteeny.com
 0.0.0.0 freexxxtv.online
@@ -13598,7 +13583,6 @@
 0.0.0.0 funeral-belle.tumblr.com
 0.0.0.0 funk8th888.com
 0.0.0.0 funkeln.eu
-0.0.0.0 funkeln.eu/tag
 0.0.0.0 funlist123.com
 0.0.0.0 funmovies.at
 0.0.0.0 funmwzj.net
@@ -16097,6 +16081,7 @@
 0.0.0.0 hit1.club
 0.0.0.0 hit1.co
 0.0.0.0 hit32.club
+0.0.0.0 hit38.club
 0.0.0.0 hit68.net
 0.0.0.0 hitachihoes.com
 0.0.0.0 hitahottie.com
@@ -17948,7 +17933,6 @@
 0.0.0.0 innokenty69.tumblr.com
 0.0.0.0 inporn.com
 0.0.0.0 insane-day.com
-0.0.0.0 insane-day.com/
 0.0.0.0 insanecockbrothas.com
 0.0.0.0 insatiablemrw.blogspot.com
 0.0.0.0 insexwetrust.tumblr.com
@@ -21222,6 +21206,7 @@
 0.0.0.0 ktokto.mobi
 0.0.0.0 ktoviet.com
 0.0.0.0 ktovn.com
+0.0.0.0 ktv.bio
 0.0.0.0 ku11.io
 0.0.0.0 ku11.link
 0.0.0.0 ku11.me
@@ -22660,6 +22645,7 @@
 0.0.0.0 m.qq288.com
 0.0.0.0 m.qq8788viet.com
 0.0.0.0 m.red88.com
+0.0.0.0 m.s26bet01.com
 0.0.0.0 m.see.xxx
 0.0.0.0 m.serviporno.com
 0.0.0.0 m.sexhayvc.biz
@@ -22694,6 +22680,7 @@
 0.0.0.0 m.v9jbo.com
 0.0.0.0 m.v9jvn.com
 0.0.0.0 m.v9win.com
+0.0.0.0 m.vf678.com
 0.0.0.0 m.videosz.com
 0.0.0.0 m.viet69.chat
 0.0.0.0 m.viet69.tech
@@ -24598,7 +24585,6 @@
 0.0.0.0 mtrpr.com
 0.0.0.0 mtruyen18.com
 0.0.0.0 mu.anwap.tube
-0.0.0.0 mu.anwap.tube/films/r33
 0.0.0.0 mu88.uk
 0.0.0.0 mu88a.com
 0.0.0.0 mu88ads.com
@@ -24728,7 +24714,6 @@
 0.0.0.0 my3d.games
 0.0.0.0 my3dhentai.com
 0.0.0.0 my3dsex.com
-0.0.0.0 mySubs.cc
 0.0.0.0 myadultguide.net
 0.0.0.0 myallaccesspass.com
 0.0.0.0 myamateurgals.com
@@ -24926,6 +24911,7 @@
 0.0.0.0 mysportsbook.ag
 0.0.0.0 mystarlets.com
 0.0.0.0 mysublimation.blogspot.com
+0.0.0.0 mysubs.cc
 0.0.0.0 mysweetpea.tumblr.com
 0.0.0.0 myswing.club
 0.0.0.0 mytaboo.net
@@ -25025,7 +25011,6 @@
 0.0.0.0 naked.chiks.org
 0.0.0.0 naked.com
 0.0.0.0 naked.hu
-0.0.0.0 naked.picsvirgin.top/
 0.0.0.0 naked.xxxyoung.life
 0.0.0.0 nakedamateurmilf.com
 0.0.0.0 nakedarabgirls.pro
@@ -25108,17 +25093,14 @@
 0.0.0.0 nakedoldladies.net
 0.0.0.0 nakedonthestreets.com
 0.0.0.0 nakedparty.top
-0.0.0.0 nakedparty.top/
 0.0.0.0 nakedpics.ca
 0.0.0.0 nakedpics.fun
-0.0.0.0 nakedpicstop.top/
 0.0.0.0 nakedporn.top
 0.0.0.0 nakedpornphotos.com
 0.0.0.0 nakedpornpics.com
 0.0.0.0 nakedpornstarspics.com
 0.0.0.0 nakedpussygirls.net
 0.0.0.0 nakedpussyteen.fun
-0.0.0.0 nakedpussyteen.fun/
 0.0.0.0 nakedreel.com
 0.0.0.0 nakedrussianteen.com
 0.0.0.0 nakeds.club
@@ -25537,6 +25519,7 @@
 0.0.0.0 nhentai.io
 0.0.0.0 nhentai.net
 0.0.0.0 nhentai.pro
+0.0.0.0 nhentai.to
 0.0.0.0 nhentai.uk
 0.0.0.0 nhentai.website
 0.0.0.0 nhentai.xxx
@@ -25909,7 +25892,6 @@
 0.0.0.0 nudeandcute.com
 0.0.0.0 nudeandfresh.com
 0.0.0.0 nudeandhairy.com
-0.0.0.0 nudeangels.top/
 0.0.0.0 nudeartgallery.tumblr.com
 0.0.0.0 nudeartstars.com
 0.0.0.0 nudeasiangirls.net
@@ -29579,6 +29561,7 @@
 0.0.0.0 play.go88.vip
 0.0.0.0 play.go88s.tv
 0.0.0.0 play.hit1.co
+0.0.0.0 play.hit38.club
 0.0.0.0 play.hit68.net
 0.0.0.0 play.kichduc.to
 0.0.0.0 play.kphim.cc
@@ -30540,7 +30523,6 @@
 0.0.0.0 porno-wonder.com
 0.0.0.0 porno-xvideo.com
 0.0.0.0 porno-xxx.top
-0.0.0.0 porno-xxx.top/
 0.0.0.0 porno-young.ru
 0.0.0.0 porno.co.hu
 0.0.0.0 porno.fm
@@ -30585,7 +30567,6 @@
 0.0.0.0 pornoaer.me
 0.0.0.0 pornoaer.ru
 0.0.0.0 pornoaid.com
-0.0.0.0 pornoalfa.com/
 0.0.0.0 pornoamador.blog
 0.0.0.0 pornoamador.xxx
 0.0.0.0 pornoamateurlatino.net
@@ -30821,7 +30802,6 @@
 0.0.0.0 pornoman.pl
 0.0.0.0 pornomaneiro.com.br
 0.0.0.0 pornomania.org
-0.0.0.0 pornomania.org/
 0.0.0.0 pornomanoir.com
 0.0.0.0 pornomass.com
 0.0.0.0 pornomatura.it
@@ -31349,7 +31329,6 @@
 0.0.0.0 porzo.club
 0.0.0.0 porzo.com
 0.0.0.0 porzo.tv
-0.0.0.0 posefamily.com/
 0.0.0.0 poseparty.com
 0.0.0.0 poseyoung.com
 0.0.0.0 poshgay.com
@@ -32535,6 +32514,7 @@
 0.0.0.0 rexxx.com
 0.0.0.0 rexxx.org
 0.0.0.0 rf18.ru
+0.0.0.0 rg.choihitclub.run
 0.0.0.0 rgcsn.com
 0.0.0.0 rhdtube.com
 0.0.0.0 ribaysteak.ru
@@ -32919,6 +32899,7 @@
 0.0.0.0 s23.trafficdeposit.com
 0.0.0.0 s24.trafficdeposit.com
 0.0.0.0 s26bet.bet
+0.0.0.0 s26bet01.com
 0.0.0.0 s3.amateurs-gone-wild.com
 0.0.0.0 s3.erome.com
 0.0.0.0 s3.trafficdeposit.com
@@ -34801,7 +34782,6 @@
 0.0.0.0 sharpporn.com
 0.0.0.0 shavedjapanesegirl.com
 0.0.0.0 shavedpussys.click
-0.0.0.0 shavedpussys.click/
 0.0.0.0 shavkunovayb4a.tumblr.com
 0.0.0.0 shawnalenee.tv
 0.0.0.0 shawnslip.tumblr.com
@@ -34977,7 +34957,6 @@
 0.0.0.0 shitsniffer.blogspot.com
 0.0.0.0 shitting.jerkoffgalleries.com
 0.0.0.0 shlick.it
-0.0.0.0 shocking.picsvirgin.top/
 0.0.0.0 shockingmovies.com
 0.0.0.0 shockingteens.pro
 0.0.0.0 shockingteenspics.com
@@ -35448,7 +35427,6 @@
 0.0.0.0 socket.static.reallifecam.com
 0.0.0.0 soco88.com
 0.0.0.0 socoroas.net
-0.0.0.0 socutegirls.top/
 0.0.0.0 socvip.com
 0.0.0.0 socvip9.club
 0.0.0.0 socvl.net
@@ -37971,7 +37949,6 @@
 0.0.0.0 tinylittlevirgin.com
 0.0.0.0 tinynibbles.com
 0.0.0.0 tinynude.fun
-0.0.0.0 tinynude.fun/
 0.0.0.0 tinypussy.space
 0.0.0.0 tinypussypics.com
 0.0.0.0 tinyteen-x.pw
@@ -38337,7 +38314,6 @@
 0.0.0.0 totalexposure.com
 0.0.0.0 totalfucktube.com
 0.0.0.0 totalgals.com
-0.0.0.0 totallpuss.in/
 0.0.0.0 totally-naked-girls.com
 0.0.0.0 totallyfreecam.com
 0.0.0.0 totallynakedteens.com
@@ -39535,6 +39511,7 @@
 0.0.0.0 vf003.xyz
 0.0.0.0 vf234.com
 0.0.0.0 vf456.com
+0.0.0.0 vf678.com
 0.0.0.0 vfun88.com
 0.0.0.0 vg66.app
 0.0.0.0 vg66.com
@@ -48475,6 +48452,7 @@
 0.0.0.0 www.hawaiicasino.com
 0.0.0.0 www.hazehim.com
 0.0.0.0 www.hb-sprayer.com
+0.0.0.0 www.hb88031.com
 0.0.0.0 www.hb88032.com
 0.0.0.0 www.hb8864.com
 0.0.0.0 www.hb8887.com
@@ -58566,7 +58544,6 @@
 0.0.0.0 xhcdn.com
 0.0.0.0 xhcdn.goforporn.com
 0.0.0.0 xhdnude.com
-0.0.0.0 xhdnude.com/
 0.0.0.0 xhdporno.plus
 0.0.0.0 xhdx.me
 0.0.0.0 xhdx.xyz
@@ -59765,7 +59742,6 @@
 0.0.0.0 xxxsex.rocks
 0.0.0.0 xxxsex.rodeo
 0.0.0.0 xxxsex8.fun
-0.0.0.0 xxxsex8.fun/
 0.0.0.0 xxxsexa.com
 0.0.0.0 xxxsexanal.com
 0.0.0.0 xxxsexasian.com
@@ -60198,7 +60174,6 @@
 0.0.0.0 youngnudelesbians.com
 0.0.0.0 youngnudeteen.com
 0.0.0.0 youngnudism.eu
-0.0.0.0 youngnudism.eu/
 0.0.0.0 youngnudist.xyz
 0.0.0.0 youngpicssex.com
 0.0.0.0 youngporn-xxx.com
