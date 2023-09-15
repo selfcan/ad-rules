@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-09-08 21:37:27
+# DATE: 2023-09-15 21:37:30
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -116,6 +116,8 @@
 0.0.0.0 11zalo.com
 0.0.0.0 120galleries.com
 0.0.0.0 12388.club
+0.0.0.0 12388.store
+0.0.0.0 12388bet.co
 0.0.0.0 123avalon.tumblr.com
 0.0.0.0 123b.bet
 0.0.0.0 123b.com
@@ -899,6 +901,7 @@
 0.0.0.0 888betk8.net
 0.0.0.0 888bvn.vip
 0.0.0.0 888k8vn.com
+0.0.0.0 888loc.io
 0.0.0.0 888sport.com
 0.0.0.0 888thao.com
 0.0.0.0 889ae888.com
@@ -1349,6 +1352,7 @@
 0.0.0.0 ads.adxadserv.com
 0.0.0.0 ads.amateurmatch.com
 0.0.0.0 ads.chaturbate.com
+0.0.0.0 ads.choingayiwin.top
 0.0.0.0 ads.datinggold.com
 0.0.0.0 ads.doubleviking.com
 0.0.0.0 ads.eropower.de
@@ -7081,6 +7085,7 @@
 0.0.0.0 cdn.3dhentaix.com
 0.0.0.0 cdn.5kporn.com
 0.0.0.0 cdn.868vip.live
+0.0.0.0 cdn.888loc.io
 0.0.0.0 cdn.9hentai.com
 0.0.0.0 cdn.adme-net.com
 0.0.0.0 cdn.adult.xyz
@@ -8143,6 +8148,7 @@
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
 0.0.0.0 choingay88.com
+0.0.0.0 choingayiwin.top
 0.0.0.0 choingayone88.win
 0.0.0.0 choisport.com
 0.0.0.0 choisv88.live
@@ -12073,6 +12079,7 @@
 0.0.0.0 fb88up.com
 0.0.0.0 fb88v.com
 0.0.0.0 fb88viet.com
+0.0.0.0 fb88wow.com
 0.0.0.0 fb88xyz.com
 0.0.0.0 fb88you.com
 0.0.0.0 fb88zo.com
@@ -13990,6 +13997,7 @@
 0.0.0.0 game.taib52.com
 0.0.0.0 game.v99win.app
 0.0.0.0 game69.top
+0.0.0.0 game69club.win
 0.0.0.0 game789club.net
 0.0.0.0 game88.pro
 0.0.0.0 gameapi.w88.vin
@@ -22645,6 +22653,7 @@
 0.0.0.0 m.qq288.com
 0.0.0.0 m.qq8788viet.com
 0.0.0.0 m.red88.com
+0.0.0.0 m.rvbet005.com
 0.0.0.0 m.s26bet01.com
 0.0.0.0 m.see.xxx
 0.0.0.0 m.serviporno.com
@@ -32824,6 +32833,7 @@
 0.0.0.0 rustorrents.net
 0.0.0.0 rusvideos.porn
 0.0.0.0 ruvideos.net
+0.0.0.0 rvbet005.com
 0.0.0.0 rw8800.com
 0.0.0.0 rwspanking.com
 0.0.0.0 rxxxi.com
@@ -36664,6 +36674,7 @@
 0.0.0.0 taigenvip.club
 0.0.0.0 taigenvip88.club
 0.0.0.0 taigenvip88.com
+0.0.0.0 taigenvipios.fun
 0.0.0.0 taigo88vn.com
 0.0.0.0 taigo88vn.pro
 0.0.0.0 taihit.win
@@ -41500,6 +41511,8 @@
 0.0.0.0 www.11freeporn.blogspot.com
 0.0.0.0 www.11zalo.com
 0.0.0.0 www.120galleries.com
+0.0.0.0 www.12388.store
+0.0.0.0 www.12388bet.co
 0.0.0.0 www.123b.bet
 0.0.0.0 www.123b.com
 0.0.0.0 www.123b.org
@@ -41874,6 +41887,7 @@
 0.0.0.0 www.887ae888.com
 0.0.0.0 www.8886666.net
 0.0.0.0 www.888b.com
+0.0.0.0 www.888loc.io
 0.0.0.0 www.888sport.com
 0.0.0.0 www.889ae888.com
 0.0.0.0 www.88asia88.com
@@ -47189,6 +47203,7 @@
 0.0.0.0 www.fb88.link
 0.0.0.0 www.fb88aff.com
 0.0.0.0 www.fb88affok.com
+0.0.0.0 www.fb88affvn.com
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88cup.com
 0.0.0.0 www.fb88day.com
@@ -47200,6 +47215,7 @@
 0.0.0.0 www.fb88up.com
 0.0.0.0 www.fb88v.com
 0.0.0.0 www.fb88viet.com
+0.0.0.0 www.fb88wow.com
 0.0.0.0 www.fb88you.com
 0.0.0.0 www.fb88zo.com
 0.0.0.0 www.fb9.com
