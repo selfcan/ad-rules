@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-09-24 21:37:36
+# DATE: 2023-09-25 21:37:32
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -134,6 +134,7 @@
 0.0.0.0 123b88.com
 0.0.0.0 123bdly.com
 0.0.0.0 123bdy.com
+0.0.0.0 123bhh.com
 0.0.0.0 123gayporn.com
 0.0.0.0 123porn.com
 0.0.0.0 123sex.top
@@ -3428,6 +3429,7 @@
 0.0.0.0 api-stage3.pornhub.com
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
+0.0.0.0 api.123bhh.com
 0.0.0.0 api.22zalo.com
 0.0.0.0 api.338kbet.com
 0.0.0.0 api.33beta.com
@@ -6612,6 +6614,7 @@
 0.0.0.0 camelmedia.net
 0.0.0.0 camelstyle.net
 0.0.0.0 cameltoer.com
+0.0.0.0 camera.com
 0.0.0.0 cameraboys.com
 0.0.0.0 cameraboyscameraboys.com
 0.0.0.0 camerahot.com
@@ -10211,6 +10214,7 @@
 0.0.0.0 dk.rikkk.net
 0.0.0.0 dk.sex4k.cam
 0.0.0.0 dk.thangiwin.org
+0.0.0.0 dk.thethaouk88.org
 0.0.0.0 dk.topcc88.me
 0.0.0.0 dk.vaorikvip.net
 0.0.0.0 dk8.games
@@ -13313,7 +13317,6 @@
 0.0.0.0 freierporno.mobi
 0.0.0.0 freierporno.video
 0.0.0.0 freipornos.com
-0.0.0.0 freipornos.com0.0.1 
 0.0.0.0 french-twinks.com
 0.0.0.0 frenchp0rn.com
 0.0.0.0 frenchstockings.blogspot.com
@@ -15428,10 +15431,22 @@
 0.0.0.0 hayvl.pro
 0.0.0.0 hazehim.com
 0.0.0.0 hazicu.hothomefuck.com
+0.0.0.0 hb88.com
+0.0.0.0 hb88013.com
+0.0.0.0 hb88016.com
 0.0.0.0 hb88017.com
+0.0.0.0 hb88021.com
+0.0.0.0 hb88024.com
+0.0.0.0 hb88025.com
+0.0.0.0 hb88028.com
+0.0.0.0 hb88029.com
 0.0.0.0 hb88031.com
 0.0.0.0 hb88032.com
+0.0.0.0 hb88033.com
+0.0.0.0 hb88036.com
+0.0.0.0 hb88037.com
 0.0.0.0 hb88038.com
+0.0.0.0 hb88039.com
 0.0.0.0 hb8864.com
 0.0.0.0 hb8875.com
 0.0.0.0 hb8887.com
@@ -22448,6 +22463,7 @@
 0.0.0.0 luckyhumpers.com
 0.0.0.0 luckyjohnson.tumblr.com
 0.0.0.0 luckyland.co.uk
+0.0.0.0 luckylandslots.com
 0.0.0.0 luckylouis.com
 0.0.0.0 luckylucien.tumblr.com
 0.0.0.0 luckymeslots.com
@@ -24256,7 +24272,6 @@
 0.0.0.0 momsononly.com
 0.0.0.0 momsonpornincesthomesex.com
 0.0.0.0 momsonpornincestxxx.com
-0.0.0.0 momsontube.pro0.0.0.0
 0.0.0.0 momsp.com
 0.0.0.0 momspickup.com
 0.0.0.0 momspics.net
@@ -25415,6 +25430,7 @@
 0.0.0.0 new88.ai
 0.0.0.0 new88.love
 0.0.0.0 new88.tips
+0.0.0.0 new8803.com
 0.0.0.0 new8805.com
 0.0.0.0 new8808.vip
 0.0.0.0 new88111.com
@@ -30640,7 +30656,6 @@
 0.0.0.0 pornobrazzers.com
 0.0.0.0 pornobriz.com
 0.0.0.0 pornobrot.com
-0.0.0.0 pornobrot.com0.0.0.0
 0.0.0.0 pornobump.com
 0.0.0.0 pornocafajeste.com
 0.0.0.0 pornocaldo.it
@@ -37733,6 +37748,7 @@
 0.0.0.0 thethaodabet.com
 0.0.0.0 thethaofb88.com
 0.0.0.0 thethaofi88.com
+0.0.0.0 thethaouk88.org
 0.0.0.0 thethaovip.vip
 0.0.0.0 thethothub.com
 0.0.0.0 thetwinks.net
@@ -41560,6 +41576,7 @@
 0.0.0.0 www.123b.com
 0.0.0.0 www.123b.org
 0.0.0.0 www.123bdly.com
+0.0.0.0 www.123bhh.com
 0.0.0.0 www.123codez.fr
 0.0.0.0 www.123win.pro
 0.0.0.0 www.12b99.com
@@ -46480,6 +46497,7 @@
 0.0.0.0 www.dp-discretoprazer.blogspot.com
 0.0.0.0 www.dpaus.blogspot.com
 0.0.0.0 www.dpfanatics.com
+0.0.0.0 www.draftkings.com
 0.0.0.0 www.drago99.com
 0.0.0.0 www.dragonball-z-hentai.blogspot.com
 0.0.0.0 www.dragonhentai.net
@@ -46620,7 +46638,6 @@
 0.0.0.0 www.eccobet.com
 0.0.0.0 www.echte-ficktreffen.com
 0.0.0.0 www.echterporno.com
-0.0.0.0 www.echterporno.com0.0.0.0
 0.0.0.0 www.echtsexgeschichten.com
 0.0.0.0 www.eclbet02.com
 0.0.0.0 www.eclbet7.com
@@ -48515,6 +48532,7 @@
 0.0.0.0 www.hb88031.com
 0.0.0.0 www.hb88032.com
 0.0.0.0 www.hb88038.com
+0.0.0.0 www.hb88039.com
 0.0.0.0 www.hb8864.com
 0.0.0.0 www.hb8887.com
 0.0.0.0 www.hb88g.com
@@ -50661,6 +50679,7 @@
 0.0.0.0 www.mb.datingadzone.com
 0.0.0.0 www.mb.wendise.com
 0.0.0.0 www.mb88.bet
+0.0.0.0 www.mb88.com
 0.0.0.0 www.mbet.co.za
 0.0.0.0 www.mboe-tattoo.blogspot.com
 0.0.0.0 www.mbx88.com
@@ -54554,7 +54573,6 @@
 0.0.0.0 www.sexegypt.co
 0.0.0.0 www.sexei.net
 0.0.0.0 www.sexente.com
-0.0.0.0 www.sexente.com0.0.0.0
 0.0.0.0 www.sexetube.pro
 0.0.0.0 www.sexf8.com
 0.0.0.0 www.sexfans.org
@@ -56424,7 +56442,6 @@
 0.0.0.0 www.uicupid.net
 0.0.0.0 www.uiporn.com
 0.0.0.0 www.ujizz.xxx
-0.0.0.0 www.ujizz.xxx0.0.0.0
 0.0.0.0 www.ujizzcn.com
 0.0.0.0 www.uk-k8.com
 0.0.0.0 www.uk-tgirls.com
