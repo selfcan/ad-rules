@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-10-17 21:37:36
+# DATE: 2023-10-23 21:37:33
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -4360,7 +4360,6 @@
 0.0.0.0 aztek-element.ru
 0.0.0.0 azul-hermosa.ru
 0.0.0.0 azulsexy.blogspot.com
-0.0.0.0 azurefd.net
 0.0.0.0 azurezerohentai.blogspot.com
 0.0.0.0 azziana.com
 0.0.0.0 azzporn.com
@@ -44259,7 +44258,6 @@
 0.0.0.0 www.azpornvideos.com
 0.0.0.0 www.aztecaporno.com
 0.0.0.0 www.azulsexy.blogspot.com
-0.0.0.0 www.azurefd.net
 0.0.0.0 www.azurezerohentai.blogspot.com
 0.0.0.0 www.azzporn.com
 0.0.0.0 www.b-bets.com
